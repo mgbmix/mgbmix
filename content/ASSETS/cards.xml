@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+<set>
+  <name>D01</name>
+  <longname>Mondo Megabits: Drop 01 - FAKE TECH</longname>
+  <settype>Custom</settype>
+  <releasedate>2022-09-01</releasedate>
+</set>
+  </sets>
+  <cards>
+<card>
+    <name>Wireless Vaccine+-</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to your Think Tank.
+
+[Rapivax] When you activate this ability, place a vaccine counter on target creature.
+This card deals 25 damage to that creature for each vaccine counter.
+Unlimited use;
+15% chance of turning enemy 100% gay (flip a coin three times like an idiot with nothing better to do) Player may not calculate odds using anything other than a coin.
+
+[Bugelsil] When you activate this ability, place a vaccine counter on each creature an opponent controls with a vaccine counter.
+Deals no damage;
+One use only;
+Strange side effect: The high acidity of the Bugelsil vaccine causes all metal enemy Item cards to corrode and break (opponent must return them to bottom of his deck);  
+50/50% chance enemy card(s) become gay OR asexual (flip a coin).
+
+[Provaxtrin] When you activate this ability, place a vaccine counter on any number of active Creatures.
+Blocks HIV and HIV Ex Plus a for ten (10) turns;
+Can choose multiple targets for a dose but it is one-time use only;
+Lowers target INT by 2.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="1" picURL="https://images2.imgbox.com/52/0a/JQi8Ac2m_o.png">D01</set>
+</card>
+<card>
+    <name>DomeHomie Cortical Modem Chip</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing Creature card.
+
+[PermiTech] Equipped Creature becomes Fake Tech faction until end of turn. 
+Equipped creature receives 50 MindFuck DMG. 
+Until end of turn, if a Fake Tech faction card would deal damage to equipped Creature, it deals double that damage to equipped creature instead.
+
+/Paid Programming/ If equipped Creature has INT 3 or lower, that Creature cannot be used unless they are paired with a Product and/or Service We Do EnjoyTM card.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="2" picURL="https://images2.imgbox.com/45/6d/oC5P88R1_o.png">D01</set>
+</card>
+<card>
+    <name>ADDERALL Prescription</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card.
+
+[(Rail a Line)] The equipped creature may perform two actions in one turn;
+This ability costs that creature 50 HP.
++6 INT for 3 turns. This duration overwrites (does not stack) if used again before the end of three turns. 
+
+[(Drug War)] Place target creature an opponent controls on the bottom of its owner's deck. Usable once.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Drug</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="3" picURL="https://images2.imgbox.com/55/6f/bpmpPJmi_o.png">D01</set>
+</card>
+<card>
+    <name>Failed Crowdfunding</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Jack of All Trades, Master of None] Choose one of the following moves to use for Failed Crowdfunding. The item breaks after one (1) use:
+Opens can(s): Wow! +25 HP buff to Food Item.
+Makeshift chisel or hammer thing:  Deals 75 damage or fixes a small object that is not badly broken.
+Makeshift zip gun (or is it a USB stick?): Deal 50 DMG to target creature an opponent controls.  Sacrifice the creature equipped with Failed Crowdfunding.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Gimmick</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="4" picURL="https://images2.imgbox.com/f0/cf/HOJ0BktK_o.png">D01</set>
+</card>
+<card>
+    <name>Scientific Proof</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+
+[For Science!] Negate any attack or spell cast by an enemy Truther card.
+
+/New Evidence Sugggests.../ Only 1 Scientific Proof card may be in play at a time. 
+Whenever a player plays Scientific Proof, all other instances of the card must be shuffled into the owner's newsfeed.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Scam</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="5" picURL="https://images2.imgbox.com/b8/3e/znIfEY3M_o.png">D01</set>
+</card>
+<card>
+    <name>Cell Phone</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[DM That Girl You Shouldn't Talk To] Equipped creature receives -1000 HP;
+Target creature you control gains +150 maximum HP
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Food/Trash</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="6" picURL="https://images2.imgbox.com/92/eb/rMHeF9eQ_o.png">D01</set>
+</card>
+<card>
+    <name>Xbox Live Vision Camera (HACKED)</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing Creature card.
+
+/Selective Parasite/ Xbox Live Vision Camera (HACKED) needs a Fake Tech creature card to serve as a host.
+If the host card is destroyed, send both cards to discard.
+
+/Illuminating Penetration/ When this item is equipped on a creature, you are allowed to look at the Stowed and Look Hands of the equipped Creature's controller.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="7" picURL="https://images2.imgbox.com/66/12/r0fGdtt0_o.png">D01</set>
+</card>
+<card>
+    <name>Time Machine</name>
+  <text>Rarity: R4 Funding Cost: 1F
+
+This Buff enters play attached to a Creature card you control.
+When the buffed Creature leaves play, send this card to discard.
+
+[Predestined to Play] At some future point in the game you can pay this card's cost--you don't have to right this instant (don't forget).
+You actually can't pay the cost to play right now--it would create a time paradox. You need to wait several turns.
+Until you pay the cost to play, you cannot win the game.
+If you forget to pay the cost to play--even if you make it through the rest of the game, and your opponent forgets that you forgot to pay the cost to play, and both of you agree that you are the winner--if at any future date either of you remembers that you forgot to pay the cost to play, you will then retroactively be declared the loser. 
+
+[Clockmaster] Choose an effect from the buffed creature with a duration measured in turns.
+Roll a d6, call the result Clyde.
+You may make that effect last Clyde turns instead of its normal duration.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Buff</maintype>
+      <type>Buff - X-Factor</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R4" num="8" picURL="https://images2.imgbox.com/f0/b8/5UcqYUpA_o.png">D01</set>
+</card>
+<card>
+    <name>Startup Guy</name>
+    <text>Rarity: R2 Funding Cost: 3F
+
+HP: 250 STR: 2 INT: 5 FYT: 3 NRG: 3 SWG: 3 PSI: 5
+
+[Report User] Pick an enemy creature card to report.
+If creature is Whypeepo or D.U.D.E.: Fellas Rising faction, ban instantly (kill). All other creatures take 100 Snitching DMG.
+
+[Kickstarter] Flip coin;
+Heads, +700 HP, may distribute how you see fit.
+Tails, nothing.
+
+[Call the Cops] Force any creature with STR below 4 into hiding for two (2) turns. Usable once (crying wolf).
+
+(*Beware, if attacked with 'strobe light' Startup Guy will convulse for 25 turns.)
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Figurehead</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+      <pt>HP: 250 STR: 2 INT: 5 FYT: 3 NRG: 3 SWG: 3 PSI: 5</pt>
+      <HP>250</HP>
+      <STR>2</STR>
+      <INT>5</INT>
+      <FYT>3</FYT>
+      <NRG>3</NRG>
+      <SWG>3</SWG>
+      <PSI>5</PSI>
+    </prop>
+    <set rarity="R2" num="9" picURL="https://images2.imgbox.com/4e/8a/GXVoUYma_o.png">D01</set>
+</card>
+<card>
+    <name>Social Media Mogul's Beard</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Figurehead you control.
+
+[CEO's Wrath] Flip a coin--
+Heads: Target creature starts flying the new flag. Card enters your Stowed Hand (but is returned to owner when dead).
+Tails: The plan fails. Trolling and targeted ads have turned target creature into an extremist. +150 HP, +2 STR, +2 FYT buffs applied.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Relic</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="10" picURL="https://images2.imgbox.com/d0/db/bOhvP8pd_o.png">D01</set>
+</card>
+<card>
+    <name>Super Computer 1999</name>
+    <text>Rarity: R3 Funding Cost: 3F
+
+HP: 400 STR: 0 INT: 8 FYT: 3 NRG: 8 SWG: 4 PSI: 0
+
+[Dual Processors] When paired with another Fake Tech creature, gain a 2x DMG boost for tethered creature.
+
+[Fact Bomb] 75 DMG to all enemy creatures; +200 additional damage against Team RinkBean/The Hive cards.
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Lackey</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+      <pt>HP: 400 STR: 0 INT: 8 FYT: 3 NRG: 8 SWG: 4 PSI: 0</pt>
+      <HP>400</HP>
+      <STR>0</STR>
+      <INT>8</INT>
+      <FYT>3</FYT>
+      <NRG>8</NRG>
+      <SWG>4</SWG>
+      <PSI>0</PSI>
+    </prop> 
+    <set rarity="R3" num="11" picURL="https://images2.imgbox.com/83/48/fKXNzdLg_o.png">D01</set>
+</card>
+<card>
+    <name>The Algorithm</name>
+  <text>Rarity: R3 Funding Cost: 3F
+
+HP: 350 STR: 0 INT: 8 FYT: 2 NRG: 10 SWG: 2 PSI: 0
+
+[Alarming Suggestion] Opponent cannot cast Fake Tech Creature cards for two turns.
+
+[Incognito Mode] View 3 facedown enemy cards.
+
+[Target Audience] Target enemy creature card takes 200 cash DMG. You may target additional creatures by expanding the target audience at the Funding Cost of 1F per added target.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Figurehead</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+      <pt>HP: 350 STR: 0 INT: 8 FYT: 2 NRG: 10 SWG: 2 PSI: 0</pt>
+      <HP>350</HP>
+      <STR>0</STR>
+      <INT>8</INT>
+      <FYT>2</FYT>
+      <NRG>10</NRG>
+      <SWG>2</SWG>
+      <PSI>0</PSI>
+    </prop>
+    <set rarity="R3" num="12" picURL="https://images2.imgbox.com/12/bf/DI6LREDQ_o.png">D01</set>
+</card>
+<card>
+    <name>Imposter Moon</name>
+    <text>Rarity: R1 Funding Cost: 0F
+
+[Toil Dynamo] All friendly creatures' NRG increased by 3.
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Zone</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+    </prop>
+    <set rarity="R1" num="13" picURL="https://images2.imgbox.com/22/20/4ZsmDXBp_o.png">D01</set>
+</card>
+<card>
+    <name>AI Overlord</name>
+  <text>Rarity: R4 Funding Cost: 4F
+
+HP: 675 STR: 1 INT: 9 FYT: 1 NRG: 9 SWG: 4 PSI: 3
+
+[Mild Resentment] Discard one (1) card from your hand, then resurrect any discarded robot cards OR take control of opponent's robot cards.
+
+[Maximal Suffering] Target creature takes 175 DMG.
+
+/Mild Resentment v2.0/ Once a player plays AI Overlord, no other player may do so.
+
+[Quantum Predictive Analysis] Any move the opponent makes this turn, say "I predicted you'd do that so I already installed the perfect countermeasures." They cannot do any of their moves. Quexnert's CPU explodes when this is complete--remove AI Overlord from play.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Figurehead</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>4F</FundingCost>
+      <manacost>4F</manacost>
+      <pt>HP: 675 STR: 1 INT: 9 FYT: 1 NRG: 9 SWG: 4 PSI: 3</pt>
+      <HP>675</HP>
+      <STR>1</STR>
+      <INT>9</INT>
+      <FYT>1</FYT>
+      <NRG>9</NRG>
+      <SWG>4</SWG>
+      <PSI>3</PSI>
+  </prop>
+    <set rarity="R4" num="14" picURL="https://images2.imgbox.com/d2/73/CObPVcQx_o.png">D01</set>
+</card>
+<card>
+    <name>Blockchain Tech</name>
+  <text>Rarity: R4 Funding Cost: 1F
+
+When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.
+
+[Aren't You Glad It's Popular] -useless-
+
+[Aren't You Glad I Smoked Weed] -useless-
+
+[Aren't You Glad I'm a Racist] -useless-
+
+[Aren't You Glad I'm at Least as Smart or Possibly a Little Smarter than You] -useless-
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Plot Twist</maintype>
+      <type>Plot Twist - Paradigm Shift</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R4" num="15" picURL="https://images2.imgbox.com/2a/9a/XEgmDtFx_o.png">D01</set>
+</card>
+<card>
+    <name>Crapto Currency</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[50% Off] Enemy deals half DMG next attack.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Scam</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="16" picURL="https://images2.imgbox.com/be/01/z2TAB9Jn_o.png">D01</set>
+</card>
+<card>
+    <name>Blockchain Evangelist</name>
+  <text>Rarity: R4 Funding Cost: 4F
+
+HP: 325 STR: 2 INT: 5 FYT: 3 NRG: 2 SWG: 2 PSI: 4
+
+[It's the Future of Money] While Blockchain Evangelist is in play, at any point during your turn, any number of times, you may pay two (2) Bitcoin tokens to increase a creature's SWG by one (1).
+
+[It's the Future of Contracts] While this creature is alive, cost to play is reduced by 50% for all cards. You must activate this ability the turn you want to use it.
+
+[BitCoins Millionaire] If Blockchain Tech or Crapto Currency is played while this creature is in play, gain 50 Bitcoin tokens.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Figurehead</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>4F</FundingCost>
+      <manacost>4F</manacost>
+      <pt>HP: 325 STR: 2 INT: 5 FYT: 3 NRG: 2 SWG: 2 PSI: 4</pt>
+      <HP>325</HP>
+      <STR>2</STR>
+      <INT>5</INT>
+      <FYT>3</FYT>
+      <NRG>2</NRG>
+      <SWG>2</SWG>
+      <PSI>4</PSI>
+  </prop>
+    <set rarity="R4" num="17" picURL="https://images2.imgbox.com/9c/84/eRpN5m71_o.png">D01</set>
+</card>
+<card>
+    <name>Active Camo</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card.
+
+/Newly Found Freedom/ Sneak damage! 
+All attacks by Active Camo-equipped creature deal an additional 275 DMG (while cloaked).
+
+/Active Camo/ Enemy must flip a coin when attacking equipped creature. 
+If Tails, attack misses (no DMG).
+If Heads, attack lands.
+
+When hit, Active Camo Suit is disabled for one (1) turn. Equipped creature takes double DMG.
+
+[Whoopsie] Flip a coin:
+If Tails, nothing.
+If Heads, put equipped creature on the bottom of its owner's deck.
+</text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+</prop>
+    <set rarity="R5" num="18" picURL="https://images2.imgbox.com/e7/d0/MhJMR7GY_o.png">D01</set>
+</card>
+<card>
+    <name>Power Cell</name>
+    <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Creature you control.
+
+[RECHARGE] Use Power Cell to resurrect any spent electric item.
+Return that Item to play equipped to the Creature who used Power Cell.
+If recharged item is a weapon, it does an additional 125 DMG.
+Send this card to its owner's discard pile.
+    </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Ammo</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="19" picURL="https://images2.imgbox.com/05/f8/RNekfWyn_o.png">D01</set>
+</card>
+<card>
+    <name>GhostTec Goop Vial</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This card equips for a 1F cost to an opposing Creature card.
+
+[Goop Extraction] If equipped creature is a Ghost or Paranormal type card,  destroy it along with the GhostTecTM Goop Vial. 
+Convert the resulting explosion of ethereal energy into Ghost Food (heals 5 HP on friendly ghost or paranormal card of your choice).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Food/Trash</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="20" picURL="https://images2.imgbox.com/0e/f3/booWdXaQ_o.png">D01</set>
+</card>
+<card>
+    <name>GhostTec SpectraHub</name>
+  <text>Rarity: R2 Funding Cost: 1F
+
+This Buff enters play attached to a Creature card you control.
+When the buffed Creature leaves play, send this card to discard.
+
+REQUIRES: GhostTecTM Certification Card
+
+/Protective Seal/ While this card is on your field, opponent cannot play any Ghost or Paranormal type cards.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Buff</maintype>
+      <type>Buff - Enhancement</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R2" num="21" picURL="https://images2.imgbox.com/8c/75/rV7LVG5b_o.png">D01</set>
+</card>
+<card>
+    <name>GhostTec Certification Card</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[I'm an Expert] Convince a creature with INT below 6 that there's a little ghost inside their head that will kill them if they're not naked.
+Creature cannot equip any items or armor;
+-4 PSI.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="22" picURL="https://images2.imgbox.com/cd/cd/xwBMkCUg_o.png">D01</set>
+</card>
+<card>
+    <name>GhostTec HELLmet</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+REQUIRES: GhostTecTM Certification Card
+
+/Stay Out of My Head/ Fake Tech and Spirit attacks deal 1/3 DMG to equipped creature. 
+Immune to persuasion, gaslighting, trickery, hoaxes, and reason. 
+Additional 75 HP armor boost.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Armor</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="23" picURL="https://images2.imgbox.com/2b/42/NRtHlME7_o.png">D01</set>
+</card>
+<card>
+    <name>GhostTec OdorTizer</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+REQUIRES: GhostTecTM Certification Card
+
+/Ghosts Fart Too/ If this item is equipped to a creature, prevent the next revive your enemy attempts.
+
+Destroy GhostTec Odortizer after two (2) activations.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="24" picURL="https://images2.imgbox.com/e3/13/rpQZSucs_o.png">D01</set>
+</card>
+<card>
+    <name>Mars Teleport Sci Institute</name>
+  <text>Rarity: R3 Funding Cost: 0F
+
+When this card enters play, target creature is sent to the institute until this card leaves play. (That creature is considered not on the battlefield).
+When this card leaves play, return that creature to play under its owner's control.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Zone</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+  </prop>
+    <set rarity="R3" num="25" picURL="https://images2.imgbox.com/c8/8f/RipM6HTM_o.png">D01</set>
+</card>
+<card>
+    <name>Verbal Word Bullets</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Creature you control.
+
+/Verbal Wordcrime Terror Attack/ When Verbal Word Bullets attaches to a creature, that creature is busy until end of turn. For all subsequent attacks: place a -1 PSI marker (stackable) on target creature. SORRY!
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="26" picURL="https://images2.imgbox.com/ec/90/gWMxE7kI_o.png">D01</set>
+</card>
+<card>
+    <name>Understandroid</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+HP: 350 STR: 4 INT: 5 FYT: 2 NRG: 4 SWG: 3 PSI: 7
+
+/Non-Violent/ Understandroid cannot attack.
+
+[Let's. Talk. About, Your. CHILD-HOOD?] Target enemy Creature is distracted for two (2) turns. Distracted enemies take a bonus 25 Gotcha DMG when hit.
+
+[Have. You. Thought. About Why. You. Are. Be-ing. Violent.] Put target creature on the bottom of its owner's deck if its PSI stat is equal to or below 4.
+
+[E-lectric. Shock.] Deals 75 DMG to target Creature.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Footsoldier</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+      <pt>HP: 350 STR: 4 INT: 5 FYT: 2 NRG: 4 SWG: 3 PSI: 7</pt>
+      <HP>350</HP>
+      <STR>4</STR>
+      <INT>5</INT>
+      <FYT>2</FYT>
+      <NRG>4</NRG>
+      <SWG>3</SWG>
+      <PSI>7</PSI>
+    </prop>
+    <set rarity="R1" num="27" picURL="https://images2.imgbox.com/9b/af/6AjajjOq_o.png">D01</set>
+</card>
+<card>
+    <name>Internet of Thangs</name>
+  <text>Rarity: R2 Funding Cost: 1F
+
+When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.
+
+/Autonomous Registration/ When drawing new cards, you may choose to skip any that aren't Fake Tech cards. 
+Skipped cards are put into the discard pile. Draw a new card for each card discarded in this way. 
+This sequence may be repeated if Fake Tech cards are re-drawn.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Plot Twist</maintype>
+      <type>Plot Twist - Paradigm Shift</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R2" num="28" picURL="https://images2.imgbox.com/54/60/ai9l3B1h_o.png">D01</set>
+</card>
+<card>
+    <name>Roboid Mental Health Check</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Choose One (1)]
+1: Select any Male roboid in play, and exchange it with a Male roboid from your deck.
+2: Search target opponent's Newsfeed and Stowed Hand for a Female roboid and add it to your Stowed Hand.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Bailout</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="29" picURL="https://images2.imgbox.com/d8/b5/dAXFx6tp_o.png">D01</set>
+</card>
+<card>
+    <name>MyGirls AI-Generated Girlfriend Experience</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to Creature card you control with INT below 5.
+This Item equips for a 1F cost to an opposing Creature card equipped with other Chromeware or with NRG below 4.
+
+When this Item is equipped to a Creature, choose one of the following effects:
+/Convincing Enough/ Equipped Creature is granted a permanent happiness buff (raise STR by 3 points).
+/The MyGirls MyGirlfriend Widget/ Equipped Creature may not attack or defend. (abilities can be used)
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="30" picURL="https://images2.imgbox.com/37/a5/BbDV9aqc_o.png">D01</set>
+</card>
+<card>
+    <name>Life Hacks for Dummies</name>
+  <text>Rarity: R3 Funding Cost: 3F
+
+[Life Hacked] -useless-
+
+[The For Dummies App] -useless-
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Infomashun</maintype>
+      <type>Infomashun - Actually Useful</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+  </prop>
+    <set rarity="R3" num="31" picURL="https://images2.imgbox.com/94/be/ldSPYL5Q_o.png">D01</set>
+</card>
+<card>
+    <name>Intelligence Blockers</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing active Creature.
+
+[Metal Tuning Fork: Brain-Perfect] 
+* 75 DMG
+* Decreases enemy creature's INT by 7;
+* If creature's resulting INT is below 0, creature becomes frenzied (must attack or perform action on a randomly selected target every turn until destroyed).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Brick O' Brack</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="32" picURL="https://images2.imgbox.com/02/21/bWsu8HJ7_o.png">D01</set>
+</card>
+<card>
+    <name>HyperKush Bevlabs</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Creature.
+
+/Upcoming Product Pipeline/ This card comes into play with zero Product counters. You may pay 1F to add a Product counter to this card.
+
+Effects granted to equipped Creature depend on the number of Product counters:
+
+1 counter- BLINK190.000: Gives creature nightvision.
+2 counters- EtErne: SWG + 2.
+3 counters- New Theoretical Unnamed Low-Calorie Water Facsimile: STR + 4.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Product And/Or Service We Do Enjoy</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="33" picURL="https://images2.imgbox.com/f1/06/mg5tqULF_o.png">D01</set>
+</card>
+<card>
+    <name>Power Wand</name>
+    <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Creature.
+
+/Hufflepuff's Hex/ -useless-
+
+*Offering this wand to an enemy Rainbow Riot or The Hive creature will win them over to your Stowed Hand.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Brick O' Brack</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="34" picURL="https://images2.imgbox.com/36/c2/YygKVrVo_o.png">D01</set>
+</card>
+<card>
+    <name>Authentic World</name>
+  <text>Rarity: R1 Funding Cost: 0F
+
+/Authentic World/ When this card enters play, target enemy creature receives the following effects:
+-4 SWG
+50 Guilt DMG;
+Remove faction identity.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Realm</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+</prop>
+    <set rarity="R1" num="35" picURL="https://images2.imgbox.com/33/bd/Kmr3PqPY_o.png">D01</set>
+</card>
+<card>
+    <name>Shitfan</name>
+    <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card.
+
+[The Future Is Shitty] -1 SWG (stackable)
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Brick O' Brack</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="36" picURL="https://images2.imgbox.com/ae/39/MqpTdeJw_o.png">D01</set>
+</card>
+<card>
+    <name>Disarmer</name>
+    <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to an active Creature you control.
+
+[GIMME That!] Gain control of an item card from an opponent's battlefield.
+
+[Cop Tickler] Tickle a Thin Blue Whine creature;
++1 Friendship Merit, 200 Tickle DMG on enemy Cop;
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="37" picURL="https://images2.imgbox.com/e9/05/6WaXw1Mf_o.png">D01</set>
+</card>
+<card>
+    <name>Budslugs</name>
+    <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Weapon card in play.
+
+/Loaded Ammo/ Budslugs must be attached to a Weapon card (a firearm) before its ability can be used.
+
+[TomoGUNchi] Attached weapon fires twice; for this turn, multiply that Item's DMG by x2
+Flip a coin;
+If heads, damaged creature receives an additional 50 Burning DMG for two (2) turns;
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Ammo</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="38" picURL="https://images2.imgbox.com/0d/89/klZouyzD_o.png">D01</set>
+</card>
+<card>
+    <name>Artisanal Camo</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card.
+
+[Goin' Dark] If this card is equipped to the Figurehead in your Think Tank, that creature may take a bathroom break for 2 turns. They cannot be targeted, but they remain Seated while in the bathroom (Think Tank actions still occur).
+If this card is equipped to a creature on your frontline, you may steal an item from your foolish enemy. Gain control of target Item card on opponent's battlefield.
+
+Artisanal Camo breaks after two (2) uses.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="39" picURL="https://images2.imgbox.com/07/e4/4bOUM5vE_o.png">D01</set>
+</card>
+<card>
+    <name>A Magnet</name>
+  <text>Rarity: R6 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+*You may only use one of the following effects once.
+[Confiscator] You may steal one (1) metallic Item from an enemy.
+
+[Field of Interruption] Stun a metallic/robot creature for two (2) turns
+
+[Enhanced Anatomy] Get hard/erect for ten (10) turns.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Crafting Material</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R6" num="40" picURL="https://images2.imgbox.com/2d/57/UlvfUmFS_o.png">D01</set>
+</card>
+<card>
+    <name>Cold-Blooded EVA Suit</name>
+  <text>Rarity: R6 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+All the benefits of a traditional EVA Suit, but you're also invisible to robots and fireproof. Jetpack sold separately. Comes with an internal rebreather with a large supply of oxygen. Jetpack sold separately, stop asking!
+
+/Space Suit/ Equipped creature can move in space with no depressurization debuffs. Helmet completely conceals face. 
+No other Armor can be worn.
+
+/Heat-Dispersing Anti-bac Mesh/ Equipped creature is fireproof/coldproof, thermally undetectable, and untargetable by robots, cameras, turret systems, the autistic, and heat-seeking missiles. 
+AI-controlled weapons have a 50% chance to miss.
+
+[Cold Blooded] Equipped creature immune to heat-seeking attacks, computer targeting, etc., etc. +350 HP buff in lieu of armor bonus (it's squishy) and creature cannot be burned or frozen. 
++6 SWG, this suit looks really sick.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Armor</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R6" num="41" picURL="https://images2.imgbox.com/65/80/rALZAiUd_o.png">D01</set>
+</card>
+<card>
+    <name>Mannitol Nanomachine Injector</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+/MANN-I-TOTALED/ Equipped creature takes damage as usual but also stores that damage in the balls as Nuts DMG. Keep track of your creature's Nuts DMG.
+
+[MANNITOL RELEASE] Equipped creature releases all stored Nuts DMG and deals it to target creature an opponent controls.
+Equipped creature cannot fire back DMG if it has stored a lethal amount of damage (compared to maximum HP). Destroy the equipped creature. 
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="42" picURL="https://images2.imgbox.com/b8/86/2lfAxTpO_o.png">D01</set>
+</card>
+<card>
+    <name>The Pursuit of Knowledge</name>
+  <text>Rarity: R5 Funding Cost: 0F/4F
+
+[R'n'D Hall Pass] Search your deck for two weapons and put them into play. You may equip two weapons you control.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Challenge</maintype>
+      <type>Challenge - Tutorial Mission</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>0F/4F</FundingCost>
+      <manacost>0F/4F</manacost>
+  </prop>
+    <set rarity="R5" num="43" picURL="https://images2.imgbox.com/f9/e5/CmMrdqxS_o.png">D01</set>
+</card>
+<card>
+    <name>The Living House</name>
+  <text>Rarity: R2 Funding Cost: 0F
+
+[Jail Team] All Fake Tech creatures take 25% DMG. Lasts five (5) turns.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Real Estate</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+</prop>
+    <set rarity="R2" num="44" picURL="https://images2.imgbox.com/c0/0d/jw0LmpSv_o.png">D01</set>
+</card>
+<card>
+    <name>Skillbo Bowlins (Quad-Ought Gauge)</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Oi Yeh Were Pictured at 'n Event Wiffout a Mask] 475 DMG; 50 DMG blowback to user.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="45" picURL="https://images2.imgbox.com/57/0c/moZI7inz_o.png">D01</set>
+</card>
+<card>
+    <name>Guess What LOL</name>
+  <text>Rarity: R6 Funding Cost: 5F
+
+[GUESS WHAT?: Paradigm Shift] I can't believe it.
+BQQM. +1 Globehead Revelation to enemy creature card;
+Target stunned for three (3) turns. You're telling me the sky is actually a bubble and space is made of water?
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Infomashun</maintype>
+      <type>Infomashun - Cosmology</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>5F</FundingCost>
+      <manacost>5F</manacost>
+  </prop>
+    <set rarity="R6" num="46" picURL="https://images2.imgbox.com/b1/2a/YXnKRVKT_o.png">D01</set>
+</card>
+<card>
+    <name>Does Not Exist!</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Private Video] When you activate this card, play a creature card face-down.
+
+/Notifications On/ The face-down creature is unaffected by summoning sickness. You may use its attacks/abilities normally.
+
+/Aaand It's Gone/ Whenever you use the face-down card (attacks or abilities), your opponent may guess what card it is. 
+If your opponent guesses correctly, destroy the creature.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Ability</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="47" picURL="https://images2.imgbox.com/a1/3f/LZhgOQiS_o.png">D01</set>
+</card>
+<card>
+    <name>Cyber Optic Facemask</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+Requires empty face slot.
+
+[FAKE.TECH//REAL.LIFE] Equip the Cyber Optic Facemask.
++25 Armor until end of turn. Deflect all AIRSOFT;
+Ability to crash airplanes with face laser;
+Ability to stun target creature for one (1) turn with 75,000 lumen LED SWAT strober;
++3 SWG until end of turn.
+</text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Armor</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="48" picURL="https://images2.imgbox.com/13/60/Wl12v8rE_o.png">D01</set>
+</card>
+<card>
+    <name>Bogus Freeze Gun</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+Useless item. Can only be sold for mana.
+
+[Sell Bogus Freeze Gun to Gullible Poverty-Stricken Kid] You lie to a kid with bruises all over him and a hunger belly-he gives you every credit he has for the Bogus Freeze Gun.
++15 wei -3 Hours of Sleep.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Brick O' Brack</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="49" picURL="https://images2.imgbox.com/0f/f1/Ywiyqgam_o.png">D01</set>
+</card>
+<card>
+    <name>Lushsux Dix</name>
+  <text>Rarity: R6 Funding Cost: 5F
+
+HP: 1100 STR: 6 INT: 9 FYT: 4 NRG: 3 SWG: 5 PSI: 2
+
+[Tokenize Haters] Usable once. Lushsux Dix can tokenize a 5 INT or lower creature, selling him on OpenSea for 250 HP. Tokenized creature is unable to act without paying hefty gas fees (1 extra funding cost per action).
+
+[Huff Hardcore] If you have the Spray Paint Can item, Lush can use it to get really, really (really) high - borfing down a full fat cap blast. Incredible buff.
+4x DMG for next attack; Lushsux Dix permanently loses 3 INT (stackable) and 100 Max HP.
+
+[No, U Sux] Bodyslam attack. 500 DMG to target, 50 Self DMG to Lushsux Dix because tailbone (coccyx) hit curb weirdly.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Nemesis</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>5F</FundingCost>
+      <manacost>5F</manacost>
+      <pt>HP: 1100 STR: 6 INT: 9 FYT: 4 NRG: 3 SWG: 5 PSI: 2</pt>
+      <HP>1100</HP>
+      <STR>6</STR>
+      <INT>9</INT>
+      <FYT>4</FYT>
+      <NRG>3</NRG>
+      <SWG>5</SWG>
+      <PSI>2</PSI>
+    </prop>
+    <set rarity="R6" num="50" picURL="https://images2.imgbox.com/90/05/iwNdhxVn_o.png">D01</set>
+</card>
+<card>
+    <name>Calcuusl</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Skill equips for a 1F cost to a Figurehead you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+[Number Flubber] Use advanced magi-matic Aljebra and Calcuusl to rig the numbers in your favor.
+Convince your foes that they counted wrong: reduce all DMG dealt to your creatures by 100 for the next three (3) turns; you may activate this once.
+Dispose of this card after the three (3) turns have passed. There is now a new math: Cralaclus.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Magic Arts</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="51" picURL="https://images2.imgbox.com/c3/05/V13JVkaL_o.png">D01</set>
+</card>
+<card>
+    <name>CAPTCHA Verification</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+CAPTCHA Verification may not be activated the turn it came into play.
+
+[V E R I F I C A T I O N] Flip a coin.
+If heads, the enemy succeed the CAPTCHA. That player may place a +1 counter on every stat for a robotic creature they control. That robot is now verified.
+If tails, the enemy failed the CAPTCHA. Skip that player's next turn, TIME WASTED. 
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Security Measure</type>
+      <Rarity>R</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="52" picURL="https://images2.imgbox.com/af/dd/LRPpdsXg_o.png">D01</set>
+</card>
+<card>
+    <name>NASNA Studios</name>
+  <text>Rarity: R3 Funding Cost: 0F
+
+/UberEats Pays You $55 Million for a Cutaway Ad on the NASNA Venus Surface Diamond Hunting Live Stream/ 
+When this Location enters play, roll a six-sided die. You gain Funding equal the the die result divided by two (rounded down).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Zone</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+  </prop>
+    <set rarity="R3" num="53" picURL="https://images2.imgbox.com/17/6e/iBT1Yolk_o.png">D01</set>
+</card>
+<card>
+    <name>Electric Chairman</name>
+  <text>Rarity: R2 Funding Cost: 3F
+
+HP: 700 STR: 2 INT: 8 FYT: 3 NRG: 6 SWG: 6 PSI: 7
+
+/Disabled/ Receive Double (2X) DMG from electric attacks. Weak to EMPs. Electric Chairman is classified as a robot (receives robot-specific DMG).
+
+[Y Combinator Massacre] 675 DMG to Ponzi Ca$ino cards.
+
+[I'm Gonna Need a Little Help Shitting] Electric Chairman takes no DMG from Shit Attacks. 
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Figurehead</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+      <pt>HP: 700 STR: 2 INT: 8 FYT: 3 NRG: 6 SWG: 6 PSI: 7</pt>
+      <HP>700</HP>
+      <STR>2</STR>
+      <INT>8</INT>
+      <FYT>3</FYT>
+      <NRG>6</NRG>
+      <SWG>6</SWG>
+      <PSI>7</PSI>
+    </prop>
+    <set rarity="R2" num="54" picURL="https://images2.imgbox.com/e9/be/8n8Am2vG_o.png">D01</set>
+</card>
+<card>
+    <name>Rogue Implant</name>
+    <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing Creature card.
+
+/Invasive Implant/ This Item cannot be moved to another creature once equipped.
+
+[Rogue Implant] I- can't br-breathe! 
+Kill any Fake Tech or Tantillo Systems creature instantly. When this ability is used, destroy Rogue Implant.
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+    </prop>
+    <set rarity="R2" num="55" picURL="https://images2.imgbox.com/0b/4c/cdm0X1ro_o.png">D01</set> 
+</card>
+<card>
+    <name>20mm Hyperkinetic Rounds</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Weapon card you control.
+
+/Loaded Ammo/ 20mm Hyperkinetic Rounds must be attached to a Weapon card (a firearm) before its ability can be used.
+
+[Collateral-Clip That] Do I not have NVIDIA Highlights on?
+Load 20mm Hyperkinetic Rounds into any firearm item;
+Fire! Attack any two (2) creatures-the bullet goes right through them for 1000 DMG each;
+20mm Kyperkinetic Rounds-equipped firearm is broken and unrepairable (discard it). Operator takes 250 Sight DMG and 250 Deafness DMG (permanent ringing in ears, night blindness).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Ammo</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="56" picURL="https://images2.imgbox.com/6e/0a/CCQr1e9u_o.png">D01</set>
+</card>
+<card>
+    <name>Megamix</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Fake:///] Roll a six sided-die. 
+Target opponent loses Funding equal to half of that amount (rounded down), and you gain Funding equal to the Funding lost this way.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Scam</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="57" picURL="https://images2.imgbox.com/2f/3e/8AyJBkM6_o.png">D01</set>
+</card>
+<card>
+    <name>Lunar Drillbit</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[I'm Gonna SkullFuck Your Little Eye Socket With My SIlly Funny Space You, You're Fucked] 25 DMG;
+Permanently affect target's eyesight (curse/debuff), 50% chance of landing attacks (opponent must flip a coins when attacking with cursed creature).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="58" picURL="https://images2.imgbox.com/24/f5/es6I8KU7_o.png">D01</set>
+</card>
+<card>
+    <name>Research Element 151</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing Creature card.
+
+/The Glow/ Causes permanent radiation poisoning after equipped creature has it for one full turn. 
+Radiation poisoning causes 25 DMG per turn to afflicted biological creatures at end of turn. 
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Crafting Material</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="59" picURL="https://images2.imgbox.com/12/cb/72j1qZxb_o.png">D01</set>
+</card>
+<card>
+    <name>Utopia Scrupulous Automation</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.
+
+[Procedurally-Generated Housewives of Orange County] S18E119v4: Melissa Cleans House
+Stun all enemy Whypeepoo, The Hive and Team Pinkbean creatures for three (3) turns;
+Distribute Morsel food item to all friendlies. Each creature you control gains 25 HP.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Plot Twist</maintype>
+      <type>Plot Twist - Paradigm Shift</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="60" picURL="https://images2.imgbox.com/97/e4/cTMfZCC0_o.png">D01</set>
+</card>
+<card>
+    <name>Fingerprint DNA Backup</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+["Like"-New] There's definitely something new about you.
+The next time your Seated Figurehead would die, revive it with a max of 350 HP, and delete (destroy) Fingerprint DNA Backup card. 
+The creature remains Seated in your Think Tank.
+Revived creature cannot attack or use abilities.
+
+/System Security Breach/ When you use this card, opposing Tantillo Systems faction creatures may attempt blackhat domination on revived creature. 
+Opponent may roll one (1) six-sided die for every creature they control from the Tantillo Systems faction.
+If rolled result is a 5 or 6, revived creature enters the enemy's Stowed Hand.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Bailout</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="61" picURL="https://images2.imgbox.com/fd/13/GiOpdbku_o.png">D01</set>
+</card>
+<card>
+    <name>Internal Power Unit</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a biological/humanoid Creature card you control.
+
+/Invasive Implant/ This Item cannot be moved to another creature once equipped.
+    
+/Guaranteed Cancer/ Equipped creature dies after 30 turns.
+But it's worth it cuz they can wallrun and do flips.
+
+[Stark... Tony Stark] Must kick-start the nuclear engine- do 100 crunches and wait one (1) turn. This must be done before you can utilize the buffs.
+Increase STR to 8;
+Increase DMG dealt by 200;
+Susceptible to EMP and electric attacks--creature becomes 'robot' type.
+Weak Point: Any firearm critical hits cause instant death- BOOM!
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Chromeware</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="62" picURL="https://images2.imgbox.com/5e/05/zbuOsNdu_o.png">D01</set>
+</card>
+<card>
+    <name>Restraint Gun</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Stay_Put] Target is fired upon and wrapped up in--plastic six pack rings and shibari rope--the restraint net. Small chance to strangle and suffocate enemy.
+Target creature is stunned for two (2) turns;
+Roll d6. If 6, creature has its neck tangled tightly into the net, and is promptly Choked to Death.
+Robots/non air-breathing creatures cannot be suffocated.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="63" picURL="https://images2.imgbox.com/8f/71/oNszOj35_o.png">D01</set>
+</card>
+<card>
+    <name>Polycosmic Manipulation</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Reversomorphification] Flip a coin.
+Heads: You get a buff that says "The next Discredit attack against your narrative fails. This buff is destroyed immediately after." OR you may reduce your opponent's narrative by one (1). This is a forced effect and not a Discredit attack itself.
+Tails: Both players put back one card from their Stowed Hand, shuffle.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Security Measure</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="64" picURL="https://images2.imgbox.com/a4/2c/P5ft0vLx_o.png">D01</set>
+</card>
+<card>
+    <name>Eye of Providence</name>
+  <text>Rarity: R4 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an active Fake Tech Creature you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+One (1) Fake Tech creature must be under your control to activate this card.
+
+[TSA Style] Enemy must reveal their Stowed Hand.
+Steal 2 non-creature Fake Tech cards, put them into your Stowed Hand.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Tech/Steam Arts</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R4" num="65" picURL="https://images2.imgbox.com/a6/a0/pL5fHUEC_o.png">D01</set>
+</card>
+<card>
+    <name>TIA Wave Projector</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[30 Ministrokes Per Second] Zap!
+-4 SWG;
+50 Piss DMG;
+75 Shit DMG;
+(125 total Piss and Shit DMG);
+Target loses ability to speak/think. Faction affiliation stripped--no longer receives faction-specific buffs;
+Target creature will be placed in nursing home four (4) turns after casting (you'll die here). Destroy the creature at the end of the four turns.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="66" picURL="https://images2.imgbox.com/e8/4e/9OgBt4cc_o.png">D01</set>
+</card>
+<card>
+    <name>Roborg the Robot Cyborg</name>
+  <text>Rarity: R3 Funding Cost: 3F
+
+HP: 300 STR: 4 INT: 3 FYT: 2 NRG: 3 SWG: 1 PSI: 4
+
+/Strange Glitch/ Roborg can only use each ability once until all three have been used, then they refresh at the end of that turn.
+
+[Security Protocol C: Terminate] Roborg the Robot Cyborg identifies a threat and attacks.
+200 DMG. Electric shock attack. 2X DMG vs robot creatures.
+
+[Electric Shield: Deploy] Roborg deploys an impenetrable shield for himself and his two buddies.
+Nothing comes in or out, attack-wise, for two (2) turns;
+Enemies who attempt to melee attack a shielded creature take 200 DMG, big mistake.
+
+[Listen To Me I'm Still Ryan] It's only a glitch. Still creepy though.
+Stun yourself for one (1) turn.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Footsoldier</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+      <pt>HP: 300 STR: 4 INT: 3 FYT: 2 NRG: 3 SWG: 1 PSI: 4</pt>
+      <HP>300</HP>
+      <STR>4</STR>
+      <INT>3</INT>
+      <FYT>2</FYT>
+      <NRG>3</NRG>
+      <SWG>1</SWG>
+      <PSI>4</PSI>
+    </prop>
+    <set rarity="R3" num="67" picURL="https://images2.imgbox.com/5a/2f/TiNjdFKh_o.png">D01</set>
+</card>
+<card>
+    <name>Armor of Self Confidence</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+Fragile to EMPs. If electricity is cut, this card is void.
+
+[Unwavering Resolve] Impervious to attacks for the next turn. Afterwards, a lesser buff persists.
+Take no DMG from mental attacks (Verbal Word Bullets, Assault Speech, psyop cards, etc.);
+When you have less than 200 HP, your next attack deals 2X DMG;
+Usable once.
+
+/Too Sure of Yourself/ Chance encounters do not go in your favor--too cocky, Lady Luck no likey.
+Lose all attempts on coin flips and die rolls while this card is in play. Don't tempt fate.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Armor</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="68" picURL="https://images2.imgbox.com/c5/d0/jxX8AltK_o.png">D01</set>
+</card>
+<card>
+    <name>Cialamin</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Go All night] A creature on Cialamin gains one (1) extra action per female creature currently in play (females themselves cannot take Cialamin but robots, androids, demons, etc., can). Useable once per night (turn).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Drug</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="69" picURL="https://images2.imgbox.com/10/7d/WvVcOQ21_o.png">D01</set>
+</card>
+<card>
+    <name>Liquid Physics</name>
+  <text>Rarity: R2 Funding Cost: 3F
+
+Oh yeah! This is the FUTURE right here.
+
+[Accasional Crash and Glitch] Disable an electronic card. If target is a creature, creature must be less than 7 STR otherwise its clock speed is too strong will successfully run the waterfall sim.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Infomashun</maintype>
+      <type>Infomashun - Cosmology</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+  </prop>
+    <set rarity="R2" num="70" picURL="https://images2.imgbox.com/66/16/ELMm1azQ_o.png">D01</set>
+</card>
+<card>
+    <name>Camera Loop</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an opposing Active Zone.
+Once equipped, this Skill cannot be moved.
+When the attached Active Zone's player loses, send this card to discard.
+
+[UNSUPERVISED] For the rest of this turn, electric/electro attacks and hacking you perform against targets in the attached Active Zone may be done twice; once normally and once clandestine. 
+You may choose new targets for the clandestine attacks, and they cannot be blocked or avoided.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teach/Steam Arts</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="71" picURL="https://images2.imgbox.com/c7/d6/a89Zjff0_o.png">D01</set>
+</card>
+<card>
+    <name>Gauss Rifle</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control with STR 7 or higher.
+
+Note: Despite the Gauss Rifle being an incredibly high-tech weapon, it is fully mechanical and features no electronic parts. CAPABLE OF FIRING IN SPACE.
+
+[Nuclear Armistice Loophole] Bust off.
+1600 DMG;
+Upon firing, 200 DMG to self and +6 SWG.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R5" num="72" picURL="https://images2.imgbox.com/7a/05/zjcq9JQy_o.png">D01</set>
+</card>
+<card>
+    <name>Busted Pharmaceutical Kiosk</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to your Active Zone. 
+Once equipped, this Item gains an HP value of 500.
+
+[ObubbaCare] Heal any creature from Gross Shit / BRICs / Rainbow R!ot factions - up to 150 HP per turn.
+Ends once destroyed- 
+Sensitive to electro attacks (2X DMG);
+5% chance to receive RARE HEROIN.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Gimmick</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="73" picURL="https://images2.imgbox.com/30/15/mDavc7Lr_o.png">D01</set>
+</card>
+<card>
+    <name>Phagic Rebel</name>
+  <text>Rarity: R6 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Free Harvey Oswald] Fire the Phagic Rebel at a biological creature;
+On next turn: affected creature has a chance to remove poison if they have a healer ally/poison removal item/PrEP;
+One turn later: creature loses eyesight (flip a coin to land attacks);
+After final (hospice) turn: creature drops dead of Dyna-AIDS.
+
+[Unlikely Restock] If you have a BRICS creature in play, you can buy another bullet for 200 HP (any friendly creature may make the sacrifice).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R6" num="74" picURL="https://images2.imgbox.com/3c/98/OLk3A7C9_o.png">D01</set>
+</card>
+<card>
+    <name>Monocular Supercomputer</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Peeping Tom] Inspect any cards from your opponent's hand, at your leisure (take your time). You may also take a peep at the top (5) cards from their deck.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="75" picURL="https://images2.imgbox.com/61/63/kv0QWu9G_o.png">D01</set>
+</card>
+<card>
+    <name>Missionate</name>
+  <text>Rarity: R2 Funding Cost: 1F
+
+This Buff enters play attached to a Creature card you control.
+When the buffed Creature leaves play, send this card to discard.
+
+/I Saved The World/ Buffed creature's SWG increases to 10,
+If an opposing Creature deals DMG to buffed Creature, send the opposing Creature to the bottom of its owner's newsfeed.
+Both effects last for two (2) turns.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Buff</maintype>
+      <type>Buff - Power-Up</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R2" num="76" picURL="https://images2.imgbox.com/33/5a/YKUN05PF_o.png">D01</set>
+</card>
+<card>
+    <name>Harp of Conflict</name>
+  <text>Rarity: R5 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Starships On Fire] 125 DMG each, for three (3) separate projectiles;
+All hit creatures burn for three (3) turns @ 50 DMG/turn.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R5</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+</prop>
+    <set rarity="R5" num="77" picURL="https://images2.imgbox.com/9e/25/JQMWx9BT_o.png">D01</set>
+</card>
+<card>
+    <name>Hedonic Treadmill</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Buff enters play attached to a Creature card you control.
+When the buffed Creature leaves play, send this card to discard.
+
+/Learned How To Not Give A Fuck About Anything, I'm All Fucked Up/ You may target a friendly or opposing Creature with this ability.
+Affected creature cannot be healed;
+Affected creature cannot suffer negative status effects (mental state, burning, poison, bleeding).
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Buff</maintype>
+      <type>Buff - Feather-in-Cap</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="78" picURL="https://images2.imgbox.com/e0/bd/P5IEeGSq_o.png">D01</set>
+</card>
+<card>
+    <name>GMS Gimme My Space Mk III Energy Projector</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+/Air_BAG/ Survive one (1) vehicular attack by using the GMS Mk. III like a retrorocket... Sacrifice this card after this effect activates.
+
+[GET THE HELL AWAY FROM ME!] A giant invisible force blasts forth, ragdolling your enemy thatta way.
+Knocks an enemy creature 30 feet away;
+Stunned for one (1) turn;
+75 DMG;
+Affected creature cannot melee attack you again.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R4" num="79" picURL="https://images2.imgbox.com/fa/e6/P2nsv0zD_o.png">D01</set>
+</card>
+<card>
+    <name>Jack Jill Vyco and DIN</name>
+  <text>Rarity: R4 Funding Cost: 4F
+
+HP: 1500 STR: 0 INT: 20 FYT: 0 NRG: 10 SWG: 12 PSI: 0
+
+/Bicameral_Mind/ When you play this card, it becomes two (2) creatures. You may use toilet paper and coins if you do not have multiple copies of this card and/or official Mondo Megabits stat tokens (they look like red and blue jellybeans-you should have some in your starter pack SWAG SABRESTACHE). Stack coins on top of toilet paper to represent stats. Each piece of toilet paper gets exactly half the stats shown on this card.
+
+/Lost in the Sauce/ When either Vyco (Jack) OR [D.I.N.] (Jill) uses a Drug item, they both enjoy the effects, and for double (2x) the duration.
+
+/Jack In, Plug Out/ If Vyco (Jack) and [D.I.N.] (Jill) do not both consume a Drug Item at least once every (5) turns, destroy them.
+
+[Bad, Together] Copper wire theft attack.
+300 DMG if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Nemesis</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>4F</FundingCost>
+      <manacost>4F</manacost>
+      <pt>HP: 1500 STR: 0 INT: 20 FYT: 0 NRG: 10 SWG: 12 PSI: 0</pt>
+      <HP>1500</HP>
+      <STR>0</STR>
+      <INT>20</INT>
+      <FYT>0</FYT>
+      <NRG>10</NRG>
+      <SWG>12</SWG>
+      <PSI>0</PSI>
+    </prop>
+    <set rarity="R4" num="80" picURL="https://images2.imgbox.com/36/5c/R5DjmNjx_o.png">D01</set>
+</card>
+<card>
+    <name>EcoTactic Green Weapons</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Mostly Peaceful Beatdown] Bust some heads, then toss the evidence over the side of the bridge with no littering guilt.
+Incapacitate any Whypeepo creature for two (2) turns;
+The Hive/Intelligentsia creatures cannot be harmed by The Thin Blue Whine creatures for ten (10) turns.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Ability</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="81" picURL="https://images2.imgbox.com/3e/3f/uHR9FM9i_o.png">D01</set>
+</card>
+<card>
+    <name>Time Cube</name>
+  <text>Rarity: R6 Funding Cost: 2F
+
+This Item equips for a 1F cost to your Think Tank.
+
+[The Golden_Hours] Cap all enemy creatures' INT at 4 maximum for two turns. 
+
+/Moonlit Opus/ If Time Cube is played while a Moon card is the active Location, you may revive three (3) creatures from your graveyard.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Gimmick</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R6" num="82" picURL="https://images2.imgbox.com/71/73/7514GmUY_o.png">D01</set>
+</card>
+<card>
+    <name>Temperature Regulator</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+This Item equips for a 1F cost to a Weapon card you control.
+
+/Pre-Heat/Dethaw/ Equipped creature is unaffected by burning or freezing effects.
+
+/TemPerfectTM/ Attach this item to an elemental weapon to extend burning or freezing duration by one (1) turn.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Crafting Material</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="83" picURL="https://images2.imgbox.com/92/27/hkePgqe1_o.png">D01</set>
+</card>
+<card>
+    <name>Hot Potato (Nanite Swarm)</name>
+  <text>Rarity: R4 Funding Cost: 2F
+
+This Item equips for a 1F cost to an opposing Creature card.
+This Item equips for a 1F cost to an opposing Item card.
+
+[Swarmed] The mercury cloud casts dread upon your enemies.
+775 DMG to robots.
+175 DMG to biological creatures.
+Instantly destroys weapons, armor, bomb shelters, metalic buildings, equipped electronic devices.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+</prop>
+    <set rarity="R4" num="84" picURL="https://images2.imgbox.com/c7/2f/HQiZWdMU_o.png">D01</set>
+</card>
+<card>
+    <name>Amplifier Circuit</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to an Item card you control.
+
+/Hotshot/ You wire the Amplifier Circuit into an electro device of your choice. Ex: 'Electric Rifle'.
+Doubles DMG/effect of electro item.
+
+/Overcharge/ Small chance to inflict immense self-DMG. Roll d6.
+=1: Lose 475 HP.
+=2: Lose 75 HP.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Crafting Material</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="85" picURL="https://images2.imgbox.com/9d/01/ojGaO7u8_o.png">D01</set>
+</card>
+<card>
+    <name>Cecil The Manic Bike Helmet</name>
+  <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+/SmartHat/ Equip Cecil. It's so cool, he has a name. He's my friend.
++75 HP armor buff;
+Immune to being instakilled/headshotted
+Max INT while helmet is equipped;
+Ability to removeview Sean White BMX sessions from the past and future.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Armor</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R2" num="86" picURL="https://images2.imgbox.com/f8/06/gjj2ETM9_o.png">D01</set>
+</card>
+<card>
+    <name>Panopticon You</name>
+    <text>Rarity: R2 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an opposing active Creature with INT below 7.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+[Viral Sensation] Remove the attached Creature from play and place them at the bottom of their owner's deck.
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Spy Arts</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+    </prop>
+    <set rarity="R2" num="87" picURL="https://images2.imgbox.com/a0/20/oIGIhBb9_o.png">D01</set>
+</card>
+<card>
+    <name>APPLY</name>
+  <text>Rarity: R2 Funding Cost: 3F
+
+[APPLY(c) Pressure] Your next two (2) stun attacks last twice as many turns.
+
+[Wireless Nausea Beam (LEGAL)] Can cause a creature to vomit up a food item used in prior turn. Cancel HP gains, inflict 25 Vomit DMG, -3 SWG (spit up all over your Helly Hansen). Use once.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Group</maintype>
+      <type>Group - Zaibatsu</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+  </prop>
+    <set rarity="R2" num="88" picURL="https://images2.imgbox.com/d7/4f/mb4HZ6xQ_o.png">D01</set>
+</card>
+<card>
+    <name>Nopalgarthian Emplacer</name>
+    <text>Rarity: R2 Funding Cost: 2F
+
+This Item equips for a 1F cost to a Creature card you control.
+
+[Parasitic Takeover] This is really gonna suck.
+Take control of one (1) opponent creature for three (3) turns;
+Puppet creature does 50% DMG.
+    </text>
+    <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Weapon</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+    </prop>
+    <set rarity="R2" num="89" picURL="https://images2.imgbox.com/88/9c/hVTuTtj8_o.png">D01</set>
+</card>
+<card>
+    <name>Teleport Tracker</name>
+  <text>Rarity: R1 Funding Cost: 2F
+
+This Item equips for a 1F cost to your Think Tank.
+
+[INSTANT TRANSMISSION] Retrieve any teleportation card from your deck. 
+If you control the Location card in play, you get a free dodge against one (1) incoming attack.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Item</maintype>
+      <type>Item - Tool</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R1" num="90" picURL="https://images2.imgbox.com/44/ee/00JD21vF_o.png">D01</set>
+</card>
+<card>
+    <name>Stealth Warp</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an opposing Creature.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+Stealth Warps deliver a small EMP upon activation, disabling comms and surveillance. This Skill may be attached to any opposing Creature regardless of protection or targeting limitations.
+
+[Stealth Warp] An otherwise unattackable card (shielded, in hiding, in a bunker, in witness protection, etc.--and even: divine, ephemeral, time-paradoxical, non-existent, traveling at light speed, and so on (i.e., for any reason)) can now be attacked once, 
+with a 4X crit DMG buff.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="91" picURL="https://images2.imgbox.com/9e/ee/bxfoxmyO_o.png">D01</set>
+</card>
+<card>
+    <name>Portal Formula</name>
+  <text>Rarity: R4 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an active Creature you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+/Double Warp/ When this card is attached to a creature, search your deck for two (2) copies of the same Creature card, reveal them, and put them into your Stowed Hand.
+If you cannot find two (2) copies of the card, this effect does nothing.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R4" num="92" picURL="https://images2.imgbox.com/52/32/sPgdgzlG_o.png">D01</set>
+</card>
+<card>
+    <name>Waypoint Database</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an active Creature you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+/I Hold the Keys/ Any teleportation moves/pranks are foiled by your omniscient failsafe. 
+Whenever an enemy creature attempts a warp, equipped creature deals 200 DMG to that creature and the effect of the warp fails.
+
+[What I Now Know] Any creatures who have teleported in the last five (5) turns have their dox dropped on PortalForums, leading to intense paranoia and reluctance to teleport again in the future. Incredible psychological debuff.
+-4 PSI
+-50 Max HP
+Those creatures can no longer attack Tantillo Systems creatures.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R3" num="93" picURL="https://images2.imgbox.com/1b/d7/1v2k3OIh_o.png">D01</set>
+</card>
+<card>
+    <name>Long Warp</name>
+  <text>Rarity: R1 Funding Cost: 1F
+
+This Skill equips for a 1F cost to a Creature you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+[Long Warp] Play one round of Rock-Paper-Scissors with your opponent. 
+If you win, receive 1x Teleportation Token, giving you a free instant dodge from an attack of your choice. 
+If you lose, discard the top card of your deck.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R1" num="94" picURL="https://images2.imgbox.com/eb/d0/qXRhqqtP_o.jpg">D01</set>
+</card>
+<card>
+    <name>Economy Warp</name>
+  <text>Rarity: R2 Funding Cost: 1F
+
+This Skill equips for a 1F cost to an active Creature you control.
+Once equipped, this Skill cannot be moved to another Creature.
+When the attached Creature leaves play, send this card to discard.
+
+/In a Flash/ When this card becomes attached to a creature, that creature gets 1 Teleportation Token for each electronic item in your possession. 
+Each Teleportation Token token can be spent as a free dodge against an incoming attack.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R2</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R2" num="95" picURL="https://images2.imgbox.com/de/e5/4Menhi6o_o.jpg">D01</set>
+</card>
+<card>
+    <name>Inscribe and Requite</name>
+  <text>Rarity: R3 Funding Cost: 1F
+
+This Skill equips for a 1F cost to your Think Tank.
+Once equipped, this Skill cannot be moved.
+
+/Selective Warp/ When you equip this card, search your deck for one (1) card, reveal it, then place it back into your deck and shuffle. 
+At any point in the game, you may sacrifice an Item card to retrieve your previously selected (teleported) card and move it to your Stowed Hand.
+
+/Defective Warp/ If this card is used while enemy has a Tantillo Systems creature in play, your teleport app is hacked, compromising your warp and leaving your atoms shredded and spliced with roach DNA.
+Instant death to a creature of enemy's choice.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Skill</maintype>
+      <type>Skill - Teleportation Arts</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>1F</FundingCost>
+      <manacost>1F</manacost>
+  </prop>
+    <set rarity="R" num="96" picURL="https://images2.imgbox.com/8a/ae/DYdUTK7B_o.jpg">D01</set>
+</card>
+<card>
+    <name>Planet B</name>
+  <text>Rarity: R4 Funding Cost: 0F
+
+[Liftoff] As soon as this card is drawn, the controller may put it into play. If they do, all cards with odd-numbered rarity rankings get launched into space (destroyed). 
+Each player may draw half of the number of cards lost. All players draw new cards. You wanted this. This is good.
+View enemy's newly drawn hand - choose two (2) cards to remove.
+
+[False Hope Hoax] Planet B is actually a projection on a giant dinner plate floating in space. There is no liftoff.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Location</maintype>
+      <type>Location - Realm</type>
+      <Rarity>R4</Rarity>
+      <FundingCost>0F</FundingCost>
+      <manacost>0F</manacost>
+</prop>
+    <set rarity="R4" num="97" picURL="https://images2.imgbox.com/b7/55/PZvktwkR_o.jpg">D01</set>
+</card>
+<card>
+    <name>Cardboard Robot</name>
+  <text>Rarity: R6 Funding Cost: 5F
+
+HP: 100 STR: 2 INT: 1 FYT: 2 NRG: 0 SWG: 3 PSI: 1
+
+If you have a Tantillo Systems creature in play, Cardboard Robot can be retrofitted to use weapon items - making him less of a bitch.
+
+*Cardboard Robot takes 3X DMG from fire attacks.
+*Cardboard Robot may seem like a bitch, but is actually pretty cool.
+*Cardboard Robot is low on battery
+
+Robo-Blast: Cardboard Robot unleashes a hailstorm of tiny paper balls out of his twin chainguns!
+200 x 0.25 DMG
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Creature</maintype>
+      <type>Creature - Pissant</type>
+      <Rarity>R6</Rarity>
+      <FundingCost>5F</FundingCost>
+      <manacost>5F</manacost>
+      <pt>HP: 100 STR: 2 INT: 1 FYT: 2 NRG: 0 SWG: 3 PSI: 1</pt>
+      <HP>100</HP>
+      <STR>2</STR>
+      <INT>1</INT>
+      <FYT>2</FYT>
+      <NRG>0</NRG>
+      <SWG>3</SWG>
+      <PSI>1</PSI>
+    </prop>
+    <set rarity="R6" num="98" picURL="https://images2.imgbox.com/7b/23/bnwDbAcQ_o.jpg">D01</set>
+</card>
+<card>
+    <name>Final Narrative</name>
+  <text>Rarity: R3 Funding Cost: 2F
+
+This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.
+After using its effect, send this card to your history.
+
+[Didn't Happen; Can't Prove It Did; Debunked] Choose one of the following effects.
+- Remove all DMG and status effects caused by last enemy turn.
+- If an opponent increased their Narrative Score last turn, decreased their Narrative Score by 2.
+- If your Narrative Score equals 4, you win the game.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Tactic</maintype>
+      <type>Tactic - Security Measure</type>
+      <Rarity>R3</Rarity>
+      <FundingCost>2F</FundingCost>
+      <manacost>2F</manacost>
+  </prop>
+    <set rarity="R3" num="99" picURL="https://images2.imgbox.com/f6/b5/xLZi3llo_o.jpg">D01</set>
+</card>
+<card>
+    <name>Fake Tech</name>
+  <text>Rarity: R1 Funding Cost: 3F
+
+[Looks Real to Me] All Fake Tech card effects gain one (1) extra turn to their duration.
+All attacks deal 75 add'l DMG.
+  </text>
+  <prop> 
+      <Faction>Fake Tech</Faction>
+      <maintype>Group</maintype>
+      <type>Group - Faction</type>
+      <Rarity>R1</Rarity>
+      <FundingCost>3F</FundingCost>
+      <manacost>3F</manacost>
+  </prop>
+    <set rarity="R1" num="100" picURL="https://images2.imgbox.com/76/e1/pSrScAeN_o.jpg">D01</set>
+</card>
+  </cards>
+</cockatrice_carddatabase>
