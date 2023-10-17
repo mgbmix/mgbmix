@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c294858de3b5d408",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f87d723b36163c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666d2512117d8429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03cf0e30ce99f31a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f72f2918474aadca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2ece2ead712933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c97abc3a267eb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef87ab15bd46a31e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11967a295344676c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c19c2d10069047fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ade29ff3f75b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2e6c7438ddf2f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "701b7a683391310e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d76aa864726aa634",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29f3fa192b69a8f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03cf0e30ce99f31a",
+  "lastOpenFiles": [
+    "PLAYTESTING/Official itch.io release.md",
+    "CARD TYPES/Card Types.md",
+    "PARTS OF A CARD/Subtype.md",
+    "PARTS OF A CARD/Card Type.md",
+    "INTRO TO MGBMIX/Mondo Megabits.md",
+    "index.md",
+    "LORE/Introduction.md",
+    "Additional Reading.md",
+    "GAME CONCEPTS/Summoning Sickness.md",
+    "GAME CONCEPTS/Attack.md",
+    "CREATURE RULES/INT.md",
+    "CREATURE RULES/HP.md",
+    "PLAYTESTING/Cockatrice.md",
+    "GAME ZONES/Location.md",
+    "CARD TYPES/Location.md",
+    "CARD TYPES/Skill.md",
+    "CARD TYPES/Item.md",
+    "GAME MECHANICS/Deploy.md",
+    "GAME CONCEPTS/Equip.md",
+    "CARD TYPES/Group.md",
+    "CARD TYPES/Buff.md",
+    "CARD TYPES/Creature.md",
+    "FACTIONS/Factions.md",
+    "CARD TYPES/Challenge.md",
+    "GAME CONCEPTS/Stow.md",
+    "GAME CONCEPTS/Proselytize.md",
+    "LORE",
+    "SITE REPOSITORY",
+    "ASSETS/cockatrice-mondo-pics-location.png",
+    "ASSETS/cockatrice-data-folder.png",
+    "ASSETS/Screenshot_2023-09-09_13-00-07.jpg",
+    "ASSETS/cockatrice-database-dialog.png",
+    "ASSETS/cockatrice-oracle-importer.png",
+    "ASSETS/cockatrice-first-boot.png",
+    "GAME MECHANICS",
+    "ASSETS/cockatrice-screen.png",
+    "FUNDING COSTS",
+    "ASSETS/cards.xml",
+    "SITE REPOSITORY/XML DUMPS",
+    "ASSETS/initialdeploymentboard.png",
+    "PARTS OF A CARD",
+    "ASSETS/cockatrice_logo.png",
+    "PLAYTESTING",
+    "HOW TO PLAY",
+    "GAME ZONES",
+    "ASSETS/autism-required.png"
+  ]
+}
