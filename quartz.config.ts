@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "mgbmix.github.io/mgbmix",
+    baseUrl: "www.mgbmix.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
