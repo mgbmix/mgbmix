@@ -36,7 +36,7 @@ Want to join the playtest group and offer feedback to the ruleset? Check out:
 
 More Quick Links:
 - [[Additional Reading]]
-- 
+- [[Website Changelog]]
 
 
 
