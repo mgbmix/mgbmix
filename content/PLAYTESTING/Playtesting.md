@@ -20,8 +20,6 @@ I definitely think Cockatrice is the best for the current state of the project, 
 ### Scope of Ruleset
 
 - [[Design Space]]
-- 
-
 
 
 ### Understanding the Ruleset
