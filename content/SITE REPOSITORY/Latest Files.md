@@ -3,7 +3,7 @@ The latest files for use with -mgbmix- ruleset.
 
 # XML File
 
-XML file: [[0.5]]
+XML file: [[0.6]]
 
 # Card Art
 
@@ -15,3 +15,8 @@ Card art currently only provided for Drop01.
 
 waiting on hosting decks until playtesting commences
 
+
+# Cockatrice Custom Theme
+Used to make Cockatrice look nicer and add the Mondo cardback.
+
+https://drive.google.com/drive/folders/1mkTavG7c0e5c7hLO-Isq1X-n1aRZ3mXt?usp=drive_link

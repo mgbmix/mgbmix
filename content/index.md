@@ -8,8 +8,8 @@ Welcome to the knowledge base for -mgbmix-, my custom ruleset for use with Mondo
 
 ![[mgbmix.png]]
 # **-mgbmix-**
-> [!tip] latest version: 0.5  
-> Get the XML file [[0.5|here]]!
+> [!tip] latest version: 0.6  
+> Get the XML file [[0.6|here]]!
 
 > [!success] Join the Discord server! https://discord.gg/WUhSYj8Y
 

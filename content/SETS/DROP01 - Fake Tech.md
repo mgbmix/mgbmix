@@ -15,7 +15,7 @@ Drop01 is represented in [[Cockatrice]] by the shorthand [[Sets|Set]] code D01.
 > [[Group]]: 2 cards  
 > [[Infomashun]]: 3 cards  
 > [[Item]]: 50 cards  
-> [[CARD TYPES/Location]]: 6 cards  
+> [[CARD TYPES/Location|Location]]: 6 cards  
 > [[Plot Twist]]: 3 cards  
 > [[Skill]]: 10 cards  
 > [[Tactic]]: 10 cards  

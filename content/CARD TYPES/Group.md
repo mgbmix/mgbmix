@@ -1,7 +1,7 @@
-Groups are a card type whose effects and benefits work well with certain Factions of cards.
+Groups are a card type whose effects and benefits work well with certain [[Factions]] of cards.
 
  > [!note] [[Funding Cost]]  
- > Groups cost [[3F]] to put into play.
+ > Groups cost [[3F]] to [[deploy]].
 
 > [!abstract] A Group card enters play in its controller’s [[Think Tank]] area.
  

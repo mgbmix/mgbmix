@@ -4,9 +4,6 @@ It is certainly a NFT project. It’s also a funny comedy project and a satire o
 
 -mgbmix- is a card game
 
-I love Mondo Megabits. I also want to play Mondo Megabits. My project attempts to 
-create a relatively approachable ruleset for play with Mondo Megabits cards. 
+I love Mondo Megabits. I also want to play Mondo Megabits. My project attempts to create a relatively approachable ruleset for play with Mondo Megabits cards. 
 
-These rules are nowhere perfect, but they’re a working foundation that I’m going to continue 
-improving as a personal project, regardless of the playability or finished state of the 
-official game. I hope many people try their hands at making fun rules out of this insanity.
+These rules are nowhere perfect, but they’re a working foundation that I’m going to continue improving as a personal project, regardless of the playability or finished state of the official game. I hope many people try their hands at making fun rules out of this insanity.

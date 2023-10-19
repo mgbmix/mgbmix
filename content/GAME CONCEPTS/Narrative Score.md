@@ -2,6 +2,8 @@ The Narrative Score is the ultimate gauge of a player’s progress in the game.
 
 It ranges from -5 to +5, with each extreme being instant defeat or victory.
 
+### Narrative Score Range
+
 -5: Your narrative is a conspiracy theory
 -4: Rogan-tier
 -3: Highly unlikely but still believed by anti-social types
@@ -13,6 +15,9 @@ It ranges from -5 to +5, with each extreme being instant defeat or victory.
 +3: Taught to kindergartners
 +4: Your narrative MUST be believed to hold a job or rent an apartment / car
 +5: Your narrative is a fundamental, underlying truth which cannot be escaped
+
+
+### Affecting Narrative Score
 
 > [!note] Gaining Narrative Score
 > To increase Narrative Score by +1, use the [[Think Tank]] Figurehead to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 

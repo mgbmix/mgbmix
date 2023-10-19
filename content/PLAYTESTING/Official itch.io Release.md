@@ -2,8 +2,8 @@
 The main Mondo Megabits dev team also release an official software to interact with the cards. 
 
 It's available for download at https://mondomegabits.itch.io/mondo-megabits
-It's developed by a guy I've seen go by Wes or wes337.
-
+It's developed by Wesley Moses or wes337
+https://github.com/wes337
 
 Some negatives that dissuaded me from using it for my ruleset project:
 

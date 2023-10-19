@@ -6,10 +6,11 @@ HOW TO SET UP [[COCKATRICE]]
 > [!note] Note for Linux users 
 > The website's installer might give you an outdated dependency error (it did for me). Instead, use the flatpak installer. I accessed the flatpak via my distro's Software Manager link with flathub.
 
-2. Download the [[latest files]] linked in the site's ⁠repository. There are currently two choices for download.
+2. Download the [[latest files]] linked in the site's ⁠repository. There are currently three choices for download.
 
 - The xml file will be posted uncompressed
 - The Images needed to be placed in Cockatrice will be linked to a Google Drive. You can view them and download a compressed folder containing them. 
+- The custom theme that improves Cockatrice's coloring and includes the Mondo cardback and mini-hand assets.
 
 Extract the files if needed.
 
@@ -50,12 +51,30 @@ NB: to navigate in a file explorer to folders that start with a period, set your
 
 ![[cockatrice-data-folder.png]]
 
+
+#### Section for Adding Card Art
+
 10. Additionally, you can add the Mondo Megabits card images if you downloaded the archive containing them. From that "base data directory" where you put the 'cards.xml' file, open the pics folder, then the CUSTOM folder, and copy into that directory the entire folder named "D01" from the Google Drive. This screenshot shows an example of where the "D01" folder containing all the images should be located.
 
 NB: Don't change the name of the "D01" folder.
 
 ![[cockatrice-mondo-pics-location.png]]
 
-11. That's it! The next time you open Cockatrice, it might notify you about detecting a new database and show you the sets included, but all the cards will be browsable in the deck editor. Some of the sorting columns work and some don't, just a limitation of using a program aimed at M:tG. From here you can look over the cards, build decks, playtest offline, or log into the public server and play against other people who have the mondo cardsets installed. 
+
+#### Section for Adding Custom Theme (Colours, Cardback)
+
+11. Add the extracted theme folder into the Themes folder of Cockatrice's "base data directory." Like this:
+
+![[Screenshot at 2023-10-19 01-26-47.png]]
+
+
+12. That's it! The next time you open Cockatrice, it might notify you about detecting a new database and show you the sets included, but all the cards will be browsable in the deck editor. Some of the sorting columns work and some don't, just a limitation of using a program aimed at M:tG. From here you can look over the cards, build decks, playtest offline, or log into the public server and play against other people who have the mondo cardsets installed. 
+
+![[Screenshot at 2023-10-19 01-30-10.png]]
+An example of what Cockatrice's deck editor looks like with -mgbmix- cards and custom theme loaded.
 
 Have fun!
+
+
+
+
