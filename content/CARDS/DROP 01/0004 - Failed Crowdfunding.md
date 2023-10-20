@@ -10,12 +10,12 @@ Funding Cost: 2F
 
 Card Type: [[Item]] - Gimmick  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
-Funding Cost: 2F  
+[[Rarity]]: [[R3]]  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 [Jack of All Trades, Master of None] Choose one of the following moves to use for Failed Crowdfunding. The item breaks after one (1) use:
 - Opens can(s): Wow! +25 HP buff to Food Item.

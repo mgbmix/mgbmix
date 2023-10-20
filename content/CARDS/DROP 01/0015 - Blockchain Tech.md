@@ -9,7 +9,7 @@ Funding Cost: 1F
 
 Card Type: [[Plot Twist]] - Paradigm Shift  
 Faction: [[Fake Tech]]  
-Rarity: [[R4]]  
+[[Rarity]]: [[R4]]  
 Funding Cost: 1F  
 
 Rules Text:  

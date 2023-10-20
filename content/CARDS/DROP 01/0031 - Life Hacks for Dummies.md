@@ -10,7 +10,7 @@ Funding Cost: 3F
 
 Card Type: [[Infomashun]] - Actually Useful  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
+[[Rarity]]: [[R3]]  
 Funding Cost: 3F  
 
 Rules Text:  

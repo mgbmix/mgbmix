@@ -10,7 +10,7 @@ Funding Cost: 4F / 0F
 
 Card Type: [[Challenge]] - Tutorial Mission  
 Faction: [[Fake Tech]]  
-Rarity: [[R5]]  
+[[Rarity]]: [[R5]]  
 Funding Cost: 4F / 0F  
 
 Rules Text:  

@@ -10,7 +10,7 @@ Funding Cost: 2F
 
 Card Type: [[Item]] - Weapon  
 Faction: [[Fake Tech]]  
-Rarity: [[R2]]  
+[[Rarity]]: [[R2]]  
 Funding Cost: 2F  
 
 Rules Text:  

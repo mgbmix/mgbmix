@@ -10,7 +10,7 @@ Funding Cost: 3F
 
 Card Type: [[Group]] - Zaibatsu  
 Faction: [[Fake Tech]]  
-Rarity: [[R2]]  
+[[Rarity]]: [[R2]]  
 Funding Cost: 3F  
 
 Rules Text:  

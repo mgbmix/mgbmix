@@ -10,7 +10,7 @@ Funding Cost: 1F
 
 Card Type: [[Buff]] - Feather-In-Cap  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
+[[Rarity]]: [[R3]]  
 Funding Cost: 1F  
 
 Rules Text:  

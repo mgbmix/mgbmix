@@ -10,7 +10,7 @@ Funding Cost: 3F
 
 Card Type: [[Group]] - Faction  
 Faction: [[Fake Tech]]  
-Rarity: [[R1]]  
+[[Rarity]]: [[R1]]  
 Funding Cost: 3F  
 
 Rules Text:  

@@ -17,7 +17,7 @@ PSI: "5"
 
 Card Type: [[Creature]] - Figurehead  
 Faction: [[Fake Tech]]  
-Rarity: [[R2]]  
+[[Rarity]]: [[R2]]  
 Funding Cost: 3F  
 
 Rules Text:  

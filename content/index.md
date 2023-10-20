@@ -30,7 +30,7 @@ Want to dig into my rules for playing Mondo Megabits? Check out:
 
 Want to join the playtest group and offer feedback to the ruleset? Check out:
 - [[Setup Guide for Cockatrice]]
-- [[Design Space|-mgbmix- Design Space]]
+- [[Intro to mgbmix|Intro to -mgbmix-]]
 - [[Playtesting]]
 
 

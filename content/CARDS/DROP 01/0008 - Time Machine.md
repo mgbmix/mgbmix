@@ -10,7 +10,7 @@ Funding Cost: 1F
 
 Card Type: [[Buff]] - X-Factor  
 Faction: [[Fake Tech]]  
-Rarity: [[R4]]  
+[[Rarity]]: [[R4]]  
 Funding Cost: 1F  
 
 Rules Text:  

@@ -10,7 +10,7 @@ Funding Cost: 2F
 
 Card Type: [[Item]] - Chromeware  
 Faction: [[Fake Tech]]  
-Rarity: [[R5]]  
+[[Rarity]]: [[R5]]  
 Funding Cost: 2F  
 
 Rules Text:  

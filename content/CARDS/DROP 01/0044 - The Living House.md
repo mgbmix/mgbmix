@@ -10,9 +10,9 @@ Funding Cost: 0F
 
 Card Type: [[CARD TYPES/Location|Location]] - Real Estate  
 Faction: [[Fake Tech]]  
-Rarity: [[R2]]  
-Funding Cost: 0F  
+[[Rarity]]: [[R2]]  
+[[Funding Cost]]: [[0F]]  
 
 Rules Text:  
 
-[Jail Team] All Fake Tech creatures take 25% DMG. Lasts five (5) turns.  
+[Jail Team] All [[Fake Tech]] creatures take 25% [[DMG]]. Lasts five (5) turns.  

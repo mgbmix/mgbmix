@@ -17,7 +17,7 @@ PSI: "7"
 
 Card Type: [[Item]] - Footsoldier  
 Faction: [[Fake Tech]]  
-Rarity: [[R1]]  
+[[Rarity]]: [[R1]]  
 Funding Cost: 2F  
 
 Rules Text:  

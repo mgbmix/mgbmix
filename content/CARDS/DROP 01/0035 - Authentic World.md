@@ -10,7 +10,7 @@ Funding Cost: 0F
 
 Card Type: [[CARD TYPES/Location|Location]] - Realm  
 Faction: [[Fake Tech]]  
-Rarity: [[R1]]  
+[[Rarity]]: [[R1]]  
 Funding Cost: 0F  
 
 Rules Text:  

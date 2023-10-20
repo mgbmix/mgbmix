@@ -10,7 +10,7 @@ Funding Cost: 2F
 
 Card Type: [[Item]] - Gimmick  
 Faction: [[Fake Tech]]  
-Rarity: [[R6]]  
+[[Rarity]]: [[R6]]  
 Funding Cost: 2F  
 
 Rules Text:  

@@ -10,7 +10,7 @@ Funding Cost: 0F
 
 Card Type: [[CARD TYPES/Location|Location]] - Zone  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
+[[Rarity]]: [[R3]]  
 Funding Cost: 0F  
 
 Rules Text:  

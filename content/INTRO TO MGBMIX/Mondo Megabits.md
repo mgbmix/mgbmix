@@ -4,4 +4,4 @@
 
 #### Relation to the -mgbmix- Project
 
-The [[Design Space|goal]] of the -mgxmix- project is to bring this fictional half-game into reality by fully developing its ruleset and card text. (-mgbmix- is unaffiliated with the main Mondo Megabits dev team)
+The [[Design Space|goal]] of the -mgxmix- project is to bring this [[Preface 2|fictional half-game]] into reality by fully developing its ruleset and card text. (-mgbmix- is unaffiliated with the main Mondo Megabits dev team)

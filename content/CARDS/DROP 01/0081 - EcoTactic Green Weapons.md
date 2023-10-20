@@ -10,7 +10,7 @@ Funding Cost: 2F
 
 Card Type: [[Tactic]] - Ability  
 Faction: [[Fake Tech]]  
-Rarity: [[R1]]  
+[[Rarity]]: [[R1]]  
 Funding Cost: 2F  
 
 Rules Text:  

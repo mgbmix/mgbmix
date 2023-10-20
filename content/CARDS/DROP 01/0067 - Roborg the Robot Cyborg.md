@@ -17,7 +17,7 @@ PSI: "4"
 
 Card Type: Creature - Footsoldier  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
+[[Rarity]]: [[R3]]  
 Funding Cost: 3F  
 
 Rules Text:  

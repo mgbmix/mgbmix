@@ -10,7 +10,7 @@ Funding Cost: 2F
 
 Card Type: [[Tactic]] - Scam  
 Faction: [[Fake Tech]]  
-Rarity: [[R3]]  
+[[Rarity]]: [[R3]]  
 Funding Cost: 2F  
 
 Rules Text:  

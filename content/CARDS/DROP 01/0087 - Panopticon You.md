@@ -10,7 +10,7 @@ Funding Cost: 1F
 
 Card Type: [[Skill]] - Spy Arts  
 Faction: [[Fake Tech]]  
-Rarity: [[R2]]  
+[[Rarity]]: [[R2]]  
 Funding Cost: 1F  
 
 Rules Text:  

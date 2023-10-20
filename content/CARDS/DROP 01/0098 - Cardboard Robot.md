@@ -17,7 +17,7 @@ PSI: "1"
 
 Card Type: [[Creature]] - Pissant  
 Faction: [[Fake Tech]]  
-Rarity: [[R6]]  
+[[Rarity]]: [[R6]]  
 Funding Cost: 5F  
 
 Rules Text:  
