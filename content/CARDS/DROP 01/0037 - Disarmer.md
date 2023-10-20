@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Disarmer.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  

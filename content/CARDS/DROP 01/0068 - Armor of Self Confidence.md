@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Armor of Self Confidence.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Armor  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[2F]]  

@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Time Machine.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Buff]] - X-Factor  
+[[CARD TYPES/Card Type|Card Type]]: [[Buff]] - [[X-Factor]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 [[Funding Cost]]: [[1F]]  

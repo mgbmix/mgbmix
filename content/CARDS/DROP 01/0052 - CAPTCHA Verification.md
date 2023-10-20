@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[CAPTCHA Verification.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Security Measure  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Security Measure]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

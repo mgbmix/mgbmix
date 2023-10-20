@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Bogus Freeze Gun.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Brick o' Brack  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Brick o' Brack]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

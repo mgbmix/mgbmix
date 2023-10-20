@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Cell Phone.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Food / Trash  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Food&Trash|Food / Trash]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

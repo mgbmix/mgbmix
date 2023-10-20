@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Rogue Implant.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Chromeware]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[2F]]  

@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[EcoTactic Green Weapons.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Ability  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Ability(subtype)|Ability]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

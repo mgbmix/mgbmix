@@ -2,5 +2,5 @@ Game Actions are special actions and decisions the players may take given the ri
 
 Game Actions include:
 
-- Seating and Unseating a Figurehead
+- Seating and Unseating a [[Figurehead]]
 - Activating a Plot Twist in play

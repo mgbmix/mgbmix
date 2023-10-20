@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Cialamin.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Drug  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Drug]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[2F]]  

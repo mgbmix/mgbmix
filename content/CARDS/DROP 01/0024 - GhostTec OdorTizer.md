@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[GhostTec OdorTizer.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Tool
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Tool]]
 [[Faction]]: [[Fake Tech]]
 [[Rarity]]: [[R4]]
 [[Funding Cost]]: [[2F]]

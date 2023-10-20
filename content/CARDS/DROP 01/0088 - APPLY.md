@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[APPLY.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Group]] - Zaibatsu  
+[[CARD TYPES/Card Type|Card Type]]: [[Group]] - [[Zaibatsu]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[3F]]  

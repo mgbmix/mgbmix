@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Camera Loop.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Tech / Steam Arts  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - [[Tech & Steam Arts|Tech / Steam Arts]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[1F]]  

@@ -7,3 +7,5 @@ Subtypes are a more specific classification for each card than its type.
 
 > [!todo] Every card has a subtype along with its main type.
 
+### Subtypes by Card Type
+

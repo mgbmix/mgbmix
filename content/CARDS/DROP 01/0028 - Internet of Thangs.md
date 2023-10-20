@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Internet of Thangs.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Plot Twist]] - Paradigm Shift  
+[[CARD TYPES/Card Type|Card Type]]: [[Plot Twist]] - [[Paradigm Shift]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[1F]]  

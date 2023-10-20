@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Liquid Physics.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Infomashun]] - Cosmology  
+[[CARD TYPES/Card Type|Card Type]]: [[Infomashun]] - [[Cosmology]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[3F]]  

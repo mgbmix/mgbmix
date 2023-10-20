@@ -20,7 +20,7 @@ It ranges from -5 to +5, with each extreme being instant defeat or victory.
 ### Affecting Narrative Score
 
 > [!note] Gaining Narrative Score
-> To increase Narrative Score by +1, use the [[Think Tank]] Figurehead to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 
+> To increase Narrative Score by +1, use the [[Think Tank]] [[Figurehead]] to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 
 
 > [!note] Attacking Narrative Score
 > To decrease opponent’s Narrative Score by -1, use a [[Creature]] with [[INT]] stat 8 or higher to perform a [[Discredit]] attack (if possible).

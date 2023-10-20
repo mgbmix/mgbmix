@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Time Cube.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Gimmick  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Gimmick]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 [[Funding Cost]]: [[2F]]  

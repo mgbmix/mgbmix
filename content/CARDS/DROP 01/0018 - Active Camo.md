@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Active Camo.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Chromeware]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 [[Funding Cost]]: [[2F]]  

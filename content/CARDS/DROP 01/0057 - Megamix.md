@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Megamix.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Scam  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Scam]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  

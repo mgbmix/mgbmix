@@ -1,3 +1,7 @@
+---
+aliases:
+  - Creatures
+---
 Creatures are the main [[CARD TYPES/Card Type|card type]] in Mondo Megabits. Most games will revolve around deploying your creatures to outnumber and take down the opponent’s creatures. 
 
 ### Rarity-based Funding Cost
@@ -15,7 +19,7 @@ Creatures are the main [[CARD TYPES/Card Type|card type]] in Mondo Megabits. Mos
 #### Creature [[Subtype]] 
 
 Each creature card has a subtype, which denotes its class/role/title in-game.
-Some examples of subtypes are: Footsoldier, Lackey, Nemesis, and Figurehead. 
+Some examples of subtypes are: [[Footsoldier]], [[Lackey]], [[Nemesis]], and [[Figurehead]]. 
 
 Figureheads are the most important subtype. They’re the only Creatures who can be seated in the [[Think Tank]], and they’re necessary for using certain game mechanics once seated such as Fundraise and Proselytize.
 

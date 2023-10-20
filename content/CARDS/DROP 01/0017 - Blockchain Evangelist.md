@@ -19,7 +19,7 @@ aliases:
 > [!info]- Card Art
 > ![[Blockchain Evangelist.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 [[Funding Cost]]: [[4F]]  

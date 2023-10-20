@@ -19,7 +19,7 @@ aliases:
 > [!info]- Card Art
 > ![[The Algorithm.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[3F]]  

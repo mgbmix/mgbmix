@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Phagic Rebel.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 [[Funding Cost]]: [[2F]]  

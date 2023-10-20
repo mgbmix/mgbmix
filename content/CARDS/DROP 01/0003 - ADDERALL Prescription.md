@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[ADDERALL Prescription.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Drug  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Drug]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  

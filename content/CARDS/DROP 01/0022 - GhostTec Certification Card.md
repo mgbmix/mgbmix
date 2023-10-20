@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[GhostTec Certification Card.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Tool  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Tool]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

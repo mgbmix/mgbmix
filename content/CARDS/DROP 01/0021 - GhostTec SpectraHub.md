@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[GhostTec SpectraHub.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Buff]] - Enhancement  
+[[CARD TYPES/Card Type|Card Type]]: [[Buff]] - [[Enhancement]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[1F]]  

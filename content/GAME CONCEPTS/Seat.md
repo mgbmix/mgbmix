@@ -6,7 +6,7 @@ Normally, Creatures exist in the [[Active Zone]] while in play and are not place
 
 >[!info] A player make take a seating action once per active turn. 
 
-> [!warning] Only Creatures of the Figurehead subtype are allowed to be Seated.
+> [!warning] Only Creatures of the [[Figurehead]] subtype are allowed to be Seated.
 
 > [!warning] Only one Figurehead may be seated in a player's Think Tank at any time.
 
@@ -14,4 +14,4 @@ Normally, Creatures exist in the [[Active Zone]] while in play and are not place
 
 ### Seating and Unseating
 
-Seating is a free action that moves a Figurehead from the Active Zone to the Think Tank. Likewise, Unseating is a free action that moves a Figurehead out of the Think Tank and back to the Active Zone.
+Seating is a free action that moves a [[Figurehead]] from the Active Zone to the Think Tank. Likewise, Unseating is a free action that moves a [[Figurehead]] out of the Think Tank and back to the Active Zone.

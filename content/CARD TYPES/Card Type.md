@@ -1,3 +1,7 @@
+---
+aliases:
+  - Card Types
+---
 Mondo Megabits cards are divided into the following ten types:
 
 [[Buff|Buff & Debuff]]  
@@ -6,7 +10,7 @@ Mondo Megabits cards are divided into the following ten types:
 [[Group]]  
 [[Infomashun]]  
 [[Item]]  
-[[CARD TYPES/Location]]  
+[[CARD TYPES/Location|Location]]  
 [[Plot Twist]]  
 [[Skill]]  
 [[Tactic]]  

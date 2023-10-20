@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Roboid Mental Health Check.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Bailout  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Bailout]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  

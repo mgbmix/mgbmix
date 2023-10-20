@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Social Media Mogul's Beard.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Relic  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Relic]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 [[Funding Cost]]: [[2F]]  

@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Cold-Blooded EVA Suit.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Armor  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 [[Funding Cost]]: [[2F]]  

@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Research Element 151.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Crafting Material  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Crafting Material]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 [[Funding Cost]]: [[2F]]  

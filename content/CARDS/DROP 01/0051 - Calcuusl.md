@@ -12,14 +12,14 @@ aliases:
 > [!info]- Card Art
 > ![[Calcuusl.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: Skills - Magic Arts  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - [[Magic Arts]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[1F]]  
 
 Rules Text:  
 
-This Skill equips for a [[1F]] cost to a Figurehead you control.
+This Skill equips for a [[1F]] cost to a [[Figurehead]] you control.
 Once equipped, this Skill cannot be moved to another Creature.
 When the attached Creature leaves play, send this card to discard.  
 

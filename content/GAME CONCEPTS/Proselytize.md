@@ -1,4 +1,4 @@
-To Proselytize is a Think Tank Action performed by a player's [[Seat|Seated]] Figurehead.
+To Proselytize is a Think Tank Action performed by a player's [[Seat|Seated]] [[Figurehead]].
 
 Proselytizing has a [[Funding Cost]] of [[4F]].
 

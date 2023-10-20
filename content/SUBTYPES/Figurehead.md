@@ -1,0 +1,1 @@
+Figureheads are a subtype of Creature cards.

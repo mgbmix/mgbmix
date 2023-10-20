@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Fingerprint DNA Backup.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Bailout  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Bailout]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 [[Funding Cost]]: [[2F]]  
@@ -23,7 +23,7 @@ This Tactic enters play face-up in your [[Think Tank]]. You may activate its eff
 After using its effect, send this card to your history.  
 
 ["Like"-New] There's definitely something new about you.  
-The next time your Seated Figurehead would die, revive it with a max of 350 HP, and delete (destroy) Fingerprint DNA Backup card.   
+The next time your Seated [[Figurehead]] would die, revive it with a max of 350 HP, and delete (destroy) Fingerprint DNA Backup card.   
 The creature remains Seated in your [[Think Tank]].  
 Revived creature cannot attack or use abilities.  
 

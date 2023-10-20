@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Restraint Gun.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 [[Funding Cost]]: [[2F]]  

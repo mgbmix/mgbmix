@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Cyber Optic Facemask.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Armor  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 [[Funding Cost]]: [[2F]]  

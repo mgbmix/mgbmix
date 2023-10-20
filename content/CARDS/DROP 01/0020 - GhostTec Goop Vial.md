@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[GhostTec Goop Vial.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Food / Trash  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Food&Trash|Food / Trash]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 [[Funding Cost]]: [[2F]]  

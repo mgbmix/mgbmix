@@ -6,7 +6,7 @@ Funding is the game’s primary resource for spending on cards, abilities, etc.
 
 > [!todo] Receive 4 Funding from the [[Think Tank]] at the start of each turn aside from the player’s initial turn
 
-> [!abstract] Receive additional Funding if, at the end of turn, the player has a Figurehead seated in the [[Think Tank]] and the player chooses to [[Fundraise]]. 
+> [!abstract] Receive additional Funding if, at the end of turn, the player has a [[Figurehead]] seated in the [[Think Tank]] and the player chooses to [[Fundraise]]. 
 
 > [!warning]+ Additional Funding from Fundraising depends on Seated Figurehead’s [[INT]] stat:  
 > 1 – 4 INT provides 1 Funding  

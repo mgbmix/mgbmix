@@ -12,7 +12,7 @@ aliases:
 > [!info]- Card Art
 > ![[Eye of Providence.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Tech / Steam Arts  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - [[Tech & Steam Arts|Tech / Steam Arts]]  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 [[Funding Cost]]: [[1F]]  

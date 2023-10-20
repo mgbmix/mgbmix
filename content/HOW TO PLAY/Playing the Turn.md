@@ -10,9 +10,9 @@ From this point on, the player is free to make decisions and perform actions, su
  - [[Deploy]] cards from Look Hand or Stowed Hand for their respective [[Funding cost]]
  - Attack with creatures using [[STR]] attacks or [[INT]] attacks (if possible)
  - Use abilities and effects (from Creatures, Items, Skills, Groups, Tactics, etc.)
- - Use Think Tank to Seat or Unseat a Figurehead Creature
+ - Use Think Tank to Seat or Unseat a [[Figurehead]] Creature
 
 END OF TURN
- - If Think Tank has an available Figurehead, then [[Fundraise]] or [[Proselytize]].
+ - If Think Tank has an available [[Figurehead]], then [[Fundraise]] or [[Proselytize]].
  - Any cards from the Look Hand that weren’t used are sent to the discard pile.
  - Turn count increases by one; effects that reach their turn limit end before next turn. 
