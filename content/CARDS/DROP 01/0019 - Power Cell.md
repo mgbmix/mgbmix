@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Power Cell.png]]
 
-Card Type: [[Item]] - Ammo  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Ammo  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 2F  
 

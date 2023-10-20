@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Verbal Word Bullets.png]]
 
-Card Type: [[Item]] - Weapon  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 2F  
 

@@ -15,8 +15,8 @@ PSI: "5"
 > [!info]- Card Art
 > ![[Startup Guy.png]]
 
-Card Type: [[Creature]] - Figurehead  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 3F  
 

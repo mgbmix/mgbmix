@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Artisanal Camo.png]]
 
-Card Type: [[Item]] - Chromeware  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 Funding Cost: 2F  
 

@@ -5,11 +5,11 @@
 The first turn of the game for each player is their Initial Deployment.
 
 > [!note] Initial Funding
-> Each player receives 20 Funding at the start of their Initial Deployment.
+> Each player receives 20 [[Funding]] at the start of their Initial Deployment.
 
 ## Initial Deployment Hands
 
-> [!note] Initial Hand
+> [!note] Initial [[Hand]]
 > At the start of the game, all players draw an Initial Deployment hand of seven cards.
 
 > [!warning] First Player Skips First Look

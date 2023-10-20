@@ -15,8 +15,8 @@ PSI: "7"
 > [!info]- Card Art
 > ![[Electric Chairman.png]]
 
-Card Type: [[Creature]] - Figurehead  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 3F  
 

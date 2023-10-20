@@ -3,7 +3,7 @@ Every card in Mondo Megabits will have the following elements.
 [[Name]]  
 [[Faction Marker]]  
 [[Text Box]]  
-[[Card Type]]  
+[[PARTS OF A CARD/Card Type]]  
 [[Subtype]]  
 [[Rarity]]  
 [[Collector Number]]  

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Megamix.png]]
 
-Card Type: [[Tactic]] - Scam  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Scam  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 2F  
 

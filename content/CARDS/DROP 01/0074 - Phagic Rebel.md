@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Phagic Rebel.png]]
 
-Card Type: [[Item]] - Weapon  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 Funding Cost: 2F  
 

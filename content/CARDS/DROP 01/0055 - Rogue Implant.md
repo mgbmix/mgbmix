@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Rogue Implant.png]]
 
-Card Type: [[Item]] - Chromeware  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 2F  
 

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Scientific Proof.png]]
 
-Card Type: [[Tactic]] - Scam  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Scam  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  
 

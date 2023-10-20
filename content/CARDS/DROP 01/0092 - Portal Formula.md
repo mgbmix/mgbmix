@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Portal Formula.png]]
 
-Card Type: [[Skill]] - Teleportation Arts  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Teleportation Arts  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 1F  
 

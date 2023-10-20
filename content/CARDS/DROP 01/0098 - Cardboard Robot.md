@@ -15,8 +15,8 @@ PSI: "1"
 > [!info]- Card Art
 > ![[Cardboard Robot.jpg]]
 
-Card Type: [[Creature]] - Pissant  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Pissant  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 Funding Cost: 5F  
 

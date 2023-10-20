@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Eye of Providence.png]]
 
-Card Type: [[Skill]] - Tech / Steam Arts  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Tech / Steam Arts  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 1F  
 

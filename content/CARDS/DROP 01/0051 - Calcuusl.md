@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Calcuusl.png]]
 
-Card Type: Skills - Magic Arts  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: Skills - Magic Arts  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 1F  
 

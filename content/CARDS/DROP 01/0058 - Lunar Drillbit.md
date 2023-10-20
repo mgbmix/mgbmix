@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Lunar Drillbit.png]]
 
-Card Type: [[Item]] - Tool  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Tool  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 Funding Cost: 2F  
 

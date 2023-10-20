@@ -8,8 +8,8 @@ Funding Cost: 5F
 > [!info]- Card Art
 > ![[Guess What LOL.png]]
 
-Card Type: [[Infomashun]] - Cosmology  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Infomashun]] - Cosmology  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 Funding Cost: 5F  
 

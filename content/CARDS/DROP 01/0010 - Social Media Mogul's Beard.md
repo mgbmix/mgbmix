@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Social Media Mogul's Beard.png]]
 
-Card Type: [[Item]] - Relic  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Relic  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 2F  
 

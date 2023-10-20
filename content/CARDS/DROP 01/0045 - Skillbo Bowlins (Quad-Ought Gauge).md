@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Skillbo Bowlins (Quad-Ought Gauge).png]]
 
-Card Type: [[Item]] - Weapon  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 Funding Cost: 2F  
 

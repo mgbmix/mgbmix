@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Does Not Exist!.png]]
 
-Card Type: [[Tactic]] - Ability  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Ability  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 2F  
 

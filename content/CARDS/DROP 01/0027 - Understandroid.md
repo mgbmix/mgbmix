@@ -15,8 +15,8 @@ PSI: "7"
 > [!info]- Card Art
 > ![[Understandroid.png]]
 
-Card Type: [[Item]] - Footsoldier  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Footsoldier  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 Funding Cost: 2F  
 

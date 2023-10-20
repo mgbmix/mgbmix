@@ -15,8 +15,8 @@ PSI: "4"
 > [!info]- Card Art
 > ![[Blockchain Evangelist.png]]
 
-Card Type: [[Creature]] - Figurehead  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 4F  
 

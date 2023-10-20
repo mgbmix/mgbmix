@@ -8,8 +8,8 @@ Funding Cost: 0F
 > [!info]- Card Art
 > ![[Mars Teleport Sci Institute.png]]
 
-Card Type: [[CARD TYPES/Location|Location]] - Zone  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[CARD TYPES/Location|Location]] - Zone  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 0F  
 

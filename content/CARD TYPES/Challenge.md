@@ -1,4 +1,4 @@
-Challenges are a card type that offers players a one-time chance to fulfill requirements and reap benefits.
+Challenges are a [[CARD TYPES/Card Type|card type]] that offers players a one-time chance to fulfill requirements and reap benefits.
 
 ### Rarity-based Funding Cost
 

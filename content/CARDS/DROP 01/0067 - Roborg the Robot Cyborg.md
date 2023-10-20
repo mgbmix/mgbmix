@@ -15,8 +15,8 @@ PSI: "4"
 > [!info]- Card Art
 > ![[Roborg the Robot Cyborg.png]]
 
-Card Type: Creature - Footsoldier  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: Creature - Footsoldier  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 3F  
 

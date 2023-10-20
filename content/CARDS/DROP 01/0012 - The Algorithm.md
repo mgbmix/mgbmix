@@ -15,8 +15,8 @@ PSI: "0"
 > [!info]- Card Art
 > ![[The Algorithm.png]]
 
-Card Type: [[Creature]] - Figurehead  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 3F  
 

@@ -8,8 +8,8 @@ Funding Cost: 3F
 > [!info]- Card Art
 > ![[Fake Tech.jpg]]
 
-Card Type: [[Group]] - Faction  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Group]] - Faction  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 Funding Cost: 3F  
 

@@ -1,4 +1,4 @@
-Skills are an [[Equip|equippable]] card type that [[Attach|attaches]] to Creatures in play.
+Skills are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that [[Attach|attaches]] to Creatures in play.
 
  > [!note] [[Funding Cost]]  
  >  Skills cost 1F to [[deploy]]. Skill cards enter play in their controller's [[Think Tank]] once deployed.

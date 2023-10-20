@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Missionate.png]]
 
-Card Type: [[Buff]] - Power-Up  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Buff]] - Power-Up  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 1F  
 

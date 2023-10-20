@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Crapto Currency.png]]
 
-Card Type: Tactice - Scam  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: Tactice - Scam  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
 Funding Cost: 2F  
 

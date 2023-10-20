@@ -15,8 +15,8 @@ PSI: "0"
 > [!info]- Card Art
 > ![[Jack Jill Vyco and DIN.png]]
 
-Card Type: [[Creature]] - Nemesis  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Nemesis  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 4F  
 

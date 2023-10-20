@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Long Warp.jpg]]
 
-Card Type: [[Skill]] - Teleportation Arts  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Teleportation Arts  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 Funding Cost: 1F  
 

@@ -8,8 +8,8 @@ Funding Cost: 0F
 > [!info]- Card Art
 > ![[Planet B.jpg]]
 
-Card Type: [[CARD TYPES/Location|Location]] - Realm  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[CARD TYPES/Location|Location]] - Realm  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 0F  
 

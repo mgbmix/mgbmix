@@ -20,7 +20,7 @@ Not sure where to begin? Try these links!
 Want to learn more about the cards themselves? Check out:
 - [[Mondo Megabits|What is a Mondo Megabit?]]
 - [[Parts of a Card]]
-- [[Card Types]]
+- [[CARD TYPES/Card Type]]
 - [[Sets]]
 
 Want to dig into my rules for playing Mondo Megabits? Check out:

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Fingerprint DNA Backup.png]]
 
-Card Type: [[Tactic]] - Bailout  
-Faction: [[[[Fake Tech]]|[[Fake Te]]ch]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Bailout  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 Funding Cost: 2F  
 

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[A Magnet.png]]
 
-Card Type: [[Item]] - Crafting Material  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Crafting Material  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 Funding Cost: 2F  
 

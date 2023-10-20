@@ -8,8 +8,8 @@ Funding Cost: 1F
 > [!info]- Card Art
 > ![[Utopia Scrupulous Automation.png]]
 
-Card Type: [[Plot Twist]] - Paradigm Shift  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Plot Twist]] - Paradigm Shift  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 Funding Cost: 1F  
 

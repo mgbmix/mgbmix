@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Research Element 151.png]]
 
-Card Type: [[Item]] - Crafting Material  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Crafting Material  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 Funding Cost: 2F  
 

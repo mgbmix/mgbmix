@@ -15,8 +15,8 @@ PSI: "3"
 > [!info]- Card Art
 > ![[AI Overlord.png]]
 
-Card Type: [[Creature]] - Figurehead  
-Faction: [[[[Fake Tech]]|[[Fake Te]]ch]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
 Funding Cost: 4F  
 

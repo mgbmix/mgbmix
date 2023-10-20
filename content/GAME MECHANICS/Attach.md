@@ -1,4 +1,4 @@
-Attach is a technical state that various [[Card Type|card types]] can acquire. It represents the card being under the ownership, placement, or otherwise assimilated by the attached [[target]]. 
+Attach is a technical state that various [[PARTS OF A CARD/Card Type|card types]] can acquire. It represents the card being under the ownership, placement, or otherwise assimilated by the attached [[target]]. 
 
 > [!note] Various things in the game can be the target of attachable cards, such as Creatures, Items, Zones, and even Players.
 

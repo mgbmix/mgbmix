@@ -1,4 +1,4 @@
-Items are an [[Equip|equippable]] card type that attaches to creatures in play.
+Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that attaches to creatures in play.
 
 > [!note] Funding Cost
 > Items cost 2F to [[deploy]].

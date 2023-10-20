@@ -8,8 +8,8 @@ Funding Cost: 4F / 0F
 > [!info]- Card Art
 > ![[The Pursuit of Knowledge.png]]
 
-Card Type: [[Challenge]] - Tutorial Mission  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Challenge]] - Tutorial Mission  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
 Funding Cost: 4F / 0F  
 

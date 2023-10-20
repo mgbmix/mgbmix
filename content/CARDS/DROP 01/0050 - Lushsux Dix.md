@@ -15,8 +15,8 @@ PSI: "2"
 > [!info]- Card Art
 > ![[Lushsux Dix.png]]
 
-Card Type: [[Creature]] - Nemesis  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Nemesis  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
 Funding Cost: 5F  
 

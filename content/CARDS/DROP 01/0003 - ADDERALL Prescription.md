@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[ADDERALL Prescription.png]]
 
-Card Type: [[Item]] - Drug  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Drug  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  
 

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[DomeHomie Cortical Modem Chip.png]]
 
-Card Type: [[Item]] - Chromeware  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  
 

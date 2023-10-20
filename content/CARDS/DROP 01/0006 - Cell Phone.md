@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Cell Phone.png]]
 
-Card Type: [[Item]] - Food / Trash  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Food / Trash  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
 [[Funding Cost]]: [[2F]]  
 

@@ -8,8 +8,8 @@ Funding Cost: 2F
 > [!info]- Card Art
 > ![[Failed Crowdfunding.png]]
 
-Card Type: [[Item]] - Gimmick  
-Faction: [[Fake Tech]]  
+[[CARD TYPES/Card Type|Card Type]]: [[Item]] - Gimmick  
+[[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
 [[Funding Cost]]: [[2F]]  
 

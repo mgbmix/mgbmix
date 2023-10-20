@@ -1,4 +1,4 @@
-Creatures are the main card type in Mondo Megabits. Most games will revolve around deploying your creatures to outnumber and take down the opponent’s creatures. 
+Creatures are the main [[CARD TYPES/Card Type|card type]] in Mondo Megabits. Most games will revolve around deploying your creatures to outnumber and take down the opponent’s creatures. 
 
 ### Rarity-based Funding Cost
 
