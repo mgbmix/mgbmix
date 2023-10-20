@@ -11,7 +11,7 @@ Funding Cost: 5F
 [[CARD TYPES/Card Type|Card Type]]: [[Infomashun]] - Cosmology  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
-Funding Cost: 5F  
+[[Funding Cost]]: 5F  
 
 Rules Text:  
 

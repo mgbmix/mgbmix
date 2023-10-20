@@ -17,7 +17,7 @@ Funding is the game’s primary resource for spending on cards, abilities, etc.
 
 Specific cards or abilities might have other ways to get Funding, but this is the basic Funding loop for the game: 
 
-- Get 20 during Initial Deployment and create your initial boardstate
+- Get 20 during [[Initial Deployment]] and create your initial boardstate
 - Get 4-7 to spend per turn, depending on the use of Fundraise and your Figurehead's INT
 
 > [!abstract] Funding can be saved up and used on later turns, stored up to a max of 20.

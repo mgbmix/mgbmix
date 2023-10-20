@@ -6,8 +6,8 @@ START OF TURN
  - Think Tank adds Funding to active player’s coffers. 20F Initial Funding, 4F normally.
 
 From this point on, the player is free to make decisions and perform actions, such as:
- - Stow cards from Look Hand to Stowed Hand (1 Funding each)
- - Play cards from Look Hand or Stowed Hand for their respective Funding cost
+ - [[Stow]] cards from Look Hand to Stowed Hand (1 Funding each)
+ - Play cards from Look Hand or Stowed Hand for their respective [[Funding cost]]
  - Attack with creatures using STR attacks or INT attacks (if possible)
  - Use abilities and effects (from Creatures, Items, Skills, Groups, Tactics, etc.)
  - Use Think Tank to Seat or Unseat a Figurehead Creature

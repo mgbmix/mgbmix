@@ -11,7 +11,7 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Product And/Or Service We Do Enjoy  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-Funding Cost: 2F  
+[[Funding Cost]]: 2F  
 
 Rules Text:  
 

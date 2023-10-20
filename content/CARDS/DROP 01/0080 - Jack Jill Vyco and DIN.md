@@ -18,7 +18,7 @@ PSI: "0"
 [[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Nemesis  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-Funding Cost: 4F  
+[[Funding Cost]]: 4F  
 
 Rules Text:  
 

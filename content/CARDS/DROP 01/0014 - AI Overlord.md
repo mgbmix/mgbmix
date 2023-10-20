@@ -18,7 +18,7 @@ PSI: "3"
 [[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-Funding Cost: 4F  
+[[Funding Cost]]: 4F  
 
 Rules Text:  
 
