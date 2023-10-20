@@ -17,7 +17,7 @@ tags:
 
 Rules Text:  
 
-This Item equips for a [[1F]] cost to your Think Tank.  
+This Item equips for a [[1F]] cost to your [[Think Tank]].  
 
 [INSTANT TRANSMISSION] Retrieve any teleportation card from your deck. 
 If you control the Location card in play, you get a free dodge against one (1) incoming attack.  

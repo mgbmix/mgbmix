@@ -17,7 +17,7 @@ tags:
 
 Rules Text:  
 
-This Skill equips for a [[1F]] cost to your Think Tank.  
+This Skill equips for a [[1F]] cost to your [[Think Tank]].  
 Once equipped, this Skill cannot be moved.  
 
 /Selective Warp/ When you equip this card, search your deck for one (1) card, reveal it, then place it back into your deck and shuffle.   

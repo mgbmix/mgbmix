@@ -17,7 +17,7 @@ tags:
 
 Rules Text:  
 
-This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.  
+This Tactic enters play face-up in your [[Think Tank]]. You may activate its effect at any time.  
 After using its effect, send this card to your history.  
 
 [Mostly Peaceful Beatdown] Bust some heads, then toss the evidence over the side of the bridge with no littering guilt.  

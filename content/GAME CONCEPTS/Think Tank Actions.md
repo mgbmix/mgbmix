@@ -1,4 +1,4 @@
-The [[Think Tank]] zone starts empty. To get the most out of your Think Tank, you will need to perform various game actions, some of which will require specific cards while others are generally available to use. Your Think Tank also has some passive abilities.
+The [[Think Tank]] zone starts empty. To get the most out of your [[Think Tank]], you will need to perform various game actions, some of which will require specific cards while others are generally available to use. Your Think Tank also has some passive abilities.
 
 [[Seat]] a [[Creature]] of the [[Figurehead]] [[subtype]] within your [[Think Tank]]. 
 

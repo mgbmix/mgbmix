@@ -3,7 +3,7 @@ Figurehead is the most important Creature subtype, due to its Creatures having u
 
 ### What makes Figurehead Creatures special?
 
-Figureheads can be brought into the player's Think Tank (only one at a time) to perform special actions such as [[Proselytize]] and [[Fundraise]].
+Figureheads can be brought into the player's [[Think Tank]] (only one at a time) to perform special actions such as [[Proselytize]] and [[Fundraise]].
 
 
 List of Figurehead Creatures

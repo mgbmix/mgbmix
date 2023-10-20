@@ -5,7 +5,7 @@ Discrediting an opposing [[Narrative Score|Narrative]] is an effective way of wi
 > - Only creatures with [[INT]] 8 or higher can Discredit the enemy Narrative.  
 > - If Creatures are present in the opponent’s [[Active Zone]], no Discredit attacks may be used.  
 > - If the Active Zone is clear but the enemy [[Think Tank]] has a [[Seat|seated]] Figurehead, a single Creature with remaining actions may Discredit the opponent’s Narrative.  
-> - If the enemy Active Zone and Think Tank are both clear, any number of Creatures  with remaining actions may Discredit the opponent’s Narrative.  
+> - If the enemy Active Zone and [[Think Tank]] are both clear, any number of Creatures  with remaining actions may Discredit the opponent’s Narrative.  
 
 #### Additional Notes on Discredit Attacks
 

@@ -27,7 +27,7 @@ Rules Text:
 [[HP]]: 250 [[STR]]: 2 [[INT]]: 5 [[FYT]]: 3 [[NRG]]: 3 [[SWG]]: 3 [[PSI]]: 5  
 
 [Report User] Pick an enemy creature card to report.
-If creature is Whypeepo or D.U.D.E.: Fellas Rising faction, ban instantly (kill). All other creatures take 100 Snitching DMG.  
+If creature is Whypeepo or D.U.D.E.: Fellas Rising faction, ban instantly (kill). All other creatures take 100 [[DMG|Snitching DMG]].  
 
 [Kickstarter] Flip coin;  
 Heads, +700 HP, may distribute how you see fit.

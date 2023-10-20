@@ -18,4 +18,5 @@ Sometimes damage is given a specific type. These can potentially lead to modifie
 > [!example]- Examples of Damage Types
 >  
 >  - MindFuck DMG as found on [[0002 - DomeHomie Cortical Modem Chip|DomeHomie Cortical Modem Chip]]
+>  - Snitching DMG as found on [[0009 - Startup Guy|Startup Guy]]
 

@@ -3,7 +3,7 @@
 
 Subtypes are a more specific classification for each card than its type. 
 
-> [!todo] All [[CARD TYPES/Card Type]] have subtypes.
+> [!todo] All [[CARD TYPES/Card Type|card types]] have subtypes.
 
-> [!todo] Every card has a subtype along with its type.
+> [!todo] Every card has a subtype along with its main type.
 

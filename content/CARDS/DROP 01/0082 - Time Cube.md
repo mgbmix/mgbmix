@@ -17,7 +17,7 @@ tags:
 
 Rules Text:  
 
-This Item equips for a [[1F]] cost to your Think Tank.  
+This Item equips for a [[1F]] cost to your [[Think Tank]].  
 
 [The Golden_Hours] Cap all enemy creatures' INT at 4 maximum for two turns.   
 

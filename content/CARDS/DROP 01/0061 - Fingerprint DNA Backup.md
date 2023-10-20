@@ -17,12 +17,12 @@ tags:
 
 Rules Text:  
 
-This Tactic enters play face-up in your Think Tank. You may activate its effect at any time.  
+This Tactic enters play face-up in your [[Think Tank]]. You may activate its effect at any time.  
 After using its effect, send this card to your history.  
 
 ["Like"-New] There's definitely something new about you.  
 The next time your Seated Figurehead would die, revive it with a max of 350 HP, and delete (destroy) Fingerprint DNA Backup card.   
-The creature remains Seated in your Think Tank.  
+The creature remains Seated in your [[Think Tank]].  
 Revived creature cannot attack or use abilities.  
 
 /System Security Breach/ When you use this card, opposing Tantillo Systems faction creatures may attempt blackhat domination on revived creature. 

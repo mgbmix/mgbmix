@@ -4,12 +4,12 @@ Challenges are a [[CARD TYPES/Card Type|card type]] that offers players a one-ti
 
 > [!warning]+ Challenge cards have a variable [[Funding Cost]] depending on their rarity, equal to 2 points plus half that card’s rarity level (rounded down).
 >  
-> R1 = [[2F]]  
-> R2 = [[3F]]  
-> R3 = [[3F]]  
-> R4 = [[4F]]  
-> R5 = [[4F]]  
-> R6 = [[5F]]  
+> [[R1]] = [[2F]]  
+> [[R2]] = [[3F]]  
+> [[R3]] = [[3F]]  
+> [[R4]] = [[4F]]  
+> [[R5]] = [[4F]]  
+> [[R6]] = [[5F]]  
 
 A Challenge deployed for its cost can remain on the battlefield until the controller chooses to use it. Only the controller of the Challenge card can use its effects.
  
