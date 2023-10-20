@@ -4,6 +4,8 @@ Subtype: Gimmick
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Busted Pharmaceutical Kiosk.png]]

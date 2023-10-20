@@ -4,6 +4,8 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[TIA Wave Projector.png]]

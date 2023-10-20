@@ -4,6 +4,8 @@ Subtype: Feather-In-Cap
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 1F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Hedonic Treadmill.png]]

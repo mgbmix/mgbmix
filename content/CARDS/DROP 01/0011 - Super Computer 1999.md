@@ -11,6 +11,8 @@ FYT: "3"
 NRG: "8"
 SWG: "4"
 PSI: "0"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Super Computer 1999.png]]

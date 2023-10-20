@@ -4,6 +4,8 @@ Subtype: Cosmology
 Faction: Fake Tech
 Rarity: R6
 Funding Cost: 5F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Guess What LOL.png]]

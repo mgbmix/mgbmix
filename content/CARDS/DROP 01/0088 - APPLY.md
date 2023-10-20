@@ -4,6 +4,8 @@ Subtype: Zaibatsu
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 3F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[APPLY.png]]

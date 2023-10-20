@@ -4,6 +4,8 @@ Subtype: Faction
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 3F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Fake Tech.jpg]]

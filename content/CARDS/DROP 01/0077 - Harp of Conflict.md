@@ -4,6 +4,8 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Harp of Conflict.png]]

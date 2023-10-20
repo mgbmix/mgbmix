@@ -11,6 +11,8 @@ FYT: "2"
 NRG: "4"
 SWG: "3"
 PSI: "7"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Understandroid.png]]

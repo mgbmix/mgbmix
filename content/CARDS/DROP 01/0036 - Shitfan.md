@@ -4,6 +4,8 @@ Subtype: Brick o' Brack
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Shitfan.png]]

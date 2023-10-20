@@ -11,6 +11,8 @@ FYT: "3"
 NRG: "6"
 SWG: "6"
 PSI: "7"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Electric Chairman.png]]

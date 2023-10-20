@@ -11,6 +11,8 @@ FYT: "4"
 NRG: "3"
 SWG: "5"
 PSI: "2"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Lushsux Dix.png]]

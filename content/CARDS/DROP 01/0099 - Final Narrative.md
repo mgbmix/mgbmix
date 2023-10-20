@@ -4,6 +4,8 @@ Subtype: Security Measure
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Final Narrative.jpg]]

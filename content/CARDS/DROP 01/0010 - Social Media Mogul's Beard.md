@@ -4,6 +4,8 @@ Subtype: Relic
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Social Media Mogul's Beard.png]]

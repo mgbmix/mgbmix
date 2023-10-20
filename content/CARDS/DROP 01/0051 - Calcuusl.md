@@ -4,6 +4,8 @@ Subtype: Magic Arts
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 1F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Calcuusl.png]]

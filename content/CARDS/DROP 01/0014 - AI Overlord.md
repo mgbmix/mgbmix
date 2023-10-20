@@ -11,6 +11,8 @@ FYT: "1"
 NRG: "9"
 SWG: "4"
 PSI: "3"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[AI Overlord.png]]

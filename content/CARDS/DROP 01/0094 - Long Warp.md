@@ -4,6 +4,8 @@ Subtype: Teleportation Arts
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 1F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Long Warp.jpg]]

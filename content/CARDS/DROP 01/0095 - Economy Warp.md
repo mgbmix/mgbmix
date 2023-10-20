@@ -4,6 +4,8 @@ Subtype: Teleportation Arts
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 1F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Economy Warp.jpg]]

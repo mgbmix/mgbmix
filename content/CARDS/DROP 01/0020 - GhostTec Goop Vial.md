@@ -4,6 +4,8 @@ Subtype: Food / Trash
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[GhostTec Goop Vial.png]]

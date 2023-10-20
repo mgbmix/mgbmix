@@ -4,6 +4,8 @@ Subtype: Tech / Steam Arts
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 1F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Eye of Providence.png]]

@@ -11,6 +11,8 @@ FYT: "2"
 NRG: "3"
 SWG: "1"
 PSI: "4"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Roborg the Robot Cyborg.png]]

@@ -4,6 +4,8 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 2F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[GMS Gimme My Space Mk III Energy Projector.png]]

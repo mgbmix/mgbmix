@@ -4,8 +4,11 @@ Subtype: Paradigm Shift
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 1F
+tags:
+  - card
 ---
-![[Blockchain Tech.png]]
+> [!info]- Card Art
+>![[Blockchain Tech.png]]
 
 [[CARD TYPES/Card Type|Card Type]]: [[Plot Twist]] - Paradigm Shift  
 [[Faction]]: [[Fake Tech]]  

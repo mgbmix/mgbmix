@@ -11,6 +11,8 @@ FYT: "0"
 NRG: "10"
 SWG: "12"
 PSI: "0"
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[Jack Jill Vyco and DIN.png]]

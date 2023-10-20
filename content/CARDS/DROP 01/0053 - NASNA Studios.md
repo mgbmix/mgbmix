@@ -4,6 +4,8 @@ Subtype: Zone
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 0F
+tags:
+  - card
 ---
 > [!info]- Card Art
 > ![[NASNA Studios.png]]
