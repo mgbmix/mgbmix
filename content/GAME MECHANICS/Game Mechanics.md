@@ -1,6 +1,7 @@
 
 If you want to know about the nitty gritty.
 
+- [[Ability]]
 - [[Activated Ability]]
 - [[Attach]]
 - [[Deploy]]

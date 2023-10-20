@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Relic  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an active Figurehead you control.  
+This Item equips for a [[1F]] cost to an active Figurehead you control.  
 
 [CEO's Wrath] Flip a coin--  
 Heads: Target creature starts flying the new flag. Card enters your Stowed Hand (but is returned to owner when dead).

@@ -18,7 +18,7 @@ PSI: "0"
 [[CARD TYPES/Card Type|Card Type]]: [[Creature]] - Figurehead  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
-[[Funding Cost]]: 3F  
+[[Funding Cost]]: [[3F]]  
 
 Rules Text:  
 
@@ -28,4 +28,4 @@ Rules Text:
 
 [Incognito Mode] View 3 facedown enemy cards.  
 
-[Target Audience] Target enemy creature card takes 200 cash DMG. You may target additional creatures by expanding the target audience at the Funding Cost of 1F per added target.  
+[Target Audience] Target enemy creature card takes 200 cash DMG. You may target additional creatures by expanding the target audience at the Funding Cost of [[1F]] per added target.  

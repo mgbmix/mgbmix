@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item equips for a [[1F]] cost to a Creature card you control.  
 
 /Air_BAG/ Survive one (1) vehicular attack by using the GMS Mk. III like a retrorocket... Sacrifice this card after this effect activates.  
 

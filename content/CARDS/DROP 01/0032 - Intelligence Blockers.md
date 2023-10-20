@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Brick o' Brack  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an opposing active Creature.  
+This Item equips for a [[1F]] cost to an opposing active Creature.  
 
 [Metal Tuning Fork: Brain-Perfect]   
 * 75 DMG  

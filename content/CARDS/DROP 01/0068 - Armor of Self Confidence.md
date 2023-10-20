@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Armor  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item equips for a [[1F]] cost to a Creature card you control.  
 
 Fragile to EMPs. If electricity is cut, this card is void.  
 

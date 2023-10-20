@@ -11,11 +11,11 @@ Funding Cost: 1F
 [[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Tech / Steam Arts  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
-[[Funding Cost]]: 1F  
+[[Funding Cost]]: [[1F]]  
 
 Rules Text:  
 
-This Skill equips for a 1F cost to an opposing Active Zone.  
+This Skill equips for a [[1F]] cost to an opposing Active Zone.  
 Once equipped, this Skill cannot be moved.  
 When the attached Active Zone's player loses, send this card to discard.  
 

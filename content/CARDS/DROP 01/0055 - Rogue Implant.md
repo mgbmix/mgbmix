@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an opposing Creature card.  
+This Item equips for a [[1F]] cost to an opposing Creature card.  
 
 /Invasive Implant/ This Item cannot be moved to another creature once equipped.  
 

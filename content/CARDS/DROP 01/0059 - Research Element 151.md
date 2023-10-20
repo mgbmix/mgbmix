@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Crafting Material  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an opposing Creature card.  
+This Item equips for a [[1F]] cost to an opposing Creature card.  
 
 /The Glow/ Causes permanent radiation poisoning after equipped creature has it for one full turn.   
 Radiation poisoning causes 25 DMG per turn to afflicted biological creatures at end of turn.   

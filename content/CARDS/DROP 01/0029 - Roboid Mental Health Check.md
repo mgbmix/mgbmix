@@ -11,7 +11,7 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - Bailout  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 

@@ -11,7 +11,7 @@ Funding Cost: 3F
 [[CARD TYPES/Card Type|Card Type]]: [[Group]] - Faction  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
-[[Funding Cost]]: 3F  
+[[Funding Cost]]: [[3F]]  
 
 Rules Text:  
 

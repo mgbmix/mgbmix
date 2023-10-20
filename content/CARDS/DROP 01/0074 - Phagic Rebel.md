@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item equips for a [[1F]] cost to a Creature card you control.  
 
 [Free Harvey Oswald] Fire the Phagic Rebel at a biological creature;  
 On next turn: affected creature has a chance to remove poison if they have a healer ally/poison removal item/PrEP;  

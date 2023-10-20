@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Tool  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item equips for a [[1F]] cost to a Creature card you control.  
 
 /MANN-I-TOTALED/ Equipped creature takes damage as usual but also stores that damage in the balls as Nuts DMG. Keep track of your creature's Nuts DMG.  
 

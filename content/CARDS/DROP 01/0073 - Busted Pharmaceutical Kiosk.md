@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Gimmick  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to your Active Zone.   
+This Item equips for a [[1F]] cost to your Active Zone.   
 Once equipped, this Item gains an HP value of 500.  
 
 [ObubbaCare] Heal any creature from Gross Shit / BRICs / Rainbow R!ot factions - up to 150 HP per turn.

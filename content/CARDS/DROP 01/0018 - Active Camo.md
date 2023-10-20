@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card.  
+This Item equips for a [[1F]] cost to a Creature card.  
 
 /Newly Found Freedom/ Sneak damage!   
 All attacks by Active Camo-equipped creature deal an additional 275 DMG (while cloaked).  

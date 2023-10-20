@@ -11,11 +11,11 @@ Funding Cost: 1F
 [[CARD TYPES/Card Type|Card Type]]: [[Skill]] - Teleportation Arts  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R3]]  
-[[Funding Cost]]: 1F  
+[[Funding Cost]]: [[1F]]  
 
 Rules Text:  
 
-This Skill equips for a 1F cost to an active Creature you control.  
+This Skill equips for a [[1F]] cost to an active Creature you control.  
 Once equipped, this Skill cannot be moved to another Creature.  
 When the attached Creature leaves play, send this card to discard.  
 

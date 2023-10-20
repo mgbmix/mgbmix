@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Ammo  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R4]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Weapon card in play.  
+This Item equips for a [[1F]] cost to a Weapon card in play.  
 
 /Loaded Ammo/ Budslugs must be attached to a Weapon card (a firearm) before its ability can be used.  
 

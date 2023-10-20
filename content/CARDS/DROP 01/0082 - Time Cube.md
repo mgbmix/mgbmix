@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Gimmick  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R6]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to your Think Tank.  
+This Item equips for a [[1F]] cost to your Think Tank.  
 
 [The Golden_Hours] Cap all enemy creatures' INT at 4 maximum for two turns.   
 

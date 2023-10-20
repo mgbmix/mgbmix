@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Chromeware  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R1]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an opposing Creature card.  
+This Item equips for a [[1F]] cost to an opposing Creature card.  
 
 /Selective Parasite/ Xbox Live Vision Camera (HACKED) needs a Fake Tech creature card to serve as a host.
 If the host card is destroyed, send both cards to discard.  

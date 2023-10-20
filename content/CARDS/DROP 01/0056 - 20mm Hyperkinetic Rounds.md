@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Ammo  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R5]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Weapon card you control.  
+This Item equips for a [[1F]] cost to a Weapon card you control.  
 
 /Loaded Ammo/ 20mm Hyperkinetic Rounds must be attached to a Weapon card (a firearm) before its ability can be used.  
 

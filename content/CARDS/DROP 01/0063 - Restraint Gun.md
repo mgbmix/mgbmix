@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Weapon  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to a Creature card you control.  
+This Item equips for a [[1F]] cost to a Creature card you control.  
 
 [Stay_Put] Target is fired upon and wrapped up in--plastic six pack rings and shibari rope--the restraint net. Small chance to strangle and suffocate enemy.
 Target creature is stunned for two (2) turns;

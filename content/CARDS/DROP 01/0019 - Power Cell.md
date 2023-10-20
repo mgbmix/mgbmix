@@ -11,11 +11,11 @@ Funding Cost: 2F
 [[CARD TYPES/Card Type|Card Type]]: [[Item]] - Ammo  
 [[Faction]]: [[Fake Tech]]  
 [[Rarity]]: [[R2]]  
-[[Funding Cost]]: 2F  
+[[Funding Cost]]: [[2F]]  
 
 Rules Text:  
 
-This Item equips for a 1F cost to an active Creature you control.  
+This Item equips for a [[1F]] cost to an active Creature you control.  
 
 [RECHARGE] Use Power Cell to resurrect any spent electric item.
 Return that Item to play equipped to the Creature who used Power Cell.
