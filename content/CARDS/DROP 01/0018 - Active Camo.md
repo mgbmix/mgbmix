@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Active Camo
 ---
 > [!info]- Card Art
 > ![[Active Camo.png]]

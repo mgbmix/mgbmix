@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Camera Loop
 ---
 > [!info]- Card Art
 > ![[Camera Loop.png]]

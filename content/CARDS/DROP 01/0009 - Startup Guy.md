@@ -13,6 +13,8 @@ SWG: "3"
 PSI: "5"
 tags:
   - card
+aliases:
+  - Startup Guy
 ---
 > [!info]- Card Art
 > ![[Startup Guy.png]]

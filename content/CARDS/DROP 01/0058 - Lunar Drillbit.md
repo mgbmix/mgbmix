@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Lunar Drillbit
 ---
 > [!info]- Card Art
 > ![[Lunar Drillbit.png]]

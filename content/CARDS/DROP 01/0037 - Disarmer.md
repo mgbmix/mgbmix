@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Disarmer
 ---
 > [!info]- Card Art
 > ![[Disarmer.png]]

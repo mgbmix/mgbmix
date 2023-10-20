@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - GhostTec Goop Vial
 ---
 > [!info]- Card Art
 > ![[GhostTec Goop Vial.png]]

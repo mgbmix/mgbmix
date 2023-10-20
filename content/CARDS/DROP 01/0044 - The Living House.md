@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - The Living House
 ---
 > [!info]- Card Art
 > ![[The Living House.png]]

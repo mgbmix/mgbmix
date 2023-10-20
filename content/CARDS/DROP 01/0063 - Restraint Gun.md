@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Restraint Gun
 ---
 > [!info]- Card Art
 > ![[Restraint Gun.png]]

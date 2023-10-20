@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - 20mm Hyperkinetic Rounds
 ---
 > [!info]- Card Art
 > ![[20mm Hyperkinetic Rounds.png]]

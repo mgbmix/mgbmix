@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Inscribe and Requite
 ---
 > [!info]- Card Art
 > ![[Inscribe and Requite.jpg]]

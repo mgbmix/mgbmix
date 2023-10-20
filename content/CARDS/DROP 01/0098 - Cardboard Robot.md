@@ -13,6 +13,8 @@ SWG: "3"
 PSI: "1"
 tags:
   - card
+aliases:
+  - Cardboard Robot
 ---
 > [!info]- Card Art
 > ![[Cardboard Robot.jpg]]

@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Internet of Thangs
 ---
 > [!info]- Card Art
 > ![[Internet of Thangs.png]]

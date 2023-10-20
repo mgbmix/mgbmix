@@ -13,6 +13,8 @@ SWG: "2"
 PSI: "0"
 tags:
   - card
+aliases:
+  - The Algorithm
 ---
 > [!info]- Card Art
 > ![[The Algorithm.png]]

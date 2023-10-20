@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Fingerprint DNA Backup
 ---
 > [!info]- Card Art
 > ![[Fingerprint DNA Backup.png]]

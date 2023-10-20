@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - CAPTCHA Verification
 ---
 > [!info]- Card Art
 > ![[CAPTCHA Verification.png]]

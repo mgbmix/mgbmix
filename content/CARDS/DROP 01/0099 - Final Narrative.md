@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Final Narrative
 ---
 > [!info]- Card Art
 > ![[Final Narrative.jpg]]

@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Scientific Proof
 ---
 > [!info]- Card Art
 > ![[Scientific Proof.png]]

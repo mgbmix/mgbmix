@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Temperature Regulator
 ---
 > [!info]- Card Art
 > ![[Temperature Regulator.png]]

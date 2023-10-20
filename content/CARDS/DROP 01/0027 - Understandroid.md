@@ -13,6 +13,8 @@ SWG: "3"
 PSI: "7"
 tags:
   - card
+aliases:
+  - Understandroid
 ---
 > [!info]- Card Art
 > ![[Understandroid.png]]

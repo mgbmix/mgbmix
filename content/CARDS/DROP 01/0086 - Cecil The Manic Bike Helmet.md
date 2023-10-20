@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Cecil The Manic Bike Helmet
 ---
 > [!info]- Card Art
 > ![[Cecil The Manic Bike Helmet.png]]

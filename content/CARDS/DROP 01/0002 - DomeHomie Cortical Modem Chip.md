@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - DomeHomie Cortical Modem Chip
 ---
 > [!info]- Card Art
 > ![[DomeHomie Cortical Modem Chip.png]]

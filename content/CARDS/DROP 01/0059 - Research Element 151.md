@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Research Element 151
 ---
 > [!info]- Card Art
 > ![[Research Element 151.png]]

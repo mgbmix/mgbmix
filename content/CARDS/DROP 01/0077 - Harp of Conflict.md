@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Harp of Conflict
 ---
 > [!info]- Card Art
 > ![[Harp of Conflict.png]]

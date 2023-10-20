@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 3F
 tags:
   - card
+aliases:
+  - APPLY
 ---
 > [!info]- Card Art
 > ![[APPLY.png]]

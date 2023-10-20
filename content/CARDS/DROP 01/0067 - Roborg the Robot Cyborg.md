@@ -13,6 +13,8 @@ SWG: "1"
 PSI: "4"
 tags:
   - card
+aliases:
+  - Roborg the Robot Cyborg
 ---
 > [!info]- Card Art
 > ![[Roborg the Robot Cyborg.png]]

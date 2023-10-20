@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 3F
 tags:
   - card
+aliases:
+  - Fake Tech(card)
 ---
 > [!info]- Card Art
 > ![[Fake Tech.jpg]]
@@ -18,4 +20,4 @@ tags:
 Rules Text:  
 
 [Looks Real to Me] All Fake Tech card effects gain one (1) extra turn to their duration.  
-All attacks deal 75 add'l DMG.  
+All attacks deal 75 additional [[DMG]].  

@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Xbox Live Vision Camera (HACKED)
 ---
 > [!info]- Card Art
 > ![[Xbox Live Vision Camera (HACKED).png]]

@@ -13,6 +13,8 @@ SWG: "12"
 PSI: "0"
 tags:
   - card
+aliases:
+  - Jack Jill Vyco and DIN
 ---
 > [!info]- Card Art
 > ![[Jack Jill Vyco and DIN.png]]

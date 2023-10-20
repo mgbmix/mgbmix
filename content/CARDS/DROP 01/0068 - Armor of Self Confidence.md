@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Armor of Self Confidence
 ---
 > [!info]- Card Art
 > ![[Armor of Self Confidence.png]]

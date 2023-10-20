@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Blockchain Tech
 ---
 > [!info]- Card Art
 >![[Blockchain Tech.png]]

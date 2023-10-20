@@ -13,6 +13,8 @@ SWG: "4"
 PSI: "0"
 tags:
   - card
+aliases:
+  - Super Computer 1999
 ---
 > [!info]- Card Art
 > ![[Super Computer 1999.png]]

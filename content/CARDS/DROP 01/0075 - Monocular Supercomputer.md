@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Monocular Supercomputer
 ---
 > [!info]- Card Art
 > ![[Monocular Supercomputer.png]]

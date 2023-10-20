@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Panopticon You
 ---
 > [!info]- Card Art
 > ![[Panopticon You.png]]

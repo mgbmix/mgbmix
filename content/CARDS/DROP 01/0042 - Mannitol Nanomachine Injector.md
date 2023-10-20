@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Mannitol Nanomachine Injector
 ---
 > [!info]- Card Art
 > ![[Mannitol Nanomachine Injector.png]]

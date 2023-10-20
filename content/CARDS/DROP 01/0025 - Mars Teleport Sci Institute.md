@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - Mars Teleport Sci Institute
 ---
 > [!info]- Card Art
 > ![[Mars Teleport Sci Institute.png]]

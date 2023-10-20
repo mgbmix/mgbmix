@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - GhostTec HELLmet
 ---
 > [!info]- Card Art
 > ![[GhostTec HELLmet.png]]

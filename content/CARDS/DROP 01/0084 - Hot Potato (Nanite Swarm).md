@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Hot Potato (Nanite Swarm)
 ---
 > [!info]- Card Art
 > ![[Hot Potato (Nanite Swarm).png]]

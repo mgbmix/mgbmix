@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Power Cell
 ---
 > [!info]- Card Art
 > ![[Power Cell.png]]

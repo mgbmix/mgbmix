@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Hedonic Treadmill
 ---
 > [!info]- Card Art
 > ![[Hedonic Treadmill.png]]

@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - MyGirls AI-Generated Girlfriend Experience
 ---
 > [!info]- Card Art
 > ![[MyGirls AI-Generated Girlfriend Experience.png]]

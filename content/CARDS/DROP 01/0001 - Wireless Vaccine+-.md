@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - "Wireless Vaccine+-"
 ---
 > [!info]- Card Art
 > ![[Wireless Vaccine+-.png]]

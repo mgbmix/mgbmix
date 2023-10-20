@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Stealth Warp
 ---
 > [!info]- Card Art
 > ![[Stealth Warp.png]]

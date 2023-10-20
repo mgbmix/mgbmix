@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Power Wand
 ---
 > [!info]- Card Art
 > ![[Power Wand.png]]

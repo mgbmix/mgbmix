@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Nopalgarthian Emplacer
 ---
 > [!info]- Card Art
 > ![[Nopalgarthian Emplacer.png]]

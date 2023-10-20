@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - Planet B
 ---
 > [!info]- Card Art
 > ![[Planet B.jpg]]

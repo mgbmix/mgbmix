@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - Authentic World
 ---
 > [!info]- Card Art
 > ![[Authentic World.png]]

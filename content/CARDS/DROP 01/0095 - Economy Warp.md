@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Economy Warp
 ---
 > [!info]- Card Art
 > ![[Economy Warp.jpg]]

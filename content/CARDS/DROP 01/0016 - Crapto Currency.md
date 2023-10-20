@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Crapto Currency
 ---
 > [!info]- Card Art
 > ![[Crapto Currency.png]]

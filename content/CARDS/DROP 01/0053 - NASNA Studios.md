@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - NASNA Studios
 ---
 > [!info]- Card Art
 > ![[NASNA Studios.png]]

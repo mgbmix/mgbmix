@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Busted Pharmaceutical Kiosk
 ---
 > [!info]- Card Art
 > ![[Busted Pharmaceutical Kiosk.png]]

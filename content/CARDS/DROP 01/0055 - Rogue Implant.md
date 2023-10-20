@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Rogue Implant
 ---
 > [!info]- Card Art
 > ![[Rogue Implant.png]]

@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Internal Power Unit
 ---
 > [!info]- Card Art
 > ![[Internal Power Unit.png]]

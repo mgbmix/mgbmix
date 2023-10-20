@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Amplifier Circuit
 ---
 > [!info]- Card Art
 > ![[Amplifier Circuit.png]]

@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Does Not Exist!
 ---
 > [!info]- Card Art
 > ![[Does Not Exist!.png]]

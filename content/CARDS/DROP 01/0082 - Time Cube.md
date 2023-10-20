@@ -6,6 +6,8 @@ Rarity: R6
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Time Cube
 ---
 > [!info]- Card Art
 > ![[Time Cube.png]]

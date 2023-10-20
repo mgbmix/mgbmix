@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - GhostTec OdorTizer
 ---
 > [!info]- Card Art
 > ![[GhostTec OdorTizer.png]]

@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 3F
 tags:
   - card
+aliases:
+  - Life Hacks for Dummies
 ---
 > [!info]- Card Art
 > ![[Life Hacks for Dummies.png]]

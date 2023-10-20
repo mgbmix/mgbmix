@@ -13,6 +13,8 @@ SWG: "6"
 PSI: "7"
 tags:
   - card
+aliases:
+  - Electric Chairman
 ---
 > [!info]- Card Art
 > ![[Electric Chairman.png]]

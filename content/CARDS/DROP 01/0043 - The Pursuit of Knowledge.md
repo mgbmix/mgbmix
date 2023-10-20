@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 4F / 0F
 tags:
   - card
+aliases:
+  - The Pursuit of Knowledge
 ---
 > [!info]- Card Art
 > ![[The Pursuit of Knowledge.png]]

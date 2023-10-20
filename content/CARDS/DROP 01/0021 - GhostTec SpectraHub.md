@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - GhostTec SpectraHub
 ---
 > [!info]- Card Art
 > ![[GhostTec SpectraHub.png]]

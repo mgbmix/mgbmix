@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Portal Formula
 ---
 > [!info]- Card Art
 > ![[Portal Formula.png]]

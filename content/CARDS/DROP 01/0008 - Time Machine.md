@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Time Machine
 ---
 > [!info]- Card Art
 > ![[Time Machine.png]]

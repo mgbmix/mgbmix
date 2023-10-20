@@ -13,6 +13,8 @@ SWG: "5"
 PSI: "2"
 tags:
   - card
+aliases:
+  - Lushsux Dix
 ---
 > [!info]- Card Art
 > ![[Lushsux Dix.png]]

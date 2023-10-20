@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Failed Crowdfunding
 ---
 > [!info]- Card Art
 > ![[Failed Crowdfunding.png]]

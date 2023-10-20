@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - GhostTec Certification Card
 ---
 > [!info]- Card Art
 > ![[GhostTec Certification Card.png]]

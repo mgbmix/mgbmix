@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Utopia Scrupulous Automation
 ---
 > [!info]- Card Art
 > ![[Utopia Scrupulous Automation.png]]

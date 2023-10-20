@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 0F
 tags:
   - card
+aliases:
+  - Imposter Moon
 ---
 > [!info]- Card Art
 > ![[Imposter Moon.png]]

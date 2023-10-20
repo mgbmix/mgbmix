@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Missionate
 ---
 > [!info]- Card Art
 > ![[Missionate.png]]

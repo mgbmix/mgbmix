@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - GMS Gimme My Space Mk III Energy Projector
 ---
 > [!info]- Card Art
 > ![[GMS Gimme My Space Mk III Energy Projector.png]]

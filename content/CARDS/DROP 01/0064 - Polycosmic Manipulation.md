@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Polycosmic Manipulation
 ---
 > [!info]- Card Art
 > ![[Polycosmic Manipulation.png]]

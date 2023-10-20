@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Eye of Providence
 ---
 > [!info]- Card Art
 > ![[Eye of Providence.png]]

@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Bogus Freeze Gun
 ---
 > [!info]- Card Art
 > ![[Bogus Freeze Gun.png]]

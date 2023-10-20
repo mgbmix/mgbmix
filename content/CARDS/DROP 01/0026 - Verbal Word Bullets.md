@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Verbal Word Bullets
 ---
 > [!info]- Card Art
 > ![[Verbal Word Bullets.png]]

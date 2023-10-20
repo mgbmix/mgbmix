@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Artisanal Camo
 ---
 > [!info]- Card Art
 > ![[Artisanal Camo.png]]

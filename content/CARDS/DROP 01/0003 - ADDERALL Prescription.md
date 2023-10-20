@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - ADDERALL Prescription
 ---
 > [!info]- Card Art
 > ![[ADDERALL Prescription.png]]

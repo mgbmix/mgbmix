@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Social Media Mogul's Beard
 ---
 > [!info]- Card Art
 > ![[Social Media Mogul's Beard.png]]

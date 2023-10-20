@@ -6,6 +6,8 @@ Rarity: R3
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Waypoint Database
 ---
 > [!info]- Card Art
 > ![[Waypoint Database.png]]

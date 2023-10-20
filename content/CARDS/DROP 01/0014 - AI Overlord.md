@@ -13,6 +13,8 @@ SWG: "4"
 PSI: "3"
 tags:
   - card
+aliases:
+  - AI Overlord
 ---
 > [!info]- Card Art
 > ![[AI Overlord.png]]

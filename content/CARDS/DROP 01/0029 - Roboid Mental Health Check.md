@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Roboid Mental Health Check
 ---
 > [!info]- Card Art
 > ![[Roboid Mental Health Check.png]]

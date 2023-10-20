@@ -6,6 +6,8 @@ Rarity: R6
 Funding Cost: 5F
 tags:
   - card
+aliases:
+  - Guess What LOL
 ---
 > [!info]- Card Art
 > ![[Guess What LOL.png]]

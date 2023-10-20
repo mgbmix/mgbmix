@@ -6,6 +6,8 @@ Rarity: R2
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Intelligence Blockers
 ---
 > [!info]- Card Art
 > ![[Intelligence Blockers.png]]

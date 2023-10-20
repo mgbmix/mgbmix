@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Skillbo Bowlins (Quad-Ought Gauge)
 ---
 > [!info]- Card Art
 > ![[Skillbo Bowlins (Quad-Ought Gauge).png]]

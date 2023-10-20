@@ -13,6 +13,8 @@ SWG: "2"
 PSI: "4"
 tags:
   - card
+aliases:
+  - Blockchain Evangelist
 ---
 > [!info]- Card Art
 > ![[Blockchain Evangelist.png]]

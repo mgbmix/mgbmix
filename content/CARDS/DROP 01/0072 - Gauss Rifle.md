@@ -6,6 +6,8 @@ Rarity: R5
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Gauss Rifle
 ---
 > [!info]- Card Art
 > ![[Gauss Rifle.png]]

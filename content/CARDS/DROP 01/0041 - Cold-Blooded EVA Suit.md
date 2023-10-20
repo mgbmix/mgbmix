@@ -6,6 +6,8 @@ Rarity: R6
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Cold-Blooded EVA Suit
 ---
 > [!info]- Card Art
 > ![[Cold-Blooded EVA Suit.png]]

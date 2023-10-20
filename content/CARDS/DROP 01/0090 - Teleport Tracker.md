@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Teleport Tracker
 ---
 > [!info]- Card Art
 > ![[Teleport Tracker.png]]

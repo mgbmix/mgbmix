@@ -6,6 +6,8 @@ Rarity: R4
 Funding Cost: 2F
 tags:
   - card
+aliases:
+  - Budslugs
 ---
 > [!info]- Card Art
 > ![[Budslugs.png]]

@@ -6,6 +6,8 @@ Rarity: R1
 Funding Cost: 1F
 tags:
   - card
+aliases:
+  - Long Warp
 ---
 > [!info]- Card Art
 > ![[Long Warp.jpg]]
