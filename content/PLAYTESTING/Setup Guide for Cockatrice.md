@@ -47,16 +47,16 @@ NB: to navigate in a file explorer to folders that start with a period, set your
 
 8. If you didn't already, open a file explorer to the card database location that was shown in your General Settings: Paths window. Here's an example of the data folder (with the Mondo file already added).
 
-9. Copy the 'cards.xml' file from the mgbmix archive into Cockatrice's "base data directory" as you see in the screenshot. It should be the exact same location as in the Settings Window.
-
 ![[cockatrice-data-folder.png]]
+
+9. Copy the 'cards.xml' file from the mgbmix archive into Cockatrice's "base data directory" as you see in the screenshot. It should be the exact same location as in the Settings Window.
 
 
 #### Section for Adding Card Art
 
 10. Additionally, you can add the Mondo Megabits card images if you downloaded the archive containing them. From that "base data directory" where you put the 'cards.xml' file, open the pics folder, then the CUSTOM folder, and copy into that directory the entire folder named "D01" from the Google Drive. This screenshot shows an example of where the "D01" folder containing all the images should be located.
 
-NB: Don't change the name of the "D01" folder.
+> [!warning] NB: Don't change the name of the "D01" folder.
 
 ![[cockatrice-mondo-pics-location.png]]
 

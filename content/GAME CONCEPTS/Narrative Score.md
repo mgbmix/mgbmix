@@ -23,4 +23,10 @@ It ranges from -5 to +5, with each extreme being instant defeat or victory.
 > To increase Narrative Score by +1, use the [[Think Tank]] Figurehead to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 
 
 > [!note] Attacking Narrative Score
-> To decrease opponent’s Narrative Score by -1, use a [[Creature]] with [[INT]] stat 8 or higher to perform a Discredit attack (if possible).
+> To decrease opponent’s Narrative Score by -1, use a [[Creature]] with [[INT]] stat 8 or higher to perform a [[Discredit]] attack (if possible).
+
+
+
+#### Other Points on Narrative Score
+
+- The concept of your "Narrative" within the game doesn't matter, you don't need to make up a story or a lore-based goal to win the game. It's a finish line.  

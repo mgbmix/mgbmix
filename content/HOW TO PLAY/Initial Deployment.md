@@ -18,14 +18,14 @@ The first turn of the game for each player is their Initial Deployment.
 
 
 
-
+#### Initial Deployment Example
 
 An example of a game's proceedings.
 
-Player 1 receives 20 Funding and draws seven cards.
-That player may then deploy and use any cards for their Funding cost, or [[Stow]] any cards for 1 Funding each. That player may Seat a Figurehead (if one was played), and if Seated take a Think Tank action of Fundraise or Proselytize.
+Player 1 receives 20 [[Funding]] and draws seven cards.
+That player may then [[deploy]] and use any cards for their [[Funding cost]], or [[Stow]] any cards for [[1F]] each. That player may [[Seat]] a [[Figurehead]] (if one was played), and if Seated take a [[Think Tank actions|Think Tank action]] of [[Fundraise]] or [[Proselytize]].
 
-Player 2 receives 20 Funding and draws a Look Hand of ten cards.
+Player 2 receives 20 Funding and draws seven cards plus their [[Look Hand]] of three cards.
 That player may then deploy and use any cards for their Funding cost, or Stow any cards for 1 Funding each. That player may Seat a Figurehead (if one was played), and if Seated take a Think Tank action of Fundraise or Proselytize. 
 
 Play now continues with players taking regular turns that start by gaining 4 Funding and drawing a Look Hand of three cards. 
