@@ -9,7 +9,7 @@ Many of the Drops (and thus the Sets) are focused on one (or more) particular gr
 
 # Sets and Cockatrice
 
-When generating a cardlist, Cockatrice asks for a shorthand abbreviation for each set. I've chosen to use D01, D02, etc. as we progress through the NFT drops by the main dev team. This was my own choice and has nothing to do with the cards themselves.
+When generating a cardlist, Cockatrice asks for a shorthand abbreviation for each set. I've chosen to use [[DROP01 - Fake Tech|D01]], D02, etc. as we progress through the NFT drops by the main dev team. This was my own choice and has nothing to do with the cards themselves.
 
 # Current Sets
 
