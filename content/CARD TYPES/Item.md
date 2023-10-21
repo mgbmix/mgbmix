@@ -19,14 +19,15 @@ Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that attach
  
 > [!danger] If the active player has no Creatures in play at the end of their turn, there's nobody on board to defend the Items; they are looted by the masses (sent to discard pile).
 
-
+  
+  
 
 ### Item cards listed by Set and Subtype
 
 #### [[DROP01 - Fake Tech]]
 
-```dataview
-LIST  rows.file.link
-FROM "CARDS/DROP01" and #card/item
-GROUP BY Subtype
-```
+##### Subtype1
+ - Card1
+ - card2
+
+

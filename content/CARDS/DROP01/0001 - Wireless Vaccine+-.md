@@ -1,11 +1,12 @@
 ---
 Card Type: Item
 Subtype: Weapon
-Faction: Fake Tech
+Faction: FakeTech
 Rarity: R4
 Funding Cost: 2F
 tags:
   - card/item/weapon
+  - faction/faketech
 aliases:
   - Wireless Vaccine+-
 ---
