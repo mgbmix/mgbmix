@@ -1,3 +1,4 @@
+![[faketechlogo.png]]
 
 Fake Tech is one of the game's [[Faction]].
 

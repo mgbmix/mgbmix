@@ -10,15 +10,21 @@ tags:
 aliases:
   - Wireless Vaccine+-
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Wireless Vaccine+-.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Weapon]] |  
+| [[Faction]] | [[Fake Tech]] | 
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text
 
 This Item [[Equip|equips]] for a [[1F]] cost to your [[Think Tank]].  
 
@@ -37,5 +43,11 @@ Strange side effect: The high acidity of the Bugelsil vaccine causes all metal e
 One use only;  
 Blocks HIV and HIV Ex Plus a for ten (10) turns;  
 Lowers target INT by 2.  
+
+# Card Nav
+
+| Previous Card |    SET | Next Card |
+| :-----:| :-----: | :-----: |
+| none | ![[faketechlogo.png]] | [[0002 - DomeHomie Cortical Modem Chip\|DomeHomie Cortical Modem Chip]] |
 
 

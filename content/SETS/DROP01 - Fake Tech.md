@@ -1,6 +1,7 @@
 ---
 aliases:
   - D01
+  - DROP01
 ---
 Mondo Megabits' first NFT collection began minting September 5, 2022.
 Minting ended September 8, 2022. A total of 3001 NFTs were minted.

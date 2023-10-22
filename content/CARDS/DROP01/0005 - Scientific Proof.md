@@ -9,15 +9,21 @@ tags:
 aliases:
   - Scientific Proof
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Scientific Proof.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Scam]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R1]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[CARD TYPES/Card Type\|Card Type]] | [[Tactic]] - [[Scam]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R1]] | 
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Tactic enters play face-up in your [[Think Tank]]. You may activate its effect at any time.  
 
@@ -25,3 +31,9 @@ This Tactic enters play face-up in your [[Think Tank]]. You may activate its eff
 
 /New Evidence Sugggests.../ Only 1 Scientific Proof card may be in play at a time.  
 Whenever a player plays Scientific Proof, all other instances of the card must be shuffled into the owner's newsfeed.  
+
+# Card Nav
+
+| Previous Card | SET | Next Card |
+| :-----:| :-----: | :-----: |
+| [[0004 - Failed Crowdfunding\|Failed Crowdfunding]] | ![[faketechlogo.png]] | [[0006 - Cell Phone\|Cell Phone]]|

@@ -9,15 +9,21 @@ tags:
 aliases:
   - Xbox Live Vision Camera (HACKED)
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Xbox Live Vision Camera (HACKED).png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Chromeware]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R1]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Chromeware]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R1]] |
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to an opposing Creature card.  
 
@@ -25,4 +31,11 @@ This Item equips for a [[1F]] cost to an opposing Creature card.
 If the host card is destroyed, send both cards to discard.  
 
 /Illuminating Penetration/ When this item is equipped on a creature, you are allowed to look at the Stowed and Look Hands of the equipped Creature's controller.  
+
+# Card Nav
+
+| SET | ![[faketechlogo.png]] |
+| --- | --- |
+| Previous Card | [[0006 - Cell Phone]] |
+| Next Card | [[0008 - Time Machine]] |
 
