@@ -21,4 +21,14 @@ A free contest Challenge allows players to get the effects from their Challenge 
 
 - A challenge deployed as a free contest cannot stay on the battlefield; it must resolve immediately. When a player announces a free contest challenge, the main phase of their turn is interrupted to complete the challenge right away.
 
-- First, the active player attempts to complete the challenge and resolve its effects. They then pass the opportunity to the next opponent, whether they succeeded the challenge or not. All players in turn order get one chance to fulfill the challenge and its effects. After all players have taken their chance, the challenge card is sent to the owner’s discard pile.
+- First, the active player attempts to complete the challenge and resolve its effects. They then pass the opportunity to the next opponent, whether they succeeded the challenge or not. All players in turn order get one chance to fulfill the challenge and its effects. After all players have taken their chance, the challenge card is sent to the owner’s discard pile.  
+
+### Challenge cards listed by Set and Subtype
+
+#### [[DROP01 - Fake Tech]]
+
+##### [[Tutorial Mission]]
+> [!example]- Tutorial Mission cards (1)
+>  - [[0043 - The Pursuit of Knowledge|The Pursuit of Knowledge]]
+
+

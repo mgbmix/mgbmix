@@ -15,7 +15,7 @@ Drop01 is represented in [[Cockatrice]] by the shorthand [[Sets|Set]] code D01.
 >
 > [[Buff]]: 4 cards  
 > [[Challenge]]: 1 card  
-> [[Creature]]: 11 cards  
+> [[Creature]]: [[Creature#Creature cards listed by Set and Subtype#DROP01 - Fake Tech|11 cards]]  
 > [[Group]]: 2 cards  
 > [[Infomashun]]: 3 cards  
 > [[Item]]: 50 cards  

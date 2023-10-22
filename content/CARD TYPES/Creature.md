@@ -16,7 +16,7 @@ Creatures are the main [[CARD TYPES/Card Type|card type]] in Mondo Megabits. Mos
 > [[R6]] = [[5F]]  
 
 
-#### Creature [[Subtype]] 
+### Creature [[Subtype]] 
 
 Each creature card has a subtype, which denotes its class/role/title in-game.
 Some examples of subtypes are: [[Footsoldier]], [[Lackey]], [[Nemesis]], and [[Figurehead]]. 
@@ -36,3 +36,34 @@ In short, the uses of each stat:
 - NRG = energy projection, for using activated abilities 
 - SWG = swag, ability to do and wear cool things 
 - PSI = psychological defences 
+
+### Creature cards listed by Set and Subtype
+
+#### [[DROP01 - Fake Tech]]
+
+##### [[Figurehead]]
+> [!example]- Figurehead cards (5)
+>  - [[0014 - AI Overlord|AI Overlord]]
+>  - [[0017 - Blockchain Evangelist|Blockchain Evangelist]]
+>  - [[0054 - Electric Chairman|Electric Chairman]]
+>  - [[0009 - Startup Guy|Startup Guy]]
+>  - [[0012 - The Algorithm|The Algorithm]]
+
+##### [[Footsoldier]]
+> [!example]- Footsoldier cards (2)
+>  - [[0067 - Roborg the Robot Cyborg|Roborg the Robot Cyborg]]
+>  - [[0027 - Understandroid|Understandroid]]
+
+##### [[Lackey]]
+> [!example]- Lackey cards (1)
+>  - [[0011 - Super Computer 1999|Super Computer 1999]]
+
+##### [[Nemesis]]
+> [!example]- Nemesis cards (2)
+>  - [[0080 - Jack Jill Vyco and DIN|Jack Jill Vyco and DIN]]
+>  - [[0050 - Lushsux Dix|Lushsux Dix]]
+
+##### [[Pissant]]
+> [!example]- Pissant cards (1)
+>  - [[0098 - Cardboard Robot|Cardboard Robot]]
+
