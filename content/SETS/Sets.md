@@ -1,3 +1,7 @@
+---
+aliases:
+  - set
+---
 
 # 'Sets' and 'Drops'
 
@@ -5,7 +9,7 @@ Mondo Megabits cards are released by the main development team in NFT collection
 
 # Factions and Sets
 
-Many of the Drops (and thus the Sets) are focused on one (or more) particular grouping of cards called [[Faction]]. In a loose, lore way, Factions represent different ideological collectives inside the game world. A Faction's "principles" and "ideology" don't really matter, you should just focus on the rules text in the cards and how they interact with each other. Factions have a lot more gameplay interactions than Sets, which makes them more important to a card.
+Many of the Drops (and thus the Sets) are focused on one (or more) particular grouping of cards called [[Faction|Factions]]. In a loose, lore way, Factions represent different ideological collectives inside the game world. A Faction's "principles" and "ideology" don't really matter, you should just focus on the rules text in the cards and how they interact with each other. Factions have a lot more gameplay interactions than Sets, which makes them more important to a card.
 
 # Sets and Cockatrice
 

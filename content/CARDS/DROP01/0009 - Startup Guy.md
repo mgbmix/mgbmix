@@ -47,7 +47,7 @@ Tails, nothing.
 
 # Card Nav
 
-| SET | ![[faketechlogo.png]] |
+| [[Sets\|SET]] | ![[faketechlogo.png]] |
 | --- | --- |
 | Next Card | [[0010 - Social Media Mogul's Beard]] |
 | Previous Card | [[0008 - Time Machine]] |

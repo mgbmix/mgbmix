@@ -4,6 +4,10 @@ Cockatrice is a computer program used for playing tabletop card games, specifica
 
 The program is customizable enough that we can import representations of the Mondo Megabits cards and interact with them via sorting, deckbuilding, and gameplay. 
 
+## Follow the Guide
+
+For setup instructions, [[Setup Guide for Cockatrice|click here]]
+
 ### Upsides to Using Cockatrice
 
 While not a perfect fit given our use case, it is currently the ideal solution for playtesting my Mondo Megabits ruleset for these reasons:
@@ -36,3 +40,9 @@ In this screenshot you can see several elements of the Cockatrice client:
 - Various counters on the left that can be used if needed
 - [[Game Zones]] as follows: Green = [[Look Hand]], Purple below line = Think Tank (with 4 face-down cards in the [[Stowed Hand]]), Purple above line = [[Active Zone]], Red = [[Location]] (plus maybe other uses)
 - The counter right next to 'Player 1' is normally used for life points in Magic games, but is a perfect match for [[Funding]] since it starts at 20 by default
+
+
+With some [[Setup Guide for Cockatrice#Section for Adding Custom Theme (Colours, Cardback)|modifications]], we can make Cockatrice look like this:
+
+![[Screenshot at 2023-10-18 23-01-35.png]]
+

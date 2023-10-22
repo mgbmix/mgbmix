@@ -1,5 +1,5 @@
 
-HOW TO SET UP [[COCKATRICE]]
+# HOW TO SET UP [[COCKATRICE]]
 
 1. Go to the Cockatrice website [https://cockatrice.github.io/](https://cockatrice.github.io/ "https://cockatrice.github.io/") and download the program and install it.
 
