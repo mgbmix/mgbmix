@@ -4,7 +4,7 @@
  > [!note] [[Funding Cost]]  
  >  Tactics cost [[2F]] to [[deploy]].
 
-Tactics enter play in their controller's Think Tank.
+Tactics enter play in their controller's [[Think Tank]].
 
 Tactics can be activated at any time.
 

@@ -16,7 +16,7 @@ Groups are a [[CARD TYPES/Card Type|card type]] whose effects and benefits work 
 
 ##### [[Faction(subtype)|Faction]]
 > [!example]- Faction cards (1)
->  - [[0100 - Fake Tech|Fake Tech(card)]]
+>  - [[0100 - Fake Tech|Fake Tech]]
 
 ##### [[Zaibatsu]]
 > [!example]- Zaibatsu cards (1)

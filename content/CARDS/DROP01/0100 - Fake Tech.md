@@ -7,7 +7,7 @@ Funding Cost: 3F
 tags:
   - card/group/faction
 aliases:
-  - Fake Tech(card)
+  - Fake Tech
 ---
 > [!info]- Card Art
 > ![[Fake Tech.jpg]]
