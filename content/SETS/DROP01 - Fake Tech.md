@@ -5,9 +5,9 @@ aliases:
 Mondo Megabits' first NFT collection began minting September 5, 2022.
 Minting ended September 8, 2022. A total of 3001 NFTs were minted.
 
-DROP01 is a solo Faction set, representing only cards from the [[Fake Tech]] Faction.
+DROP01 is a solo [[Faction]] set, representing only cards from the [[Fake Tech]] Faction.
 
-Drop01 is represented in [[Cockatrice]] by the shorthand [[Sets|Set]] code D01.
+Drop01 is represented in [[Cockatrice]] by the shorthand [[Sets|Set]] code __D01__.
 
 ### Card Typings
 

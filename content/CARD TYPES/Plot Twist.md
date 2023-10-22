@@ -9,3 +9,15 @@ Plot Twists are a dynamic [[CARD TYPES/Card Type|card type]] that can drasticall
 
 
    Note: Given that they are face-down and also in the [[Think Tank]] area, Plot Twists may be combined with the player’s Stowed Hand, as long as proper costs and rules are observed when each card is played.
+
+
+### Plot Twist cards listed by Set and Subtype
+
+#### [[DROP01 - Fake Tech]]
+
+##### [[Paradigm Shift]]
+> [!example]- Paradigm Shift cards (3)
+>  - [[0015 - Blockchain Tech|Blockchain Tech]]
+>  - [[0028 - Internet of Thangs|Internet of Thangs]]
+>  - [[0060 - Utopia Scrupulous Automation|Utopia Scrupulous Automation]]
+
