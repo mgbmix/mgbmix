@@ -16,15 +16,21 @@ tags:
 aliases:
   - Startup Guy
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Startup Guy.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R2]]  
-[[Funding Cost]]: [[3F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[CARD TYPES/Card Type\|Card Type]] | [[Creature]] - [[Figurehead]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R2]] |  
+| [[Funding Cost]] | [[3F]] |  
+
+# Rules Text  
 
 [[HP]]: 250 [[STR]]: 2 [[INT]]: 5 [[FYT]]: 3 [[NRG]]: 3 [[SWG]]: 3 [[PSI]]: 5  
 
@@ -38,3 +44,11 @@ Tails, nothing.
 [Call the Cops] Force any creature with STR below 4 into hiding for two (2) turns. Usable once (crying wolf).  
 
 (*Beware, if attacked with 'strobe light' Startup Guy will convulse for 25 turns.)  
+
+# Card Nav
+
+| SET | ![[faketechlogo.png]] |
+| --- | --- |
+| Next Card | [[0010 - Social Media Mogul's Beard]] |
+| Previous Card | [[0008 - Time Machine]] |
+

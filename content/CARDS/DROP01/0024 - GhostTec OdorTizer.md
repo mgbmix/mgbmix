@@ -9,15 +9,20 @@ tags:
 aliases:
   - GhostTec OdorTizer
 ---
+# Art
+
 > [!info]- Card Art
 > ![[GhostTec OdorTizer.png]]
+# Card Specs
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Tool]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Tool]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[2F]] |  
   
-Rules Text:  
+# Rules Text  
   
 This Item equips for a [[1F]] cost to a Creature card you control.  
   

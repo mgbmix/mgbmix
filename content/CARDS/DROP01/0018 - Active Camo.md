@@ -9,15 +9,21 @@ tags:
 aliases:
   - Active Camo
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Active Camo.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Chromeware]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R5]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Chromeware]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R5]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card.  
 
@@ -33,3 +39,6 @@ When hit, Active Camo Suit is disabled for one (1) turn. Equipped creature takes
 [Whoopsie] Flip a coin:  
 If Tails, nothing.  
 If Heads, put equipped creature on the bottom of its owner's deck.  
+
+# Card Nav
+

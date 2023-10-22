@@ -16,15 +16,21 @@ tags:
 aliases:
   - Blockchain Evangelist
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Blockchain Evangelist.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[4F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Figurehead]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[4F]] |  
+
+# Rules Text  
 
 [[HP]]: 325 [[STR]]: 2 [[INT]]: 5 [[FYT]]: 3 [[NRG]]: 2 [[SWG]]: 2 [[PSI]]: 4  
 
@@ -33,3 +39,6 @@ Rules Text:
 [It's the Future of Contracts] While this creature is alive, cost to play is reduced by 50% for all cards. You must activate this ability the turn you want to use it.  
 
 [BitCoins Millionaire] If Blockchain Tech or Crapto Currency is played while this creature is in play, gain 50 Bitcoin tokens.  
+
+# Card Nav 
+

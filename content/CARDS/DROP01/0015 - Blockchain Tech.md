@@ -9,15 +9,21 @@ tags:
 aliases:
   - Blockchain Tech
 ---
+# Art
+
 > [!info]- Card Art
 >![[Blockchain Tech.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Plot Twist]] - [[Paradigm Shift]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[1F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Plot Twist]] - [[Paradigm Shift]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[1F]] |  
+
+# Rules Text  
 
 When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.  
 
@@ -28,3 +34,6 @@ When you activate this card, send all Agendas and Tactics in play to the discard
 [Aren't You Glad I'm a Racist] -useless-  
 
 [Aren't You Glad I'm at Least as Smart or Possibly a Little Smarter than You] -useless-  
+
+# Card Nav
+

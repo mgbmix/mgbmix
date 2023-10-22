@@ -16,15 +16,21 @@ tags:
 aliases:
   - AI Overlord
 ---
+# Art
+
 > [!info]- Card Art
 > ![[AI Overlord.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[4F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Figurehead]] | 
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |
+| [[Funding Cost]] | [[4F]] |  
+
+# Rules Text  
 
 [[HP]]: 675 [[STR]]: 1 [[INT]]: 9 [[FYT]]: 1 [[NRG]]: 9 [[SWG]]: 4 [[PSI]]: 3  
 
@@ -35,3 +41,6 @@ Rules Text:
 /Mild Resentment v2.0/ Once a player plays AI Overlord, no other player may do so.  
 
 [Quantum Predictive Analysis] Any move the opponent makes this turn, say "I predicted you'd do that so I already installed the perfect countermeasures." They cannot do any of their moves. Quexnert's CPU explodes when this is complete--remove AI Overlord from play.  
+
+# Card Nav
+

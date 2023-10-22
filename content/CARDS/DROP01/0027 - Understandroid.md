@@ -16,15 +16,21 @@ tags:
 aliases:
   - Understandroid
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Understandroid.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Footsoldier]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R1]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Footsoldier]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R1]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 [[HP]]: 350 [[STR]]: 4 [[INT]]: 5 [[FYT]]: 2 [[NRG]]: 4 [[SWG]]: 3 [[PSI]]: 7  
 
@@ -35,3 +41,4 @@ Rules Text:
 [Have. You. Thought. About Why. You. Are. Be-ing. Violent.] Put target creature on the bottom of its owner's deck if its PSI stat is equal to or below 4.  
 
 [E-lectric. Shock.] Deals 75 DMG to target Creature.  
+
