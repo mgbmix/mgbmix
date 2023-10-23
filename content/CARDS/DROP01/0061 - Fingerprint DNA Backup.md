@@ -4,8 +4,7 @@ Subtype: Bailout
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/tactic/bailout
+tags: []
 aliases:
   - Fingerprint DNA Backup
 ---

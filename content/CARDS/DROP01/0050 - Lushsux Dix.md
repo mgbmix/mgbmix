@@ -11,8 +11,7 @@ FYT: "4"
 NRG: "3"
 SWG: "5"
 PSI: "2"
-tags:
-  - card/creature/nemesis
+tags: []
 aliases:
   - Lushsux Dix
 ---

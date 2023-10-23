@@ -4,8 +4,7 @@ Subtype: Tech / Steam Arts
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 1F
-tags:
-  - card/skill/techsteamarts
+tags: []
 aliases:
   - Camera Loop
 ---

@@ -4,8 +4,7 @@ Subtype: Tool
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/item/tool
+tags: []
 aliases:
   - Lunar Drillbit
 ---

@@ -31,7 +31,7 @@ Skills are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that [[Att
 >  - [[0087 - Panopticon You|Panopticon You]]
 
 ##### [[Tech & Steam Arts|Tech / Steam Arts]]
-> [!example]- Tech / Steam Arts cards (1)
+> [!example]- Tech / Steam Arts cards (2)
 >  - [[0071 - Camera Loop|Camera Loop]]
 >  - [[0065 - Eye of Providence|Eye of Providence]]
 

@@ -11,8 +11,7 @@ FYT: "2"
 NRG: "4"
 SWG: "3"
 PSI: "7"
-tags:
-  - card/creature/footsoldier
+tags: []
 aliases:
   - Understandroid
 ---

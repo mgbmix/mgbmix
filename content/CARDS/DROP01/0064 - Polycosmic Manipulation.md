@@ -4,8 +4,7 @@ Subtype: Security Measure
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 2F
-tags:
-  - card/tactic/securitymeasure
+tags: []
 aliases:
   - Polycosmic Manipulation
 ---

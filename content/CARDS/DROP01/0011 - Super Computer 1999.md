@@ -11,8 +11,7 @@ FYT: "3"
 NRG: "8"
 SWG: "4"
 PSI: "0"
-tags:
-  - card/creature/lackey
+tags: []
 aliases:
   - Super Computer 1999
 ---

@@ -11,8 +11,7 @@ FYT: "3"
 NRG: "3"
 SWG: "3"
 PSI: "5"
-tags:
-  - card/creature/figurehead
+tags: []
 aliases:
   - Startup Guy
 ---

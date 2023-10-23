@@ -11,8 +11,7 @@ FYT: "3"
 NRG: "2"
 SWG: "2"
 PSI: "4"
-tags:
-  - card/creature/figurehead
+tags: []
 aliases:
   - Blockchain Evangelist
 ---

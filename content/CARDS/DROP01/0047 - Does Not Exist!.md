@@ -4,8 +4,7 @@ Subtype: Ability
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 2F
-tags:
-  - card/tactic/ability
+tags: []
 aliases:
   - Does Not Exist!
 ---

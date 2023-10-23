@@ -4,8 +4,7 @@ Subtype: Crafting Material
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/item/craftingmaterial
+tags: []
 aliases:
   - Research Element 151
 ---

@@ -4,8 +4,7 @@ Subtype: Realm
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 0F
-tags:
-  - card/location/realm
+tags: []
 aliases:
   - Planet B
 ---

@@ -4,8 +4,7 @@ Subtype: X-Factor
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 1F
-tags:
-  - card/buff/xfactor
+tags: []
 aliases:
   - Time Machine
 ---

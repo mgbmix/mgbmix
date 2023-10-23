@@ -4,8 +4,7 @@ Subtype: Bailout
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 2F
-tags:
-  - card/tactic/bailout
+tags: []
 aliases:
   - Roboid Mental Health Check
 ---

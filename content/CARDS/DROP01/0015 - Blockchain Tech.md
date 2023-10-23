@@ -4,8 +4,7 @@ Subtype: Paradigm Shift
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 1F
-tags:
-  - card/PT/paradigmshift
+tags: []
 aliases:
   - Blockchain Tech
 ---

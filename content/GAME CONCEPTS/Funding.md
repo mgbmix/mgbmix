@@ -1,6 +1,6 @@
 Funding is the game’s primary resource for spending on cards, abilities, etc.
 
-### Standard ways to gain Funding:
+# Standard ways to gain Funding:
 
 > [!todo] Receive 20 Funding during [[Initial Deployment]] at start of game
 
@@ -13,7 +13,7 @@ Funding is the game’s primary resource for spending on cards, abilities, etc.
 > 5 – 9 INT provides 2 Funding  
 > 10+ INT provides 3 Funding  
 
-### Funding Loop
+# Funding Loop
 
 Specific cards or abilities might have other ways to get Funding, but this is the basic Funding loop for the game: 
 

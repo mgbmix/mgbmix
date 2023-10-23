@@ -4,8 +4,7 @@ Subtype: Crafting Material
 Faction: Fake Tech
 Rarity: R6
 Funding Cost: 2F
-tags:
-  - card/item/craftingmaterial
+tags: []
 aliases:
   - A Magnet
 ---

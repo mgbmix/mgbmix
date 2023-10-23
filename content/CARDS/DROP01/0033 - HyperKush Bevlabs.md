@@ -4,8 +4,7 @@ Subtype: Product And/Or Service We Do Enjoy
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 2F
-tags:
-  - card/item/PAOSWDE
+tags: []
 aliases:
   - HyperKush Bevlabs
 ---

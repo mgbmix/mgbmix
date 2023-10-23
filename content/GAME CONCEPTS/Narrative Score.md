@@ -1,3 +1,7 @@
+---
+aliases:
+  - Narrative
+---
 The Narrative Score is the ultimate gauge of a player’s progress in the game. 
 
 It ranges from -5 to +5, with each extreme being instant defeat or victory.

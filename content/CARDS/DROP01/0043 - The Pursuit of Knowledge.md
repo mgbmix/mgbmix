@@ -4,8 +4,7 @@ Subtype: Tutorial Mission
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 4F / 0F
-tags:
-  - card/challenge/tutorialmission
+tags: []
 aliases:
   - The Pursuit of Knowledge
 ---

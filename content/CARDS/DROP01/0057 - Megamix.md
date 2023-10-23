@@ -4,8 +4,7 @@ Subtype: Scam
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 2F
-tags:
-  - card/tactic/scam
+tags: []
 aliases:
   - Megamix
 ---

@@ -4,8 +4,7 @@ Subtype: Chromeware
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/item/chromeware
+tags: []
 aliases:
   - Active Camo
 ---

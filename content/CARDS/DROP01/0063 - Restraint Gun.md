@@ -4,8 +4,7 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 2F
-tags:
-  - card/item/weapon
+tags: []
 aliases:
   - Restraint Gun
 ---

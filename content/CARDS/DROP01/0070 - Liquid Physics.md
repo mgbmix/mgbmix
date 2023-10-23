@@ -4,8 +4,7 @@ Subtype: Cosmology
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 3F
-tags:
-  - card/infomashun/cosmology
+tags: []
 aliases:
   - Liquid Physics
 ---

@@ -4,8 +4,7 @@ Subtype: Teleportation Arts
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 1F
-tags:
-  - card/skill/teleportationarts
+tags: []
 aliases:
   - Portal Formula
 ---

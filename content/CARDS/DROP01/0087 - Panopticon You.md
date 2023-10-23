@@ -4,8 +4,7 @@ Subtype: Spy Arts
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 1F
-tags:
-  - card/skill/spyarts
+tags: []
 aliases:
   - Panopticon You
 ---

@@ -4,8 +4,7 @@ Subtype: Ammo
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/item/ammo
+tags: []
 aliases:
   - 20mm Hyperkinetic Rounds
 ---

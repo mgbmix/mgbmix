@@ -4,8 +4,7 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R5
 Funding Cost: 2F
-tags:
-  - card/item/weapon
+tags: []
 aliases:
   - Skillbo Bowlins (Quad-Ought Gauge)
 ---

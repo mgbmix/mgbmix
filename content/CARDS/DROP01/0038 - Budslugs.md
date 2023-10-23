@@ -4,8 +4,7 @@ Subtype: Ammo
 Faction: Fake Tech
 Rarity: R4
 Funding Cost: 2F
-tags:
-  - card/item/ammo
+tags: []
 aliases:
   - Budslugs
 ---

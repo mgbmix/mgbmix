@@ -11,8 +11,7 @@ FYT: "0"
 NRG: "10"
 SWG: "12"
 PSI: "0"
-tags:
-  - card/creature/nemesis
+tags: []
 aliases:
   - Jack Jill Vyco and DIN
 ---

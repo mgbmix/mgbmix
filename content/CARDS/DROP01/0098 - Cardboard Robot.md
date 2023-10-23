@@ -11,8 +11,7 @@ FYT: "2"
 NRG: "0"
 SWG: "3"
 PSI: "1"
-tags:
-  - card/creature/pissant
+tags: []
 aliases:
   - Cardboard Robot
 ---

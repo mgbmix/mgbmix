@@ -4,8 +4,7 @@ Subtype: Paradigm Shift
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 1F
-tags:
-  - card/PT/paradigmshift
+tags: []
 aliases:
   - Utopia Scrupulous Automation
 ---

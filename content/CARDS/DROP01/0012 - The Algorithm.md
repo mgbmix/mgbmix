@@ -11,8 +11,7 @@ FYT: "2"
 NRG: "10"
 SWG: "2"
 PSI: "0"
-tags:
-  - card/creature/figurehead
+tags: []
 aliases:
   - The Algorithm
 ---

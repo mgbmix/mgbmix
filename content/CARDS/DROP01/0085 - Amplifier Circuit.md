@@ -4,8 +4,7 @@ Subtype: Crafting Material
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 2F
-tags:
-  - card/item/craftingmaterial
+tags: []
 aliases:
   - Amplifier Circuit
 ---

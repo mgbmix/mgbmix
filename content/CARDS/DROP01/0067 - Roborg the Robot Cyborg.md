@@ -11,8 +11,7 @@ FYT: "2"
 NRG: "3"
 SWG: "1"
 PSI: "4"
-tags:
-  - card/creature/footsoldier
+tags: []
 aliases:
   - Roborg the Robot Cyborg
 ---

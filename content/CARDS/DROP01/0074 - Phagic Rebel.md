@@ -4,8 +4,7 @@ Subtype: Weapon
 Faction: Fake Tech
 Rarity: R6
 Funding Cost: 2F
-tags:
-  - card/item/weapon
+tags: []
 aliases:
   - Phagic Rebel
 ---

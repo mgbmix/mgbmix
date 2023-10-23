@@ -4,8 +4,7 @@ Subtype: Food / Trash
 Faction: Fake Tech
 Rarity: R1
 Funding Cost: 2F
-tags:
-  - card/item/foodtrash
+tags: []
 aliases:
   - Cell Phone
 ---

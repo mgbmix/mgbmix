@@ -4,8 +4,7 @@ Subtype: Enhancement
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 1F
-tags:
-  - card/buff/enhancement
+tags: []
 aliases:
   - GhostTec SpectraHub
 ---

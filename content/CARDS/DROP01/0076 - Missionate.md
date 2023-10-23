@@ -4,8 +4,7 @@ Subtype: Power-Up
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 1F
-tags:
-  - card/buff/powerup
+tags: []
 aliases:
   - Missionate
 ---

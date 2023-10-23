@@ -4,8 +4,7 @@ Subtype: Real Estate
 Faction: Fake Tech
 Rarity: R2
 Funding Cost: 0F
-tags:
-  - card/location/realestate
+tags: []
 aliases:
   - The Living House
 ---

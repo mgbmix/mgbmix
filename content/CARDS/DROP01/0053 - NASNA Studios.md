@@ -4,8 +4,7 @@ Subtype: Zone
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 0F
-tags:
-  - card/location/zone
+tags: []
 aliases:
   - NASNA Studios
 ---

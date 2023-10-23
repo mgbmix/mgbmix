@@ -11,8 +11,7 @@ FYT: "1"
 NRG: "9"
 SWG: "4"
 PSI: "3"
-tags:
-  - card/creature/figurehead
+tags: []
 aliases:
   - AI Overlord
 ---

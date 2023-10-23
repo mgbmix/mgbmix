@@ -4,8 +4,7 @@ Subtype: Actually Useful
 Faction: Fake Tech
 Rarity: R3
 Funding Cost: 3F
-tags:
-  - card/infomashun/actuallyuseful
+tags: []
 aliases:
   - Life Hacks for Dummies
 ---
