@@ -1,6 +1,7 @@
 ---
-title: Landing Pad
+title: index
 ---
+Hello
 
 ![[autism-required.png]]
 

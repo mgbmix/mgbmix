@@ -1,3 +1,7 @@
+---
+aliases:
+  - skills
+---
 Skills are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that [[Attach|attaches]] to Creatures in play.
 
  > [!note] [[Funding Cost]]  

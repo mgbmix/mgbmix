@@ -1,3 +1,7 @@
+---
+aliases:
+  - Plot Twists
+---
 Plot Twists are a dynamic [[CARD TYPES/Card Type|card type]] that can drastically change the boardstate.
 
  - Plot Twists cost 1 Funding to put into play. 

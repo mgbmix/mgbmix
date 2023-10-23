@@ -1,3 +1,7 @@
+---
+aliases:
+  - Items
+---
 Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that attaches to creatures in play.
 
 > [!note] [[Funding Cost]]
