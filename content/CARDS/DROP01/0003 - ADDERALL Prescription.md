@@ -37,6 +37,6 @@ This ability costs that creature 50 HP.
 
 | Previous Card | SET | Next Card |
 | :-----:| :-----: | :-----: |
-| [[0002 - DomeHomie Cortical Modem Chip\|DomeHomie Cortical Modem Chip]] | ![[faketechlogo.png]] | [[0004 - Failed Crowdfunding\|Failed Crowdfunding]]|
+| [[0002 - DomeHomie Cortical Modem Chip]] | ![[faketechlogo.png]] | [[0004 - Failed Crowdfunding]]|
 
 

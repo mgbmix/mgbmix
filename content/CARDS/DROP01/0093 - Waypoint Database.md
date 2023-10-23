@@ -9,15 +9,21 @@ tags:
 aliases:
   - Waypoint Database
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Waypoint Database.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - [[Teleportation Arts]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R3]]  
-[[Funding Cost]]: [[1F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Skill]] - [[Teleportation Arts]] | 
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R3]] |  
+| [[Funding Cost]] | [[1F]] |  
+
+# Rules Text  
 
 This Skill equips for a [[1F]] cost to an active Creature you control.  
 Once equipped, this Skill cannot be moved to another Creature.  
@@ -30,3 +36,4 @@ Whenever an enemy creature attempts a warp, equipped creature deals 200 DMG to t
 -4 PSI  
 -50 Max HP  
 Those creatures can no longer attack Tantillo Systems creatures.  
+

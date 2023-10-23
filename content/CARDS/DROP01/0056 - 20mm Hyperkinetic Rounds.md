@@ -9,15 +9,21 @@ tags:
 aliases:
   - 20mm Hyperkinetic Rounds
 ---
+# Art
+
 > [!info]- Card Art
 > ![[20mm Hyperkinetic Rounds.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Ammo]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R5]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Ammo]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R5]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a [[Weapon]] card you control.  
 
@@ -27,3 +33,4 @@ This Item equips for a [[1F]] cost to a [[Weapon]] card you control.
 Load 20mm Hyperkinetic Rounds into any firearm item;  
 Fire! Attack any two (2) creatures-the bullet goes right through them for 1000 DMG each;  
 20mm Kyperkinetic Rounds-equipped firearm is broken and unrepairable (discard it). Operator takes 250 Sight DMG and 250 Deafness DMG (permanent ringing in ears, night blindness).  
+

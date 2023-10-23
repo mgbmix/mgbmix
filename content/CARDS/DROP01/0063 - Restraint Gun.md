@@ -9,15 +9,21 @@ tags:
 aliases:
   - Restraint Gun
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Restraint Gun.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R2]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Weapon]] |  
+| [[Faction]] | [[Fake Tech]] | 
+| [[Rarity]] | [[R2]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -25,3 +31,4 @@ This Item equips for a [[1F]] cost to a Creature card you control.
 Target creature is stunned for two (2) turns;
 Roll d6. If 6, creature has its neck tangled tightly into the net, and is promptly Choked to Death.  
 Robots/non air-breathing creatures cannot be suffocated.  
+

@@ -9,15 +9,21 @@ tags:
 aliases:
   - Disarmer
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Disarmer.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R3]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Weapon]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R3]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to an active Creature you control.  
 
@@ -25,3 +31,4 @@ This Item equips for a [[1F]] cost to an active Creature you control.
 
 [Cop Tickler] Tickle a Thin Blue Whine creature;  
 +1 Friendship Merit, 200 Tickle DMG on enemy Cop;  
+

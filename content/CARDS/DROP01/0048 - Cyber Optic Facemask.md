@@ -9,15 +9,21 @@ tags:
 aliases:
   - Cyber Optic Facemask
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Cyber Optic Facemask.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R5]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Armor]] |  
+| [[Faction]] | [[Fake Tech]]  | 
+| [[Rarity]] | [[R5]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -28,3 +34,4 @@ Requires empty face slot.
 Ability to crash airplanes with face laser;  
 Ability to stun target creature for one (1) turn with 75,000 lumen LED SWAT strober;  
 +3 [[SWG]] until end of turn.  
+

@@ -16,15 +16,21 @@ tags:
 aliases:
   - Lushsux Dix
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Lushsux Dix.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Nemesis]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R6]]  
-[[Funding Cost]]: [[5F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Nemesis]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R6]] |  
+| [[Funding Cost]] | [[5F]] | 
+
+# Rules Text  
 
 [[HP]]: 1100 [[STR]]: 6 [[INT]]: 9 [[FYT]]: 4 [[NRG]]: 3 [[SWG]]: 5 [[PSI]]: 2  
 
@@ -34,3 +40,4 @@ Rules Text:
 4x DMG for next attack; Lushsux Dix permanently loses 3 INT (stackable) and 100 Max HP.  
 
 [No, U Sux] Bodyslam attack. 500 DMG to target, 50 Self DMG to Lushsux Dix because tailbone (coccyx) hit curb weirdly.  
+

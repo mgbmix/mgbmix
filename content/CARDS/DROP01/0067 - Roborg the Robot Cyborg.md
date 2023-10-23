@@ -16,15 +16,21 @@ tags:
 aliases:
   - Roborg the Robot Cyborg
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Roborg the Robot Cyborg.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: Creature - [[Footsoldier]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R3]]  
-[[Funding Cost]]: [[3F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Footsoldier]]  | 
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R3]] |  
+| [[Funding Cost]] | [[3F]] |  
+
+# Rules Text  
 
 [[HP]]: 300 [[STR]]: 4 [[INT]]: 3 [[FYT]]: 2 [[NRG]]: 3 [[SWG]]: 1 [[PSI]]: 4  
 
@@ -39,3 +45,4 @@ Enemies who attempt to melee attack a shielded creature take 200 DMG, big mistak
 
 [Listen To Me I'm Still Ryan] It's only a glitch. Still creepy though.  
 Stun yourself for one (1) turn.  
+

@@ -9,15 +9,21 @@ tags:
 aliases:
   - Cold-Blooded EVA Suit
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Cold-Blooded EVA Suit.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R6]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Armor]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R6]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -31,3 +37,5 @@ AI-controlled weapons have a 50% chance to miss.
 
 [Cold Blooded] Equipped creature immune to heat-seeking attacks, computer targeting, etc., etc. +350 HP buff in lieu of armor bonus (it's squishy) and creature cannot be burned or frozen. 
 +6 [[SWG]], this suit looks really sick.  
+
+

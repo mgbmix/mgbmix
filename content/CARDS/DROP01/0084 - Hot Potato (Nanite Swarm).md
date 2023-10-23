@@ -9,15 +9,21 @@ tags:
 aliases:
   - Hot Potato (Nanite Swarm)
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Hot Potato (Nanite Swarm).png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Weapon]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text 
 
 This Item equips for a [[1F]] cost to an opposing Creature card.  
 This Item equips for a [[1F]] cost to an opposing Item card.  
@@ -26,3 +32,4 @@ This Item equips for a [[1F]] cost to an opposing Item card.
 775 DMG to robots.  
 175 DMG to biological creatures.  
 Instantly destroys weapons, armor, bomb shelters, metalic buildings, equipped electronic devices.  
+

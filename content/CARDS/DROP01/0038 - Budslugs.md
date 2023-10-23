@@ -9,15 +9,21 @@ tags:
 aliases:
   - Budslugs
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Budslugs.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Ammo]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Ammo]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a [[Weapon]] card in play.  
 
@@ -26,3 +32,5 @@ This Item equips for a [[1F]] cost to a [[Weapon]] card in play.
 [TomoGUNchi] Attached [[weapon]] fires twice; for this turn, multiply that Item's DMG by x2  
 Flip a coin;  
 If heads, damaged creature receives an additional 50 Burning DMG for two (2) turns;  
+
+

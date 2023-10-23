@@ -9,15 +9,21 @@ tags:
 aliases:
   - Mannitol Nanomachine Injector
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Mannitol Nanomachine Injector.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Tool]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Tool]] |  
+| [[Faction]] | [[Fake Tech]] | 
+| [[Rarity]] | [[R4]] | 
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -25,3 +31,4 @@ This Item equips for a [[1F]] cost to a Creature card you control.
 
 [MANNITOL RELEASE] Equipped creature releases all stored Nuts DMG and deals it to target creature an opponent controls.
 Equipped creature cannot fire back DMG if it has stored a lethal amount of damage (compared to maximum HP). Destroy the equipped creature.   
+

@@ -9,15 +9,21 @@ tags:
 aliases:
   - Armor of Self Confidence
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Armor of Self Confidence.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Armor]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R2]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Armor]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R2]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -30,3 +36,5 @@ Usable once.
 
 /Too Sure of Yourself/ Chance encounters do not go in your favor--too cocky, Lady Luck no likey.  
 Lose all attempts on coin flips and die rolls while this card is in play. Don't tempt fate.  
+
+

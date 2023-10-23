@@ -9,15 +9,21 @@ tags:
 aliases:
   - Does Not Exist!
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Does Not Exist!.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Tactic]] - [[Ability(subtype)|Ability]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Tactic]] - [[Ability(subtype)\|Ability]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Tactic enters play face-up in your [[Think Tank]]. You may activate its effect at any time.  
 After using its effect, send this card to your history.  
@@ -28,3 +34,4 @@ After using its effect, send this card to your history.
 
 /Aaand It's Gone/ Whenever you use the face-down card (attacks or abilities), your opponent may guess what card it is.   
 If your opponent guesses correctly, destroy the creature.  
+

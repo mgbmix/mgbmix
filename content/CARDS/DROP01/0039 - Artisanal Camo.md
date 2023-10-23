@@ -9,15 +9,21 @@ tags:
 aliases:
   - Artisanal Camo
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Artisanal Camo.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Chromeware]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R1]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Chromeware]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R1]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text  
 
 This Item equips for a [[1F]] cost to a Creature card.  
 
@@ -25,3 +31,4 @@ This Item equips for a [[1F]] cost to a Creature card.
 If this card is equipped to a creature on your frontline, you may steal an item from your foolish enemy. Gain control of target Item card on opponent's battlefield.  
 
 Artisanal Camo breaks after two (2) uses.  
+

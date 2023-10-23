@@ -16,15 +16,21 @@ tags:
 aliases:
   - Electric Chairman
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Electric Chairman.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Figurehead]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R2]]  
-[[Funding Cost]]: [[3F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Figurehead]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R2]] |  
+| [[Funding Cost]] | [[3F]] |  
+
+# Rules Text  
 
 [[HP]]: 700 [[STR]]: 2 [[INT]]: 8 [[FYT]]: 3 [[NRG]]: 6 [[SWG]]: 6 [[PSI]]: 7  
 
@@ -33,3 +39,5 @@ Rules Text:
 [Y Combinator Massacre] 675 DMG to Ponzi Ca$ino cards.  
 
 [I'm Gonna Need a Little Help Shitting] Electric Chairman takes no DMG from Shit Attacks.   
+
+

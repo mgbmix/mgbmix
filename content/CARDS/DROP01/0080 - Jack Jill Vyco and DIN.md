@@ -16,15 +16,21 @@ tags:
 aliases:
   - Jack Jill Vyco and DIN
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Jack Jill Vyco and DIN.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Creature]] - [[Nemesis]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R4]]  
-[[Funding Cost]]: [[4F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Creature]] - [[Nemesis]] |  
+| [[Faction]] | [[Fake Tech]] | 
+| [[Rarity]] | [[R4]] |  
+| [[Funding Cost]] | [[4F]] |  
+
+# Rules Text  
 
 [[HP]]: 1500 [[STR]]: 0 [[INT]]: 20 [[FYT]]: 0 [[NRG]]: 10 [[SWG]]: 12 [[PSI]]: 0  
 
@@ -36,3 +42,4 @@ Rules Text:
 
 [Bad, Together] Copper wire theft attack.  
 300 DMG if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.  
+

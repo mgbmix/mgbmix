@@ -9,15 +9,21 @@ tags:
 aliases:
   - Inscribe and Requite
 ---
+# Art
+
 > [!info]- Card Art
 > ![[Inscribe and Requite.jpg]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Skill]] - [[Teleportation Arts]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R3]]  
-[[Funding Cost]]: [[1F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Skill]] - [[Teleportation Arts]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R3]] | 
+| [[Funding Cost]] | [[1F]] |  
+
+# Rules Text  
 
 This Skill equips for a [[1F]] cost to your [[Think Tank]].  
 Once equipped, this Skill cannot be moved.  

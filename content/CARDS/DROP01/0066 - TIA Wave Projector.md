@@ -9,15 +9,21 @@ tags:
 aliases:
   - TIA Wave Projector
 ---
+# Art
+
 > [!info]- Card Art
 > ![[TIA Wave Projector.png]]
 
-[[CARD TYPES/Card Type|Card Type]]: [[Item]] - [[Weapon]]  
-[[Faction]]: [[Fake Tech]]  
-[[Rarity]]: [[R3]]  
-[[Funding Cost]]: [[2F]]  
+# Card Specs
 
-Rules Text:  
+| Category | Specification| 
+| :--- | :--- |
+| [[Card Type]] | [[Item]] - [[Weapon]] |  
+| [[Faction]] | [[Fake Tech]] |  
+| [[Rarity]] | [[R3]] |  
+| [[Funding Cost]] | [[2F]] |  
+
+# Rules Text 
 
 This Item equips for a [[1F]] cost to a Creature card you control.  
 
@@ -28,3 +34,4 @@ This Item equips for a [[1F]] cost to a Creature card you control.
 (125 total Piss and Shit DMG);  
 Target loses ability to speak/think. Faction affiliation stripped--no longer receives faction-specific buffs;  
 Target creature will be placed in nursing home four (4) turns after casting (you'll die here). Destroy the creature at the end of the four turns.  
+
