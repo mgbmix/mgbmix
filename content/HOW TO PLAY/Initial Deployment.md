@@ -13,7 +13,7 @@ The first turn of the game for each player is their Initial Deployment.
 > At the start of the game, all players draw an Initial Deployment hand of seven cards.
 
 > [!warning] First Player Skips First Look
-> The first player to take a turn skips the three-card Look Hand they would normally receive. This does not affect any other player. This means that on the first turn, Player 1 sees seven cards total, while other players would see ten total (Initial Hand plus Look Hand for their Turn 1).
+> The first player to take a turn skips the three-card [[Look Hand]] they would normally receive. This does not affect any other player. This means that on the first turn, Player 1 sees seven cards total, while other players would see ten total (Initial Hand plus Look Hand for their Turn 1).
 
 
 
@@ -34,5 +34,5 @@ The following is an example boardstate after Player 1 draws their seven cards an
 
 ![[initialdeploymentboard.png]]
 
-Note that the player chose to Proselytize at the end of their turn, gaining an extra 2 Funding since their Seated Figurehead had 5 INT.
+Note that the player chose to Proselytize at the end of their turn, gaining an extra 2 Funding since their Seated Figurehead had 5 [[INT]].
 

@@ -1,4 +1,8 @@
-Groups are a [[CARD TYPES/Card Type|card type]] whose effects and benefits work well with certain [[Faction]] of cards.
+---
+aliases:
+  - Groups
+---
+Groups are a [[CARD TYPES/Card Type|card type]] whose effects and benefits work well with certain [[Faction|Factions]] of cards.
 
  > [!note] [[Funding Cost]]  
  > Groups cost [[3F]] to [[deploy]].

@@ -2,16 +2,19 @@
 aliases:
   - active
 ---
-Active Zone
+Active Zone is the main area of the game for deployed Creatures & Items. 
 
-> [!todo] All [[Creature|creatures]] are [[Deploy|deployed]] to the Active Zone when they enter play. 
+> [!todo] All [[Creature]] and [[Item]] cards are [[Deploy|deployed]] to the Active Zone when they enter play. 
 
-Creatures can leave the Active Zone (or re-enter) depending on effects. 
+> [!abstract] Creatures can leave the Active Zone (or re-enter) depending on effects. 
 
-Creatures in your Active Zone are your front-line defence. They should be placed closest to the opponent.
+## Active Zone Placement on the Board
 
+Creatures in your Active Zone are your front-line defence. They should be placed closest to the opponent. That means, with both players putting their Active Zone closest to opponent, the Active Zones meet in the middle of the playing field.
 
-Cards in an Active Zone may be described as 'active.' For example, a card's target limitations being 'an active Creature.' ^f3b9ab
+### 'Active' descriptor
+
+Cards in an Active Zone may be described as 'active.' For example, a card's target limitations may be for 'an active Creature.' ^f3b9ab
 
 
 

@@ -2,7 +2,7 @@
 aliases:
   - Card Types
 ---
-Mondo Megabits cards are divided into the following ten types:
+[[Mondo Megabits]] cards are divided into the following ten types:
 
 [[Buff|Buff & Debuff]]  
 [[Challenge]]  
