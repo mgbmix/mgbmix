@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 This Item equips for a [[1F]] cost to a [[Weapon]] card you control.  
 
 /Pre-Heat/Dethaw/ Equipped creature is unaffected by burning or freezing effects.  

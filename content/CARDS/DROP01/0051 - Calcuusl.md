@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Skill equips for a [[1F]] cost to a [[Figurehead]] you control.
+This Skill [[Equip|equips]] for a [[1F]] cost to a [[Figurehead]] you control.
 Once equipped, this Skill cannot be moved to another Creature.
 When the attached Creature leaves play, send this card to discard.  
 

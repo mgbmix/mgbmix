@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Skill equips for a [[1F]] cost to an opposing active Creature with INT below 7.
+This Skill [[Equip|equips]] for a [[1F]] cost to an opposing active [[Creature]] with [[INT]] below 7.
 Once equipped, this Skill cannot be moved to another Creature.
 When the attached Creature leaves play, send this card to discard.  
 

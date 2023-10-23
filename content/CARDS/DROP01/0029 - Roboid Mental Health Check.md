@@ -29,5 +29,5 @@ After using its effect, send this card to your history.
 
 [Choose One (1)]  
 1: Select any Male roboid in play, and exchange it with a Male roboid from your deck.  
-2: Search target opponent's Newsfeed and Stowed Hand for a Female roboid and add it to your Stowed Hand.  
+2: Search target opponent's [[newsfeed]] and [[Stowed Hand]] for a Female roboid and add it to your Stowed Hand.  
 

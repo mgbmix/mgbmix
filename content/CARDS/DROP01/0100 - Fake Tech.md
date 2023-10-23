@@ -24,6 +24,6 @@ aliases:
 
 # Rules Text:  
 
-[Looks Real to Me] All Fake Tech card effects gain one (1) extra turn to their duration.  
+[Looks Real to Me] All [[Fake Tech]] card effects gain one (1) extra turn to their duration.  
 All attacks deal 75 additional [[DMG]].  
 

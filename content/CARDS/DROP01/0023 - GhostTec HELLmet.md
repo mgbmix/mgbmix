@@ -24,11 +24,11 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
-REQUIRES: GhostTecTM Certification Card  
+REQUIRES: [[0022 - GhostTec Certification Card|GhostTec™ Certification Card]]  
 
-/Stay Out of My Head/ Fake Tech and Spirit attacks deal 1/3 DMG to equipped creature. 
+/Stay Out of My Head/ [[Fake Tech]] and Spirit attacks deal 1/3 [[DMG]] to equipped creature. 
 Immune to persuasion, gaslighting, trickery, hoaxes, and reason. 
 Additional 75 HP armor boost.  
 

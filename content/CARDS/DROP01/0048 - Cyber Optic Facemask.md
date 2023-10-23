@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 Requires empty face slot.  
 

@@ -24,11 +24,11 @@ aliases:
 
 # Rules Text 
 
-This Item equips for a [[1F]] cost to an opposing Creature card.  
+This Item [[Equip|equips]] for a [[1F]] cost to an opposing [[Creature]] card.  
 This Item equips for a [[1F]] cost to an opposing Item card.  
 
 [Swarmed] The mercury cloud casts dread upon your enemies.  
-775 DMG to robots.  
-175 DMG to biological creatures.  
-Instantly destroys weapons, armor, bomb shelters, metalic buildings, equipped electronic devices.  
+775 [[DMG]] to robots.  
+175 [[DMG]] to biological creatures.  
+Instantly destroys [[Weapon|weapons]], [[Armor|armors]], bomb shelters, metalic buildings, equipped electronic devices.  
 

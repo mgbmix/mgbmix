@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Buff enters play attached to a Creature card you control.  
+This Buff enters play [[Attach|attached]] to a [[Creature]] card you control.  
 When the buffed Creature leaves play, send this card to discard.  
 
 /Learned How To Not Give A Fuck About Anything, I'm All Fucked Up/ You may target a friendly or opposing Creature with this ability.  

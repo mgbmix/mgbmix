@@ -24,7 +24,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[Creature]] - [[Figurehead]] |  
+| [[Card Type]] | [[Creature]] - [[Figurehead]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[3F]] |  
@@ -33,11 +33,11 @@ aliases:
 
 [[HP]]: 350 [[STR]]: 0 [[INT]]: 8 [[FYT]]: 2 [[NRG]]: 10 [[SWG]]: 2 [[PSI]]: 0  
 
-[Alarming Suggestion] Opponent cannot cast Fake Tech Creature cards for two turns.  
+[Alarming Suggestion] Opponent cannot cast [[Fake Tech]] Creature cards for two turns.  
 
-[Incognito Mode] View 3 facedown enemy cards.  
+[Incognito Mode] View 3 face-down enemy cards.  
 
-[Target Audience] Target enemy creature card takes 200 cash DMG. You may target additional creatures by expanding the target audience at the Funding Cost of [[1F]] per added target.  
+[Target Audience] Target enemy creature card takes 200 [[DMG|cash DMG]]. You may target additional creatures by expanding the target audience at the cost of [[1F]] per added target.  
 
 # Card Nav
 

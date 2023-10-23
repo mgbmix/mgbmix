@@ -24,13 +24,13 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 Fragile to EMPs. If electricity is cut, this card is void.  
 
 [Unwavering Resolve] Impervious to attacks for the next turn. Afterwards, a lesser buff persists.  
-Take no DMG from mental attacks (Verbal Word Bullets, Assault Speech, psyop cards, etc.);  
-When you have less than 200 HP, your next attack deals 2X DMG;
+Take no damage from mental attacks (Verbal Word Bullets, Assault Speech, psyop cards, etc.);  
+When you have less than 200 HP, your next attack deals 2X [[DMG]];
 Usable once.  
 
 /Too Sure of Yourself/ Chance encounters do not go in your favor--too cocky, Lady Luck no likey.  

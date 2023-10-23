@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[Tactic]] - [[Scam]] |  
+| [[Card Type]] | [[Tactic]] - [[Scam]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] | 
 | [[Funding Cost]] | [[2F]] |  

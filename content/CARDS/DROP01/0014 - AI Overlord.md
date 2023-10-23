@@ -35,7 +35,7 @@ aliases:
 
 [Mild Resentment] Discard one (1) card from your hand, then resurrect any discarded robot cards OR take control of opponent's robot cards.  
 
-[Maximal Suffering] Target creature takes 175 DMG.  
+[Maximal Suffering] Target creature takes 175 [[DMG]].  
 
 /Mild Resentment v2.0/ Once a player plays AI Overlord, no other player may do so.  
 

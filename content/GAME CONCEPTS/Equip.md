@@ -1,3 +1,7 @@
+---
+aliases:
+  - equips
+---
 Equip is an action a player can use to [[attach]] Item and Skill cards to valid [[Target|targets]].
 
 > [!note] [[Funding Cost]]

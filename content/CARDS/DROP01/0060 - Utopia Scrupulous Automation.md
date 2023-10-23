@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.  
+When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
 
 [Procedurally-Generated Housewives of Orange County] S18E119v4: Melissa Cleans House  
 Stun all enemy Whypeepoo, The Hive and Team Pinkbean creatures for three (3) turns;  

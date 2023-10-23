@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This card equips for a [[1F]] cost to an opposing Creature card.  
+This card [[Equip|equips]] for a [[1F]] cost to an opposing [[Creature]] card.  
 
 [Goop Extraction] If equipped creature is a Ghost or Paranormal type card,  destroy it along with the GhostTecTM Goop Vial. 
 Convert the resulting explosion of ethereal energy into Ghost Food (heals 5 HP on friendly ghost or paranormal card of your choice).  

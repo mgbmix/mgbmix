@@ -24,9 +24,9 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and Tactics in play to the discard. This effect applies to all players.  
+When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
 
-/Autonomous Registration/ When drawing new cards, you may choose to skip any that aren't Fake Tech cards. 
+/Autonomous Registration/ When drawing new cards, you may choose to skip any that aren't [[Fake Tech]] cards. 
 Skipped cards are put into the discard pile. Draw a new card for each card discarded in this way. 
 This sequence may be repeated if Fake Tech cards are re-drawn.  
 

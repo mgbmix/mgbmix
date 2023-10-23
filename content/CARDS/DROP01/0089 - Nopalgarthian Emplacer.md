@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 [Parasitic Takeover] This is really gonna suck.  
 Take control of one (1) opponent creature for three (3) turns;  
-Puppet creature does 50% DMG.  
+Puppet creature does 50% damage.  
 
 

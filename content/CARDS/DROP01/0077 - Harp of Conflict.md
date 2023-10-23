@@ -24,8 +24,8 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
-[Starships On Fire] 125 DMG each, for three (3) separate projectiles;
+[Starships On Fire] 125 [[DMG]] each, for three (3) separate projectiles;
 All hit creatures burn for three (3) turns @ 50 DMG/turn.  
 

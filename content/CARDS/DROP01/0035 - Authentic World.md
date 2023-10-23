@@ -25,6 +25,6 @@ aliases:
 # Rules Text  
 
 /Authentic World/ When this card enters play, target enemy creature receives the following effects:  
--4 SWG  
-50 Guilt DMG;  
-Remove faction identity.  
+-4 [[SWG]]  
+50 [[DMG|Guilt DMG]];  
+Remove [[Faction|faction identity]].  

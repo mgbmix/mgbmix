@@ -28,6 +28,6 @@ This Tactic enters play face-up in your [[Think Tank]]. You may activate its eff
 After using its effect, send this card to your history.  
 
 [Fake:///] Roll a six sided-die.   
-Target opponent loses Funding equal to half of that amount (rounded down), and you gain Funding equal to the Funding lost this way.  
+Target opponent loses [[Funding]] equal to half of that amount (rounded down), and you gain Funding equal to the Funding lost this way.  
 
 

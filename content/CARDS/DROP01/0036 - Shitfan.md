@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card.  
 
-[The Future Is Shitty] -1 SWG (stackable)  
+[The Future Is Shitty] -1 [[SWG]] (stackable)  
 

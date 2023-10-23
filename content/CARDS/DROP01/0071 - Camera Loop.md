@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Skill equips for a [[1F]] cost to an opposing Active Zone.  
+This Skill [[Equip|equips]] for a [[1F]] cost to an opposing [[Active Zone]].  
 Once equipped, this Skill cannot be moved.  
 When the attached Active Zone's player loses, send this card to discard.  
 

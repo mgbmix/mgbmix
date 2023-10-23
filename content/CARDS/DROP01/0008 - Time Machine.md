@@ -17,14 +17,14 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[Buff]] - [[X-Factor]] |  
+| [[Card Type]] | [[Buff]] - [[X-Factor]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R4]] |  
 | [[Funding Cost]] | [[1F]] |  
 
 # Rules Text  
 
-This Buff enters play attached to a Creature card you control.  
+This Buff enters play attached to a [[Creature]] card you control.  
 When the buffed Creature leaves play, send this card to discard.  
 
 [Predestined to Play] At some future point in the game you can pay this card's cost--you don't have to right this instant (don't forget).

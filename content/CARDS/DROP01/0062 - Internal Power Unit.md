@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text 
 
-This Item equips for a [[1F]] cost to a biological/humanoid Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a biological/humanoid [[Creature]] card you control.  
 
 /Invasive Implant/ This Item cannot be moved to another creature once equipped.  
     

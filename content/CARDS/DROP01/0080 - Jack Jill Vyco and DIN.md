@@ -40,5 +40,5 @@ aliases:
 /Jack In, Plug Out/ If Vyco (Jack) and [D.I.N.] (Jill) do not both consume a [[Drug]] Item at least once every (5) turns, destroy them.  
 
 [Bad, Together] Copper wire theft attack.  
-300 DMG if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.  
+300 [[DMG]] if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.  
 

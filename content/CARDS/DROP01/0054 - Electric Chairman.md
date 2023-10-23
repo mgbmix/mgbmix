@@ -33,10 +33,10 @@ aliases:
 
 [[HP]]: 700 [[STR]]: 2 [[INT]]: 8 [[FYT]]: 3 [[NRG]]: 6 [[SWG]]: 6 [[PSI]]: 7  
 
-/Disabled/ Receive Double (2X) DMG from electric attacks. Weak to EMPs. Electric Chairman is classified as a robot (receives robot-specific DMG).  
+/Disabled/ Receive Double (2X) [[DMG]] from electric attacks. Weak to EMPs. Electric Chairman is classified as a robot (receives robot-specific DMG).  
 
-[Y Combinator Massacre] 675 DMG to Ponzi Ca$ino cards.  
+[Y Combinator Massacre] 675 [[DMG]] to Ponzi Ca$ino cards.  
 
-[I'm Gonna Need a Little Help Shitting] Electric Chairman takes no DMG from Shit Attacks.   
+[I'm Gonna Need a Little Help Shitting] Electric Chairman takes no [[DMG]] from Shit Attacks.   
 
 

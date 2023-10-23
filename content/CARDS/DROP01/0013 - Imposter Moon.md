@@ -17,14 +17,14 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[CARD TYPES/Location|Location]] - [[Zone]] |  
+| [[Card Type]] | [[CARD TYPES/Location\|Location]] - [[Zone]] |  
 | [[Faction]] | [[Fake Tech]] | 
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[0F]] | 
 
 # Rules Text  
 
-[Toil Dynamo] All friendly creatures' NRG increased by 3.  
+[Toil Dynamo] All friendly creatures' [[NRG]] increased by 3 while this Location card remains in play.   
 
 # Card Nav
 

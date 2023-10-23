@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an Item card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to an [[Item]] card you control.  
 
 /Hotshot/ You wire the Amplifier Circuit into an electro device of your choice. Ex: 'Electric Rifle'.  
 Doubles DMG/effect of electro item.  

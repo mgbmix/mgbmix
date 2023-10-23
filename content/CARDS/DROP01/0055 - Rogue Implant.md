@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an opposing Creature card.  
+This Item [[Equip|equips]] for a [[1F]] cost to an opposing [[Creature]] card.  
 
 /Invasive Implant/ This Item cannot be moved to another creature once equipped.  
 
 [Rogue Implant] I- can't br-breathe!   
-Kill any Fake Tech or Tantillo Systems creature instantly. When this ability is used, destroy Rogue Implant.  
+Kill any [[Fake Tech]] or Tantillo Systems creature instantly. When this ability is used, destroy Rogue Implant.  
 

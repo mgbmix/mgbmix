@@ -23,9 +23,9 @@ aliases:
   
 # Rules Text  
   
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
   
-REQUIRES: GhostTecTM Certification Card  
+REQUIRES: [[0022 - GhostTec Certification Card|GhostTec™ Certification Card]]  
   
 /Ghosts Fart Too/ If this item is equipped to a creature, prevent the next revive your enemy attempts.  
   

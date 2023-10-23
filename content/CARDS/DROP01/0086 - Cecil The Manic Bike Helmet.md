@@ -24,11 +24,11 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 /SmartHat/ Equip Cecil. It's so cool, he has a name. He's my friend.
 +75 HP armor buff;  
 Immune to being instakilled/headshotted  
-Max INT while helmet is equipped;  
+Max [[INT]] while helmet is equipped;  
 Ability to removeview Sean White BMX sessions from the past and future.  
 

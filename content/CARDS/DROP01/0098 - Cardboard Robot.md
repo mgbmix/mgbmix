@@ -35,10 +35,10 @@ aliases:
 
 If you have a Tantillo Systems creature in play, Cardboard Robot can be retrofitted to use [[weapon]] items - making him less of a bitch.  
 
-*Cardboard Robot takes 3X DMG from fire attacks.  
+*Cardboard Robot takes 3X [[DMG]] from fire attacks.  
 *Cardboard Robot may seem like a bitch, but is actually pretty cool.
 *Cardboard Robot is low on battery  
 
 Robo-Blast: Cardboard Robot unleashes a hailstorm of tiny paper balls out of his twin chainguns!  
-200 x 0.25 DMG  
+200 x 0.25 [[DMG]]  
 

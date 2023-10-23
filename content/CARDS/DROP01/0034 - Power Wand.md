@@ -24,9 +24,9 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an active Creature.  
+This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]].  
 
 /Hufflepuff's Hex/ -useless-  
 
-*Offering this wand to an enemy Rainbow Riot or The Hive creature will win them over to your Stowed Hand.  
+*Offering this wand to an enemy Rainbow Riot or The Hive creature will win them over to your [[Stowed Hand]].  
 

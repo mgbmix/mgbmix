@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Drug]] |  
+| [[Card Type]] | [[Item]] - [[Drug]] |  
 | [[Faction]] | [[Fake Tech]] | 
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[2F]] |  

@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
 [Free Harvey Oswald] Fire the Phagic Rebel at a biological creature;  
 On next turn: affected creature has a chance to remove poison if they have a healer ally/poison removal item/PrEP;  

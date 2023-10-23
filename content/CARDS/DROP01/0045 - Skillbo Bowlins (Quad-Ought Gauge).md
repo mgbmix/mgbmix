@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to a Creature card you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.  
 
-[Oi Yeh Were Pictured at 'n Event Wiffout a Mask] 475 DMG; 50 DMG blowback to user.  
+[Oi Yeh Were Pictured at 'n Event Wiffout a Mask] 475 [[DMG]]; 50 [[DMG]] blowback to user.  
 

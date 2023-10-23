@@ -36,7 +36,7 @@ aliases:
 [Tokenize Haters] Usable once. Lushsux Dix can tokenize a 5 INT or lower creature, selling him on OpenSea for 250 HP. Tokenized creature is unable to act without paying hefty gas fees (1 extra funding cost per action).  
 
 [Huff Hardcore] If you have the Spray Paint Can item, Lush can use it to get really, really (really) high - borfing down a full fat cap blast. Incredible buff.
-4x DMG for next attack; Lushsux Dix permanently loses 3 INT (stackable) and 100 Max HP.  
+4x [[DMG]] for next attack; Lushsux Dix permanently loses 3 INT (stackable) and 100 Max HP.  
 
-[No, U Sux] Bodyslam attack. 500 DMG to target, 50 Self DMG to Lushsux Dix because tailbone (coccyx) hit curb weirdly.  
+[No, U Sux] Bodyslam attack. 500 [[DMG]] to target, 50 [[DMG|Self DMG]] to Lushsux Dix because tailbone (coccyx) hit curb weirdly.  
 

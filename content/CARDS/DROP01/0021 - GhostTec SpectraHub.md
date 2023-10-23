@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text  
 
-This Buff enters play attached to a Creature card you control.  
+This Buff enters play [[Attach|attached]] to a [[Creature]] card you control.  
 When the buffed Creature leaves play, send this card to discard.  
 
-REQUIRES: GhostTecTM Certification Card  
+REQUIRES: [[0022 - GhostTec Certification Card|GhostTec™ Certification Card]]  
 
 /Protective Seal/ While this card is on your field, opponent cannot play any Ghost or Paranormal type cards.  
 

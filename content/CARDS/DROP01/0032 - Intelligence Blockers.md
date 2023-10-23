@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an opposing active Creature.  
+This Item [[Equip|equips]] for a [[1F]] cost to an opposing [[Active Zone|active]] [[Creature]].  
 
 [Metal Tuning Fork: Brain-Perfect]   
-* 75 DMG  
-* Decreases enemy creature's INT by 7;  
+* 75 [[DMG]]  
+* Decreases enemy creature's [[INT]] by 7;  
 * If creature's resulting INT is below 0, creature becomes frenzied (must attack or perform action on a randomly selected target every turn until destroyed).  
 

@@ -17,16 +17,16 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Chromeware]] |  
+| [[Card Type]] | [[Item]] - [[Chromeware]] |  
 | [[Faction]] | [[Fake Tech]] | 
 | [[Rarity]] | [[R3]]  |
 | [[Funding Cost]] | [[2F]] |  
 
 # Rules Text  
 
-This Item [[Equip|equips]] for a [[1F]] cost to an opposing Creature card.  
+This Item [[Equip|equips]] for a [[1F]] cost to an opposing [[Creature]] card.  
 
-[PermiTech] Equipped Creature becomes Fake Tech faction until end of turn. 
+[PermiTech] Equipped Creature becomes [[Fake Tech]] [[faction]] until end of turn. 
 Equipped creature receives 50 [[DMG#Damage Type|MindFuck DMG]]. 
 Until end of turn, if a Fake Tech faction card would deal damage to equipped Creature, it deals double that damage to equipped creature instead.  
 

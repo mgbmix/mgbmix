@@ -24,14 +24,14 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an active Creature.  
+This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]].  
 
 /Upcoming Product Pipeline/ This card comes into play with zero Product counters. You may pay [[1F]] to add a [[Counter|Product counter]] to this card.  
 
 Effects granted to equipped Creature depend on the number of Product counters:  
 
 1 counter- BLINK190.000: Gives creature nightvision.  
-2 counters- EtErne: SWG + 2.  
+2 counters- EtErne: [[SWG]] + 2.  
 3 counters- New Theoretical Unnamed Low-Calorie Water Facsimile: [[STR]] + 4.  
 
 

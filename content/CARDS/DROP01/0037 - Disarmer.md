@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text  
 
-This Item equips for a [[1F]] cost to an active Creature you control.  
+This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]] you control.  
 
 [GIMME That!] Gain control of an item card from an opponent's battlefield.  
 
 [Cop Tickler] Tickle a Thin Blue Whine creature;  
-+1 Friendship Merit, 200 Tickle DMG on enemy Cop;  
++1 Friendship Merit, [[DMG|200 Tickle DMG]] on enemy Cop;  
 

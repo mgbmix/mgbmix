@@ -28,6 +28,6 @@ This Tactic enters play face-up in your [[Think Tank]]. You may activate its eff
 After using its effect, send this card to your history.  
 
 [Reversomorphification] Flip a coin.  
-Heads: You get a buff that says "The next Discredit attack against your narrative fails. This buff is destroyed immediately after." OR you may reduce your opponent's narrative by one (1). This is a forced effect and not a Discredit attack itself.  
-Tails: Both players put back one card from their Stowed Hand, shuffle.  
+Heads: You get a buff that says "The next [[Discredit]] attack against your narrative fails. This buff is destroyed immediately after." OR you may reduce your opponent's [[Narrative Score|narrative]] by one (1). This is a forced effect and not a Discredit attack itself.  
+Tails: Both players put back one card from their [[Stowed Hand]], shuffle.  
 

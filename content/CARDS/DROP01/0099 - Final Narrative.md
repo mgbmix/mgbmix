@@ -28,7 +28,7 @@ This Tactic enters play face-up in your [[Think Tank]]. You may activate its eff
 After using its effect, send this card to your history.  
 
 [Didn't Happen; Can't Prove It Did; Debunked] Choose one of the following effects.  
-- Remove all DMG and status effects caused by last enemy turn.  
-- If an opponent increased their Narrative Score last turn, decrease their Narrative Score by 2.  
+- Remove all [[DMG]] and status effects caused by last enemy turn.  
+- If an opponent increased their [[Narrative Score]] last turn, decrease their Narrative Score by 2.  
 - If your Narrative Score equals 4, you win the game.  
 

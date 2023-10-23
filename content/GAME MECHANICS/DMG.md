@@ -17,6 +17,13 @@ Sometimes damage is given a specific type. These can potentially lead to modifie
 
 > [!example]- Examples of Damage Types
 >  
->  - MindFuck DMG as found on [[0002 - DomeHomie Cortical Modem Chip|DomeHomie Cortical Modem Chip]]
->  - Snitching DMG as found on [[0009 - Startup Guy|Startup Guy]]
+>  - MindFuck DMG as found on [[0002 - DomeHomie Cortical Modem Chip#Rules Text|DomeHomie Cortical Modem Chip]]
+>  - Snitching DMG as found on [[0009 - Startup Guy#Rules Text|Startup Guy]]
+>  - Gotcha DMG as found on [[0027 - Understandroid#Rules Text|Understandroid]]
+>  - Guilt DMG as found on [[0035 - Authentic World#Rules Text|Authentic World]]
+>  - Tickle DMG as found on [[0037 - Disarmer|Disarmer]]
+
+
+
+
 
