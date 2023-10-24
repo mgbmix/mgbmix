@@ -1,10 +1,8 @@
 Interested in playtesting -mgbmix-? 
 
-Make sure you have Cockatrice installed and that you're familiar with the style of game and the kind of ruleset being created.
-
 # Software Options
 
-I definitely think Cockatrice is the best for the current state of the project, but for completeness, here's are the options where Mondo Megabits could conceivably be playtested at the moments.
+I definitely think Cockatrice is the best for the current state of the project, but for completeness, here's are the options where Mondo Megabits could conceivably be playtested at the moment. Cockatrice is the only option that I have for updating the card rules on a regular basis.
 
 - [[Cockatrice]]
 - [[Tabletop Simulator]]
@@ -17,6 +15,7 @@ I definitely think Cockatrice is the best for the current state of the project, 
 # Scope of Ruleset
 
 - [[Intro to mgbmix|Intro to -mgbmix-]]
+- [[Game Concepts]]
 
 ## Understanding the Ruleset
 

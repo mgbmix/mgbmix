@@ -1,5 +1,5 @@
 ---
-title: index
+title: Landing Pad
 ---
 Hello
 
