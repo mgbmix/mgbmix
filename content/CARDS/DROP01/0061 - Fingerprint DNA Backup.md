@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Tactic]] - [[Bailout]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Tactic]] - [[Bailout]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R5]] | 
 | [[Funding Cost]] | [[2F]] |  

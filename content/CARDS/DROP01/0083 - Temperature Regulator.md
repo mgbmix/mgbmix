@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Crafting Material]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Crafting Material]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] | 
 | [[Funding Cost]] | [[2F]] |  

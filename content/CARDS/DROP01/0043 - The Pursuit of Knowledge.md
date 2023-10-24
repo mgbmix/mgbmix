@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Challenge]] - [[Tutorial Mission]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Challenge]] - [[Tutorial Mission]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R5]] |  
 | [[Funding Cost]] | [[4F]] / [[0F]] |  

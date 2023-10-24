@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[CARD TYPES/Location\|Location]] - [[Realm]] | 
+| [[CARD TYPES/Card Type\|Card Type]] | [[CARD TYPES/Location\|Location]] - [[Realm]] | 
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[0F]] |  

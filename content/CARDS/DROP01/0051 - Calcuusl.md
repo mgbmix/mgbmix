@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Skill]] - [[Magic Arts]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Skill]] - [[Magic Arts]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[1F]] |  

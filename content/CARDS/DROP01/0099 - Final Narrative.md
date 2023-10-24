@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Tactic]] - [[Security Measure]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Tactic]] - [[Security Measure]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[2F]] |  

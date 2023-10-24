@@ -24,7 +24,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Creature]] - [[Lackey]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Creature]] - [[Lackey]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[3F]] |  

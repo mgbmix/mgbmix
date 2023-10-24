@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Skill]] - [[Teleportation Arts]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Skill]] - [[Teleportation Arts]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] | 
 | [[Funding Cost]] | [[1F]] |  

@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-|[[Card Type]] | [[Infomashun]] - [[Actually Useful]] |  
+|[[CARD TYPES/Card Type\|Card Type]] | [[Infomashun]] - [[Actually Useful]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[3F]] |  

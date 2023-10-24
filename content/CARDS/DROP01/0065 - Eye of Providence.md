@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Skill]] - [[Tech & Steam Arts\|Tech / Steam Arts]] | 
+| [[CARD TYPES/Card Type\|Card Type]] | [[Skill]] - [[Tech & Steam Arts\|Tech / Steam Arts]] | 
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R4]] |  
 | [[Funding Cost]] | [[1F]] |  

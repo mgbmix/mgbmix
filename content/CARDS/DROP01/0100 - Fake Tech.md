@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Group]] - [[Faction(subtype)\|Faction]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Group]] - [[Faction(subtype)\|Faction]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[3F]] |  

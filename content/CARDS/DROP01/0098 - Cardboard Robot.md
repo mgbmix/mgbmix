@@ -24,7 +24,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Creature]] - [[Pissant]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Creature]] - [[Pissant]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R6]] |  
 | [[Funding Cost]] | [[5F]] |  

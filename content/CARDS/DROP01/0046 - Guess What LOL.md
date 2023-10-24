@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Infomashun]] - [[Cosmology]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Infomashun]] - [[Cosmology]] |  
 | [[Faction]] | [[Fake Tech]] | 
 | [[Rarity]] | [[R6]] | 
 | [[Funding Cost]] | [[5F]] |  

@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[CARD TYPES/Location\|Location]] - [[Zone]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[CARD TYPES/Location\|Location]] - [[Zone]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R3]] |  
 | [[Funding Cost]] | [[0F]] | 

@@ -24,7 +24,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Footsoldier]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Footsoldier]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[2F]] |  

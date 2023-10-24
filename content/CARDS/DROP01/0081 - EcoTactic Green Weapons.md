@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Tactic]] - [[Ability(subtype)\|Ability]] | 
+| [[CARD TYPES/Card Type\|Card Type]] | [[Tactic]] - [[Ability(subtype)\|Ability]] | 
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[2F]] |  

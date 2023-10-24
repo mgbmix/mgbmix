@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Brick o' Brack]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Brick o' Brack]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R2]] |  
 | [[Funding Cost]] | [[2F]] |  

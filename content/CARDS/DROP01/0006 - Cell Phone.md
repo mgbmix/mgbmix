@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Food&Trash\|Food / Trash]] | 
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Food&Trash\|Food / Trash]] | 
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R1]] |  
 | [[Funding Cost]] | [[2F]] |  

@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Ammo]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Ammo]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R5]] |  
 | [[Funding Cost]] | [[2F]] |  

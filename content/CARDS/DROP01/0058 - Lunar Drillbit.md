@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Item]] - [[Tool]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Item]] - [[Tool]] |  
 | [[Faction]] | [[Fake Tech]] | 
 | [[Rarity]] | [[R5]] |  
 | [[Funding Cost]] | [[2F]] |  

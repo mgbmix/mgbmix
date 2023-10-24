@@ -17,7 +17,7 @@ aliases:
 
 | Category | Specification| 
 | :--- | :--- |
-| [[Card Type]] | [[Skill]] - [[Spy Arts]] |  
+| [[CARD TYPES/Card Type\|Card Type]] | [[Skill]] - [[Spy Arts]] |  
 | [[Faction]] | [[Fake Tech]] |  
 | [[Rarity]] | [[R2]] |  
 | [[Funding Cost]] | [[1F]] |  
