@@ -14,6 +14,8 @@ Welcome to the knowledge base for -mgbmix-, my custom ruleset for use with Mondo
 
 > [!success] Join the Discord server! https://discord.gg/WUhSYj8Y
 
+^ac845d
+
 Current playtesting is being implemented in the [[Cockatrice]] tabletop game program (https://cockatrice.github.io/)
 
 Not sure where to begin? Try these links!
