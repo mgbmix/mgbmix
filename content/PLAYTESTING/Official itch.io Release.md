@@ -1,5 +1,5 @@
 
-The main Mondo Megabits dev team also release an official software to interact with the cards. 
+The main [[Mondo Megabits]] dev team also released an official software to interact with the cards. 
 
 It's available for download at https://mondomegabits.itch.io/mondo-megabits  
 It's developed by Wesley Moses or wes337  

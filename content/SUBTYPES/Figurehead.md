@@ -3,7 +3,7 @@ Figureheads are a subtype of Creature cards.
 ## [[Importance of Figureheads]]
 
 This particular subtype of Creatures has several important abilities unique to them
-when they are [[Seat|Seated]] in a player's [[Think Tank]]. 
+when they are [[Seat|Seated]] (another ability unique to Figureheads) in a player's [[Think Tank]]. 
 ## Figurehead cards listed by Set
 
 #### [[DROP01 - Fake Tech]]

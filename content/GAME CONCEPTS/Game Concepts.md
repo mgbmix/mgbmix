@@ -1,5 +1,5 @@
 
--mgbmix- has many [[Game Mechanics|game mechanics]] and systems in play over the course of a game. 
+-mgbmix- has many [[Game Mechanics|game mechanics]] and systems in play over the course of a game. Read below to grasp the fundamental concepts.
 
 ## Narrative Score
 

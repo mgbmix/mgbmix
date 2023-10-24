@@ -5,3 +5,7 @@ INT = ability to out-think enemies
 
 > [!help] Some effects can only target vulnerable Creatures with low INT. 
 
+### INT stat - even more important for Figureheads
+
+You should pay closer attention to the INT stat on your [[Figurehead]] [[Creature|Creatures]], since they are able to use the [[Fundraise]] action if [[Seat|seated]], which awards [[Funding]] to the player depending on the INT value of that seated creature. 
+
