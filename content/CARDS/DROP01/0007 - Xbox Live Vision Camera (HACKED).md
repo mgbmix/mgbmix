@@ -35,7 +35,7 @@ If the host card is destroyed, send both cards to discard.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| [[Sets\|SET]] | ![[faketechlogo.png]] |
 | --------------------------- | --------------------- |
 | Next Card                   | [[0008 - Time Machine]]                  |
 | Previous Card               | [[0006 - Cell Phone]]                  |

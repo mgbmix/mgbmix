@@ -35,7 +35,7 @@ Doubles DMG/effect of electro item.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0086 - Cecil The Manic Bike Helmet]] |
 | Previous Card | [[0084 - Hot Potato (Nanite Swarm)]]         |

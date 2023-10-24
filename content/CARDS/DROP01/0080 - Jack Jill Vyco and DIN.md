@@ -44,7 +44,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0081 - EcoTactic Green Weapons]] |
 | Previous Card | [[0079 - GMS Gimme My Space Mk III Energy Projector]]         |

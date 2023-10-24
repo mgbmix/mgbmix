@@ -28,7 +28,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0044 - The Living House]] |
 | Previous Card | [[0042 - Mannitol Nanomachine Injector]]         |

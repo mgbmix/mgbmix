@@ -33,7 +33,7 @@ Target opponent loses [[Funding]] equal to half of that amount (rounded down), a
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0058 - Lunar Drillbit]] |
 | Previous Card | [[0056 - 20mm Hyperkinetic Rounds]]         |

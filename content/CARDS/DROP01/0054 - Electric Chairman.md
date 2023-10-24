@@ -42,7 +42,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0055 - Rogue Implant]] |
 | Previous Card | [[0053 - NASNA Studios]]         |

@@ -31,7 +31,7 @@ When this card leaves play, return that creature to play under its owner's contr
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0026 - Verbal Word Bullets]] |
 | Previous Card | [[0024 - GhostTec OdorTizer]]         |

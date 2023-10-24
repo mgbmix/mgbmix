@@ -33,7 +33,7 @@ If you cannot find two (2) copies of the card, this effect does nothing.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0093 - Waypoint Database]] |
 | Previous Card | [[0091 - Stealth Warp]]         |

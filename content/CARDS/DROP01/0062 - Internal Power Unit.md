@@ -39,7 +39,7 @@ Weak Point: Any firearm critical hits cause instant death- BOOM!
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0063 - Restraint Gun]] |
 | Previous Card | [[0061 - Fingerprint DNA Backup]]         |

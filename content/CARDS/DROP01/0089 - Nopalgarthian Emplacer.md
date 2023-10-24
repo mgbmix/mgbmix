@@ -33,7 +33,7 @@ Puppet creature does 50% damage.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0090 - Teleport Tracker]] |
 | Previous Card | [[0088 - APPLY]]         |

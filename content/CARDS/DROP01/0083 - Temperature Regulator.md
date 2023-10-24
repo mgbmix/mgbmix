@@ -33,7 +33,7 @@ This Item equips for a [[1F]] cost to a [[Weapon]] card you control.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0084 - Hot Potato (Nanite Swarm)]] |
 | Previous Card | [[0082 - Time Cube]]         |

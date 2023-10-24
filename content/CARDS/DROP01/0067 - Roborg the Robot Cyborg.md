@@ -47,7 +47,7 @@ Stun yourself for one (1) turn.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0068 - Armor of Self Confidence]] |
 | Previous Card | [[0066 - TIA Wave Projector]]         |

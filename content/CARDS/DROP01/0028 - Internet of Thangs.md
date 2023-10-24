@@ -32,7 +32,7 @@ This sequence may be repeated if Fake Tech cards are re-drawn.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0029 - Roboid Mental Health Check]] |
 | Previous Card | [[0027 - Understandroid]]         |

@@ -34,7 +34,7 @@ After using its effect, send this card to your history.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0100 - Fake Tech]] |
 | Previous Card | [[0098 - Cardboard Robot]]         |

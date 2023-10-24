@@ -36,7 +36,7 @@ Target creature will be placed in nursing home four (4) turns after casting (you
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0067 - Roborg the Robot Cyborg]] |
 | Previous Card | [[0065 - Eye of Providence]]         |

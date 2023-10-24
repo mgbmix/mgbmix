@@ -37,7 +37,7 @@ Effects granted to equipped Creature depend on the number of Product counters:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0034 - Power Wand]] |
 | Previous Card | [[0032 - Intelligence Blockers]]         |

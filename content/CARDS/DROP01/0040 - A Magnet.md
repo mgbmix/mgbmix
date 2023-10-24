@@ -36,7 +36,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0041 - Cold-Blooded EVA Suit]] |
 | Previous Card | [[0039 - Artisanal Camo]]         |

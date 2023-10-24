@@ -33,7 +33,7 @@ Each Teleportation Token token can be spent as a free dodge against an incoming 
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0096 - Inscribe and Requite]] |
 | Previous Card | [[0094 - Long Warp]]         |

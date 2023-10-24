@@ -35,7 +35,7 @@ Fire! Attack any two (2) creatures-the bullet goes right through them for 1000 [
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0057 - Megamix]] |
 | Previous Card | [[0055 - Rogue Implant]]         |

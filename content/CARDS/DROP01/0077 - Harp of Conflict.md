@@ -31,7 +31,7 @@ All hit creatures burn for three (3) turns @ 50 DMG/turn.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0078 - Hedonic Treadmill]] |
 | Previous Card | [[0076 - Missionate]]         |

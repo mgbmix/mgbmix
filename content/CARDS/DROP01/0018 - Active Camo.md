@@ -41,7 +41,7 @@ If Heads, put equipped creature on the bottom of its owner's deck.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0019 - Power Cell]] |
 | Previous Card | [[0017 - Blockchain Evangelist]]         |

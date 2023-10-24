@@ -35,7 +35,7 @@ If tails, the enemy failed the CAPTCHA. Skip that player's next turn, TIME WASTE
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0053 - NASNA Studios]] |
 | Previous Card | [[0051 - Calcuusl]]         |

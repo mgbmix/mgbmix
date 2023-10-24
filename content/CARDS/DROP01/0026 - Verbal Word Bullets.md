@@ -30,7 +30,7 @@ This Item equips for a [[1F]] cost to an [[Active Zone#^f3b9ab|active]] [[Creatu
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0027 - Understandroid]] |
 | Previous Card | [[0025 - Mars Teleport Sci Institute]]         |

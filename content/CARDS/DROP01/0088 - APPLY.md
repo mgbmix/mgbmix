@@ -30,7 +30,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0089 - Nopalgarthian Emplacer]] |
 | Previous Card | [[0087 - Panopticon You]]         |

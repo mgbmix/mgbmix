@@ -43,7 +43,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0028 - Internet of Thangs]] |
 | Previous Card | [[0026 - Verbal Word Bullets]]         |

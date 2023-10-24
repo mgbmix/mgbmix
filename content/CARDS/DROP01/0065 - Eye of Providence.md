@@ -35,7 +35,7 @@ Steal 2 non-creature Fake Tech cards, put them into your Stowed Hand.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0066 - TIA Wave Projector]] |
 | Previous Card | [[0064 - Polycosmic Manipulation]]         |

@@ -34,7 +34,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| [[Sets\|SET]] | ![[faketechlogo.png]] |
 | --- | --- |
 | Next Card | [[0005 - Scientific Proof]] |
 | Previous Card | [[0003 - ADDERALL Prescription]] |

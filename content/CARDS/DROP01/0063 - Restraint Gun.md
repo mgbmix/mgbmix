@@ -33,7 +33,7 @@ Robots/non air-breathing creatures cannot be suffocated.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0064 - Polycosmic Manipulation]] |
 | Previous Card | [[0062 - Internal Power Unit]]         |

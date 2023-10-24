@@ -41,7 +41,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0013 - Imposter Moon]] |
 | Previous Card | [[0011 - Super Computer 1999]]         |

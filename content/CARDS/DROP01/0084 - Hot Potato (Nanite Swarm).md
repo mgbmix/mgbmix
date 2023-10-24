@@ -34,7 +34,7 @@ Instantly destroys [[Weapon|weapons]], [[Armor|armors]], bomb shelters, metalic 
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0085 - Amplifier Circuit]] |
 | Previous Card | [[0083 - Temperature Regulator]]         |

@@ -36,7 +36,7 @@ Ability to stun target creature for one (1) turn with 75,000 lumen LED SWAT stro
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0049 - Bogus Freeze Gun]] |
 | Previous Card | [[0047 - Does Not Exist!]]         |

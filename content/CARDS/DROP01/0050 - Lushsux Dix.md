@@ -42,7 +42,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0051 - Calcuusl]] |
 | Previous Card | [[0049 - Bogus Freeze Gun]]         |

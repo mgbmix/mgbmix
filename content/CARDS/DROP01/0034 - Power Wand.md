@@ -32,7 +32,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]].
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0035 - Authentic World]] |
 | Previous Card | [[0033 - HyperKush Bevlabs]]         |

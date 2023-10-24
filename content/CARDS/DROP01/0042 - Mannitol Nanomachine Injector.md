@@ -33,7 +33,7 @@ Equipped creature cannot fire back DMG if it has stored a lethal amount of damag
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0043 - The Pursuit of Knowledge]] |
 | Previous Card | [[0041 - Cold-Blooded EVA Suit]]         |

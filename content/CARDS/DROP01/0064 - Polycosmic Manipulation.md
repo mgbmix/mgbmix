@@ -33,7 +33,7 @@ Tails: Both players put back one card from their [[Stowed Hand]], shuffle.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0065 - Eye of Providence]] |
 | Previous Card | [[0063 - Restraint Gun]]         |

@@ -29,7 +29,7 @@ When this Location enters play, roll a six-sided die. You gain [[Funding]] equal
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0054 - Electric Chairman]] |
 | Previous Card | [[0052 - CAPTCHA Verification]]         |

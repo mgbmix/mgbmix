@@ -34,7 +34,7 @@ Additional 75 HP armor boost.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0024 - GhostTec OdorTizer]] |
 | Previous Card | [[0022 - GhostTec Certification Card]]         |

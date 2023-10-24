@@ -39,7 +39,7 @@ If rolled result is a 5 or 6, revived creature enters the enemy's Stowed Hand.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0062 - Internal Power Unit]] |
 | Previous Card | [[0060 - Utopia Scrupulous Automation]]         |

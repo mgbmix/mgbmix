@@ -30,7 +30,7 @@ Target stunned for three (3) turns. You're telling me the sky is actually a bubb
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0047 - Does Not Exist!]] |
 | Previous Card | [[0045 - Skillbo Bowlins (Quad-Ought Gauge)]]         |

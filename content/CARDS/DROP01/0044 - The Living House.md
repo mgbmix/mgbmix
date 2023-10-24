@@ -28,7 +28,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0045 - Skillbo Bowlins (Quad-Ought Gauge)]] |
 | Previous Card | [[0043 - The Pursuit of Knowledge]]         |

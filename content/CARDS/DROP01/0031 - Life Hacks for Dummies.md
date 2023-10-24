@@ -28,7 +28,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0032 - Intelligence Blockers]] |
 | Previous Card | [[0030 - MyGirls AI-Generated Girlfriend Experience]]         |

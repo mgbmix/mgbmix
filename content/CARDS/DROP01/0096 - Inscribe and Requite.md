@@ -35,7 +35,7 @@ Instant death to a creature of enemy's choice.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0097 - Planet B]] |
 | Previous Card | [[0095 - Economy Warp]]         |

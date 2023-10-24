@@ -36,7 +36,7 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0016 - Crapto Currency]] |
 | Previous Card | [[0014 - AI Overlord]]         |

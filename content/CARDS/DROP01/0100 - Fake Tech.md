@@ -29,7 +29,7 @@ All attacks deal 75 additional [[DMG]].
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | none |
 | Previous Card | [[0099 - Final Narrative]]         |

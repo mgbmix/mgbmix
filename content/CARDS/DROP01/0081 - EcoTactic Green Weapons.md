@@ -33,7 +33,7 @@ The Hive/Intelligentsia creatures cannot be harmed by The Thin Blue Whine creatu
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0082 - Time Cube]] |
 | Previous Card | [[0080 - Jack Jill Vyco and DIN]]         |

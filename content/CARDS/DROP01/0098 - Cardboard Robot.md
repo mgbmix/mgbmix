@@ -44,7 +44,7 @@ Robo-Blast: Cardboard Robot unleashes a hailstorm of tiny paper balls out of his
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0099 - Final Narrative]] |
 | Previous Card | [[0097 - Planet B]]         |

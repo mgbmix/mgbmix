@@ -36,7 +36,7 @@ If your opponent guesses correctly, destroy the creature.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0048 - Cyber Optic Facemask]] |
 | Previous Card | [[0046 - Guess What LOL]]         |

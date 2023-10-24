@@ -39,7 +39,7 @@ aliases:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0012 - The Algorithm]] |
 | Previous Card | [[0010 - Social Media Mogul's Beard]]         |

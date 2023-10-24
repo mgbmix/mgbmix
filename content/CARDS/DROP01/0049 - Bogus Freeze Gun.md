@@ -33,7 +33,7 @@ Useless item. Can only be sold for mana.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0050 - Lushsux Dix]] |
 | Previous Card | [[0048 - Cyber Optic Facemask]]         |

@@ -39,7 +39,7 @@ Lose all attempts on coin flips and die rolls while this card is in play. Don't 
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0069 - Cialamin]] |
 | Previous Card | [[0067 - Roborg the Robot Cyborg]]         |

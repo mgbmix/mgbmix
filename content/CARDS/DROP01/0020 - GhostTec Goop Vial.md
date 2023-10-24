@@ -31,7 +31,7 @@ Convert the resulting explosion of ethereal energy into Ghost Food (heals 5 HP o
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0021 - GhostTec SpectraHub]] |
 | Previous Card | [[0019 - Power Cell]]         |

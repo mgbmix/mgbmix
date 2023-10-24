@@ -33,7 +33,7 @@ Affected creature cannot suffer negative status effects (mental state, burning, 
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0079 - GMS Gimme My Space Mk III Energy Projector]] |
 | Previous Card | [[0077 - Harp of Conflict]]         |

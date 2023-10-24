@@ -33,7 +33,7 @@ Kill any [[Fake Tech]] or Tantillo Systems creature instantly. When this ability
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0056 - 20mm Hyperkinetic Rounds]] |
 | Previous Card | [[0054 - Electric Chairman]]         |

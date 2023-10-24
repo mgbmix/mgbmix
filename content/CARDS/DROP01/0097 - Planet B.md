@@ -32,7 +32,7 @@ View enemy's newly drawn hand - choose two (2) cards to remove.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0098 - Cardboard Robot]] |
 | Previous Card | [[0096 - Inscribe and Requite]]         |

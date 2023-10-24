@@ -33,7 +33,7 @@ When this Item is equipped to a Creature, choose one of the following effects:
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0031 - Life Hacks for Dummies]] |
 | Previous Card | [[0029 - Roboid Mental Health Check]]         |

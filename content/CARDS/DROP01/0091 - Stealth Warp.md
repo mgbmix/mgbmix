@@ -35,7 +35,7 @@ with a 4X crit [[DMG]] buff.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0092 - Portal Formula]] |
 | Previous Card | [[0090 - Teleport Tracker]]         |

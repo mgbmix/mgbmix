@@ -33,7 +33,7 @@ You may choose new targets for the clandestine attacks, and they cannot be block
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0072 - Gauss Rifle]] |
 | Previous Card | [[0070 - Liquid Physics]]         |

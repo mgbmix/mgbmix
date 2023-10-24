@@ -32,7 +32,7 @@ Distribute Morsel food item to all friendlies. Each creature you control gains 2
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0061 - Fingerprint DNA Backup]] |
 | Previous Card | [[0059 - Research Element 151]]         |

@@ -34,7 +34,7 @@ If you lose, discard the top card of your deck.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0095 - Economy Warp]] |
 | Previous Card | [[0093 - Waypoint Database]]         |

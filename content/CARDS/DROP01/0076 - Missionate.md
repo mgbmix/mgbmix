@@ -33,7 +33,7 @@ Both effects last for two (2) turns.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0077 - Harp of Conflict]] |
 | Previous Card | [[0075 - Monocular Supercomputer]]         |

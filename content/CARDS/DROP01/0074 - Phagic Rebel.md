@@ -35,7 +35,7 @@ After final (hospice) turn: creature drops dead of Dyna-AIDS.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0075 - Monocular Supercomputer]] |
 | Previous Card | [[0073 - Busted Pharmaceutical Kiosk]]         |

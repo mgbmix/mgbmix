@@ -30,7 +30,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0070 - Liquid Physics]] |
 | Previous Card | [[0068 - Armor of Self Confidence]]         |

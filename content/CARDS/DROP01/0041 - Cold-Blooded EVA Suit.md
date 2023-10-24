@@ -40,7 +40,7 @@ AI-controlled weapons have a 50% chance to miss.
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0042 - Mannitol Nanomachine Injector]] |
 | Previous Card | [[0040 - A Magnet]]         |

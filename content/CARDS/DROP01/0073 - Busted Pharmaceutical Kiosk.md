@@ -34,7 +34,7 @@ Sensitive to electro attacks (2X [[DMG]]);
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0074 - Phagic Rebel]] |
 | Previous Card | [[0072 - Gauss Rifle]]         |

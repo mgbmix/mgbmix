@@ -32,7 +32,7 @@ Creature cannot equip any items or armor;
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0023 - GhostTec HELLmet]] |
 | Previous Card | [[0021 - GhostTec SpectraHub]]         |

@@ -31,7 +31,7 @@ If you control the [[Location]] card in play, you get a free dodge against one (
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0091 - Stealth Warp]] |
 | Previous Card | [[0089 - Nopalgarthian Emplacer]]         |

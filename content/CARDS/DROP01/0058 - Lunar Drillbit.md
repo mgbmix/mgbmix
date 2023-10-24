@@ -31,7 +31,7 @@ Permanently affect target's eyesight (curse/debuff), 50% chance of landing attac
 
 # Card Nav
 
-| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0059 - Research Element 151]] |
 | Previous Card | [[0057 - Megamix]]         |
