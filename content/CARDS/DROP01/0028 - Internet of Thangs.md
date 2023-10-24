@@ -30,3 +30,11 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 Skipped cards are put into the discard pile. Draw a new card for each card discarded in this way. 
 This sequence may be repeated if Fake Tech cards are re-drawn.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0029 - Roboid Mental Health Check]] |
+| Previous Card | [[0027 - Understandroid]]         |
+
+

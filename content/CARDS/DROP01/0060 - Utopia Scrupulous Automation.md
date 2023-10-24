@@ -30,3 +30,10 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 Stun all enemy Whypeepoo, The Hive and Team Pinkbean creatures for three (3) turns;  
 Distribute Morsel food item to all friendlies. Each creature you control gains 25 HP.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0061 - Fingerprint DNA Backup]] |
+| Previous Card | [[0059 - Research Element 151]]         |
+

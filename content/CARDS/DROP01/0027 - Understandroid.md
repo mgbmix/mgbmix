@@ -41,3 +41,11 @@ aliases:
 
 [E-lectric. Shock.] Deals 75 [[DMG]] to target Creature.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0028 - Internet of Thangs]] |
+| Previous Card | [[0026 - Verbal Word Bullets]]         |
+
+

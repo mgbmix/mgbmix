@@ -31,3 +31,11 @@ If this card is equipped to a creature on your frontline, you may steal an item 
 
 Artisanal Camo breaks after two (2) uses.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0040 - A Magnet]] |
+| Previous Card | [[0038 - Budslugs]]         |
+
+

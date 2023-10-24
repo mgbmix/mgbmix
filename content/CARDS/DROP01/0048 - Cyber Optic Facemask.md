@@ -34,3 +34,11 @@ Ability to crash airplanes with face laser;
 Ability to stun target creature for one (1) turn with 75,000 lumen LED SWAT strober;  
 +3 [[SWG]] until end of turn.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0049 - Bogus Freeze Gun]] |
+| Previous Card | [[0047 - Does Not Exist!]]         |
+
+

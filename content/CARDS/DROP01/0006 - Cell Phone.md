@@ -32,8 +32,11 @@ Target creature you control gains +150 maximum HP
 
 # Card Nav
 
-| SET | - | ![[faketechlogo.png]] |
-| --- | - | --- |
-| Previous Card | - | [[0005 - Scientific Proof\|Scientific Proof]] |
-| Next Card | - | [[0007 - Xbox Live Vision Camera (HACKED)\|Xbox Live Vision Camera (HACKED)]] |
+| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| --------------------------- | --------------------- |
+| Next Card                   | [[0007 - Xbox Live Vision Camera (HACKED)]]                  |
+| Previous Card               | [[0005 - Scientific Proof]]                  |
+
+
+
 

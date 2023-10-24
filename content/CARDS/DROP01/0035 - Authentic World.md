@@ -28,3 +28,13 @@ aliases:
 -4 [[SWG]]  
 50 [[DMG|Guilt DMG]];  
 Remove [[Faction|faction identity]].  
+
+
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0036 - Shitfan]] |
+| Previous Card | [[0034 - Power Wand]]         |
+
+

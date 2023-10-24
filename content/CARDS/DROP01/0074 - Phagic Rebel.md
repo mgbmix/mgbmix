@@ -33,3 +33,11 @@ After final (hospice) turn: creature drops dead of Dyna-AIDS.
 
 [Unlikely Restock] If you have a BRICS creature in play, you can buy another bullet for 200 HP (any friendly creature may make the sacrifice).  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0075 - Monocular Supercomputer]] |
+| Previous Card | [[0073 - Busted Pharmaceutical Kiosk]]         |
+
+

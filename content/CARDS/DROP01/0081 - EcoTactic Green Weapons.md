@@ -31,3 +31,11 @@ After using its effect, send this card to your history.
 Incapacitate any Whypeepo creature for two (2) turns;  
 The Hive/Intelligentsia creatures cannot be harmed by The Thin Blue Whine creatures for ten (10) turns.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0082 - Time Cube]] |
+| Previous Card | [[0080 - Jack Jill Vyco and DIN]]         |
+
+

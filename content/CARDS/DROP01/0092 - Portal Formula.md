@@ -31,3 +31,11 @@ When the attached Creature leaves play, send this card to discard.
 /Double Warp/ When this card is attached to a creature, search your deck for two (2) copies of the same Creature card, reveal them, and put them into your [[Stowed Hand]].  
 If you cannot find two (2) copies of the card, this effect does nothing.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0093 - Waypoint Database]] |
+| Previous Card | [[0091 - Stealth Warp]]         |
+
+

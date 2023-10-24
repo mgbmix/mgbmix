@@ -33,6 +33,10 @@ Whenever a player plays Scientific Proof, all other instances of the card must b
 
 # Card Nav
 
-| Previous Card | SET | Next Card |
-| :-----:| :-----: | :-----: |
-| [[0004 - Failed Crowdfunding\|Failed Crowdfunding]] | ![[faketechlogo.png]] | [[0006 - Cell Phone\|Cell Phone]]|
+| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| --------------------------- | --------------------- |
+| Next Card                   | [[0006 - Cell Phone]]                  |
+| Previous Card               | [[0004 - Failed Crowdfunding]]                  |
+
+
+

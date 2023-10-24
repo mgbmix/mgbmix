@@ -33,3 +33,11 @@ Flip a coin;
 If heads, damaged creature receives an additional 50 Burning DMG for two (2) turns;  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0039 - Artisanal Camo]] |
+| Previous Card | [[0037 - Disarmer]]         |
+
+

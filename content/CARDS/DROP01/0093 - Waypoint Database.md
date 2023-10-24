@@ -36,3 +36,11 @@ Whenever an enemy creature attempts a warp, equipped creature deals 200 [[DMG]] 
 -50 Max HP  
 Those creatures can no longer attack Tantillo Systems creatures.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0094 - Long Warp]] |
+| Previous Card | [[0092 - Portal Formula]]         |
+
+

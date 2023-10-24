@@ -28,3 +28,11 @@ This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.
 
 [Oi Yeh Were Pictured at 'n Event Wiffout a Mask] 475 [[DMG]]; 50 [[DMG]] blowback to user.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0046 - Guess What LOL]] |
+| Previous Card | [[0044 - The Living House]]         |
+
+

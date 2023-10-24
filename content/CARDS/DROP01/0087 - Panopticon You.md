@@ -30,3 +30,11 @@ When the attached Creature leaves play, send this card to discard.
 
 [Viral Sensation] Remove the attached Creature from play and place them at the bottom of their owner's deck.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0088 - APPLY]] |
+| Previous Card | [[0086 - Cecil The Manic Bike Helmet]]         |
+
+

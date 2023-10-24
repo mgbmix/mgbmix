@@ -31,3 +31,11 @@ When the buffed Creature leaves play, send this card to discard.
 If an opposing Creature deals damage to buffed Creature, send the opposing Creature to the bottom of its owner's newsfeed.  
 Both effects last for two (2) turns.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0077 - Harp of Conflict]] |
+| Previous Card | [[0075 - Monocular Supercomputer]]         |
+
+

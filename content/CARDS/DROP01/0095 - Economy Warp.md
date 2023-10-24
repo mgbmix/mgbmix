@@ -31,3 +31,11 @@ When the attached Creature leaves play, send this card to discard.
 /In a Flash/ When this card becomes attached to a creature, that creature gets 1 Teleportation Token for each electronic item in your possession.   
 Each Teleportation Token token can be spent as a free dodge against an incoming attack.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0096 - Inscribe and Requite]] |
+| Previous Card | [[0094 - Long Warp]]         |
+
+

@@ -33,3 +33,10 @@ Load 20mm Hyperkinetic Rounds into any firearm item;
 Fire! Attack any two (2) creatures-the bullet goes right through them for 1000 [[DMG]] each;  
 20mm Kyperkinetic Rounds-equipped firearm is broken and unrepairable (discard it). Operator takes 250 [[DMG|Sight DMG]] and 250 [[DMG|Deafness DMG]] (permanent ringing in ears, night blindness).  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0057 - Megamix]] |
+| Previous Card | [[0055 - Rogue Implant]]         |
+

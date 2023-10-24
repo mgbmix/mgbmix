@@ -31,3 +31,10 @@ This Item [[Equip|equips]] for a [[1F]] cost to an opposing [[Creature]] card.
 [Rogue Implant] I- can't br-breathe!   
 Kill any [[Fake Tech]] or Tantillo Systems creature instantly. When this ability is used, destroy Rogue Implant.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0056 - 20mm Hyperkinetic Rounds]] |
+| Previous Card | [[0054 - Electric Chairman]]         |
+

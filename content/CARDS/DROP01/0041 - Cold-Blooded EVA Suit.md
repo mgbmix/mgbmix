@@ -38,3 +38,11 @@ AI-controlled weapons have a 50% chance to miss.
 +6 [[SWG]], this suit looks really sick.  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0042 - Mannitol Nanomachine Injector]] |
+| Previous Card | [[0040 - A Magnet]]         |
+
+

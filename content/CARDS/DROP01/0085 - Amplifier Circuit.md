@@ -33,3 +33,11 @@ Doubles DMG/effect of electro item.
 =1: Lose 475 HP.  
 =2: Lose 75 HP.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0086 - Cecil The Manic Bike Helmet]] |
+| Previous Card | [[0084 - Hot Potato (Nanite Swarm)]]         |
+
+

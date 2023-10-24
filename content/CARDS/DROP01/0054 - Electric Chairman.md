@@ -40,3 +40,10 @@ aliases:
 [I'm Gonna Need a Little Help Shitting] Electric Chairman takes no [[DMG]] from Shit Attacks.   
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0055 - Rogue Implant]] |
+| Previous Card | [[0053 - NASNA Studios]]         |
+

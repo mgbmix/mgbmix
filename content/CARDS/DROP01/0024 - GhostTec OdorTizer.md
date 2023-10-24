@@ -30,3 +30,13 @@ REQUIRES: [[0022 - GhostTec Certification Card|GhostTec™ Certification Card]]
 /Ghosts Fart Too/ If this item is equipped to a creature, prevent the next revive your enemy attempts.  
   
 Destroy GhostTec Odortizer after two (2) activations.  
+
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0025 - Mars Teleport Sci Institute]] |
+| Previous Card | [[0023 - GhostTec HELLmet]]         |
+
+
+

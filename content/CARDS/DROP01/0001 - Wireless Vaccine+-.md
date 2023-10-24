@@ -44,8 +44,8 @@ Lowers target INT by 2.
 
 # Card Nav
 
-| Previous Card |    SET | Next Card |
-| :-----:| :-----: | :-----: |
-| none | ![[faketechlogo.png]] | [[0002 - DomeHomie Cortical Modem Chip\|DomeHomie Cortical Modem Chip]] |
-
+| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| --- | --- |
+| Next Card | [[0002 - DomeHomie Cortical Modem Chip]] |
+| Previous Card | none |
 

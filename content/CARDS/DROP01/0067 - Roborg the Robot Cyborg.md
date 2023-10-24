@@ -45,3 +45,11 @@ Enemies who attempt to melee attack a shielded creature take 200 [[DMG]], big mi
 [Listen To Me I'm Still Ryan] It's only a glitch. Still creepy though.  
 Stun yourself for one (1) turn.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0068 - Armor of Self Confidence]] |
+| Previous Card | [[0066 - TIA Wave Projector]]         |
+
+

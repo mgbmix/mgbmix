@@ -35,8 +35,7 @@ Until end of turn, if a Fake Tech faction card would deal damage to equipped Cre
 
 # Card Nav
 
-| Previous Card | SET | Next Card |
-| :-----:| :-----: | :-----: |
-| [[0001 - Wireless Vaccine+-\|Wireless Vaccine+-]] | [[DROP01 - Fake Tech\|DROP01]] | [[0003 - ADDERALL Prescription\|ADDERALL Prescription]] |
-
-
+| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| --- | --- |
+| Next Card | [[0003 - ADDERALL Prescription]] |
+| Previous Card | [[0001 - Wireless Vaccine+-]] |

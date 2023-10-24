@@ -40,3 +40,11 @@ aliases:
 
 [No, U Sux] Bodyslam attack. 500 [[DMG]] to target, 50 [[DMG|Self DMG]] to Lushsux Dix because tailbone (coccyx) hit curb weirdly.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0051 - Calcuusl]] |
+| Previous Card | [[0049 - Bogus Freeze Gun]]         |
+
+

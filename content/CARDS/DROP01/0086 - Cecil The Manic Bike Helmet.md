@@ -32,3 +32,11 @@ Immune to being instakilled/headshotted
 Max [[INT]] while helmet is equipped;  
 Ability to removeview Sean White BMX sessions from the past and future.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0087 - Panopticon You]] |
+| Previous Card | [[0085 - Amplifier Circuit]]         |
+
+

@@ -37,3 +37,11 @@ Increase [[DMG]] dealt by 200;
 Susceptible to EMP and electric attacks--creature becomes 'robot' type.
 Weak Point: Any firearm critical hits cause instant death- BOOM!  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0063 - Restraint Gun]] |
+| Previous Card | [[0061 - Fingerprint DNA Backup]]         |
+
+

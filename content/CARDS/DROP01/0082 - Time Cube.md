@@ -30,3 +30,11 @@ This Item [[Equip|equips]] for a [[1F]] cost to your [[Think Tank]].
 
 /Moonlit Opus/ If Time Cube is played while a Moon card is the active [[Location]], you may revive three (3) creatures from your graveyard.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0083 - Temperature Regulator]] |
+| Previous Card | [[0081 - EcoTactic Green Weapons]]         |
+
+

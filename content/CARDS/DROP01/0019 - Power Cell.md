@@ -33,3 +33,8 @@ Send this card to its owner's discard pile.
 
 # Card Nav
 
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0020 - GhostTec Goop Vial]] |
+| Previous Card | [[0018 - Active Camo]]         |
+

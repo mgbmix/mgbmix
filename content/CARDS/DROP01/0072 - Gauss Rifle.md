@@ -33,3 +33,11 @@ Note: Despite the Gauss Rifle being an incredibly high-tech weapon, it is fully 
 Upon firing, 200 DMG to self and +6 [[SWG]].  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0073 - Busted Pharmaceutical Kiosk]] |
+| Previous Card | [[0071 - Camera Loop]]         |
+
+

@@ -27,3 +27,11 @@ aliases:
 /UberEats Pays You $55 Million for a Cutaway Ad on the NASNA Venus Surface Diamond Hunting Live Stream/   
 When this Location enters play, roll a six-sided die. You gain [[Funding]] equal the the die result divided by two (rounded down).  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0054 - Electric Chairman]] |
+| Previous Card | [[0052 - CAPTCHA Verification]]         |
+
+

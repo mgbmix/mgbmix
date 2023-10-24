@@ -42,3 +42,11 @@ If you have a Tantillo Systems creature in play, Cardboard Robot can be retrofit
 Robo-Blast: Cardboard Robot unleashes a hailstorm of tiny paper balls out of his twin chainguns!  
 200 x 0.25 [[DMG]]  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0099 - Final Narrative]] |
+| Previous Card | [[0097 - Planet B]]         |
+
+

@@ -30,3 +30,11 @@ View enemy's newly drawn hand - choose two (2) cards to remove.
 
 [False Hope Hoax] Planet B is actually a projection on a giant dinner plate floating in space. There is no liftoff.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0098 - Cardboard Robot]] |
+| Previous Card | [[0096 - Inscribe and Requite]]         |
+
+

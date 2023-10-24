@@ -31,3 +31,11 @@ This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]] you contr
 [Cop Tickler] Tickle a Thin Blue Whine creature;  
 +1 Friendship Merit, [[DMG|200 Tickle DMG]] on enemy Cop;  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0038 - Budslugs]] |
+| Previous Card | [[0036 - Shitfan]]         |
+
+

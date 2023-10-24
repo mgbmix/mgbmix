@@ -31,3 +31,11 @@ When the attached Active Zone's player loses, send this card to discard.
 [UNSUPERVISED] For the rest of this turn, electric/electro attacks and hacking you perform against targets in the attached Active Zone may be done twice; once normally and once clandestine.   
 You may choose new targets for the clandestine attacks, and they cannot be blocked or avoided.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0072 - Gauss Rifle]] |
+| Previous Card | [[0070 - Liquid Physics]]         |
+
+

@@ -31,3 +31,11 @@ This Item [[Equip|equips]] for a [[1F]] cost to a [[Creature]] card you control.
 [MANNITOL RELEASE] Equipped creature releases all stored Nuts DMG and deals it to target creature an opponent controls.
 Equipped creature cannot fire back DMG if it has stored a lethal amount of damage (compared to maximum HP). Destroy the equipped creature.   
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0043 - The Pursuit of Knowledge]] |
+| Previous Card | [[0041 - Cold-Blooded EVA Suit]]         |
+
+

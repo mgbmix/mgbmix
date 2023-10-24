@@ -28,3 +28,11 @@ aliases:
 
 [Wireless Nausea Beam (LEGAL)] Can cause a creature to vomit up a food item used in prior turn. Cancel HP gains, inflict 25 Vomit DMG, -3 SWG (spit up all over your Helly Hansen). Use once.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0089 - Nopalgarthian Emplacer]] |
+| Previous Card | [[0087 - Panopticon You]]         |
+
+

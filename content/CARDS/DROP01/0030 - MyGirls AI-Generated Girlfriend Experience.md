@@ -31,3 +31,11 @@ When this Item is equipped to a Creature, choose one of the following effects:
 /Convincing Enough/ Equipped Creature is granted a permanent happiness buff (raise [[STR]] by 3 points).
 /The MyGirls MyGirlfriend Widget/ Equipped Creature may not attack or defend. (abilities can be used)  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0031 - Life Hacks for Dummies]] |
+| Previous Card | [[0029 - Roboid Mental Health Check]]         |
+
+

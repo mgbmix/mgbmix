@@ -34,3 +34,11 @@ After using its effect, send this card to your history.
 /Aaand It's Gone/ Whenever you use the face-down card (attacks or abilities), your opponent may guess what card it is.   
 If your opponent guesses correctly, destroy the creature.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0048 - Cyber Optic Facemask]] |
+| Previous Card | [[0046 - Guess What LOL]]         |
+
+

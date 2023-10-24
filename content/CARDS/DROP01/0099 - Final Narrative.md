@@ -32,3 +32,11 @@ After using its effect, send this card to your history.
 - If an opponent increased their [[Narrative Score]] last turn, decrease their Narrative Score by 2.  
 - If your Narrative Score equals 4, you win the game.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0100 - Fake Tech]] |
+| Previous Card | [[0098 - Cardboard Robot]]         |
+
+

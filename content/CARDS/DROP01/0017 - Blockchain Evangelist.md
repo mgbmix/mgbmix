@@ -39,5 +39,10 @@ aliases:
 
 [BitCoins Millionaire] If Blockchain Tech or Crapto Currency is played while this creature is in play, gain 50 Bitcoin tokens.  
 
-# Card Nav 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0018 - Active Camo]] |
+| Previous Card | [[0016 - Crapto Currency]]         |
 

@@ -33,3 +33,11 @@ CAPTCHA Verification may not be activated the turn it came into play.
 If heads, the enemy succeed the CAPTCHA. That player may place a +1 counter on every stat for a robotic creature they control. That robot is now verified.  
 If tails, the enemy failed the CAPTCHA. Skip that player's next turn, TIME WASTED.   
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0053 - NASNA Studios]] |
+| Previous Card | [[0051 - Calcuusl]]         |
+
+

@@ -32,7 +32,7 @@ Tails: The plan fails. Trolling and targeted ads have turned target creature int
 
 # Card Nav
 
-| SET           | ![[faketechlogo.png]]          |
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
 | Next Card     | [[0011 - Super Computer 1999]] |
 | Previous Card | [[0009 - Startup Guy]]         |

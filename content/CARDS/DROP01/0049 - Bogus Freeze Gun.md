@@ -31,3 +31,11 @@ Useless item. Can only be sold for mana.
 [Sell Bogus Freeze Gun to Gullible Poverty-Stricken Kid] You lie to a kid with bruises all over him and a hunger belly-he gives you every credit he has for the Bogus Freeze Gun.  
 +15 wei -3 Hours of Sleep.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0050 - Lushsux Dix]] |
+| Previous Card | [[0048 - Cyber Optic Facemask]]         |
+
+

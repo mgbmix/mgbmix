@@ -31,10 +31,13 @@ If the host card is destroyed, send both cards to discard.
 
 /Illuminating Penetration/ When this item is equipped on a creature, you are allowed to look at the [[Stowed Hand]] and [[Look Hand]] of the equipped Creature's controller.  
 
+
+
 # Card Nav
 
-| SET | [[DROP01 - Fake Tech\|DROP01]] |
-| --- | --- |
-| Previous Card | [[0006 - Cell Phone]] |
-| Next Card | [[0008 - Time Machine]] |
+| [[Sets#Current Sets\|SET]] | ![[faketechlogo.png]] |
+| --------------------------- | --------------------- |
+| Next Card                   | [[0008 - Time Machine]]                  |
+| Previous Card               | [[0006 - Cell Phone]]                  |
+
 

@@ -32,3 +32,10 @@ This Item equips for a [[1F]] cost to an opposing Item card.
 175 [[DMG]] to biological creatures.  
 Instantly destroys [[Weapon|weapons]], [[Armor|armors]], bomb shelters, metalic buildings, equipped electronic devices.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0085 - Amplifier Circuit]] |
+| Previous Card | [[0083 - Temperature Regulator]]         |
+

@@ -32,3 +32,11 @@ When the attached Creature leaves play, send this card to discard.
 If you win, receive 1x Teleportation Token, giving you a free instant dodge from an attack of your choice.   
 If you lose, discard the top card of your deck.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0095 - Economy Warp]] |
+| Previous Card | [[0093 - Waypoint Database]]         |
+
+

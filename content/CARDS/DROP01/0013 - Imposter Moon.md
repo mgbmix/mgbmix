@@ -28,4 +28,12 @@ aliases:
 
 # Card Nav
 
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0014 - AI Overlord]] |
+| Previous Card | [[0012 - The Algorithm]]         |
+
+
+
+
 

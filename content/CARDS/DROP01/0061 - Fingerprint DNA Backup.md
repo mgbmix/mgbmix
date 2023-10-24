@@ -37,3 +37,10 @@ Opponent may roll one (1) six-sided die for every creature they control from the
 If rolled result is a 5 or 6, revived creature enters the enemy's Stowed Hand.  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0062 - Internal Power Unit]] |
+| Previous Card | [[0060 - Utopia Scrupulous Automation]]         |
+

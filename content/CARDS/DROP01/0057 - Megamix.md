@@ -31,3 +31,10 @@ After using its effect, send this card to your history.
 Target opponent loses [[Funding]] equal to half of that amount (rounded down), and you gain Funding equal to the Funding lost this way.  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0058 - Lunar Drillbit]] |
+| Previous Card | [[0056 - 20mm Hyperkinetic Rounds]]         |
+

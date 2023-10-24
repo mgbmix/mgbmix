@@ -35,3 +35,11 @@ Effects granted to equipped Creature depend on the number of Product counters:
 3 counters- New Theoretical Unnamed Low-Calorie Water Facsimile: [[STR]] + 4.  
 
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0034 - Power Wand]] |
+| Previous Card | [[0032 - Intelligence Blockers]]         |
+
+

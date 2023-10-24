@@ -33,3 +33,9 @@ REQUIRES: [[0022 - GhostTec Certification Card|GhostTec™ Certification Card]]
 
 # Card Nav
 
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0022 - GhostTec Certification Card]] |
+| Previous Card | [[0020 - GhostTec Goop Vial]]         |
+
+

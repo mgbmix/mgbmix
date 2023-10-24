@@ -42,3 +42,11 @@ aliases:
 [Bad, Together] Copper wire theft attack.  
 300 [[DMG]] if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0081 - EcoTactic Green Weapons]] |
+| Previous Card | [[0079 - GMS Gimme My Space Mk III Energy Projector]]         |
+
+

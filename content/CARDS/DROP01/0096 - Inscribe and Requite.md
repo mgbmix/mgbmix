@@ -33,3 +33,11 @@ At any point in the game, you may sacrifice an Item card to retrieve your previo
 /Defective Warp/ If this card is used while enemy has a Tantillo Systems creature in play, your teleport app is hacked, compromising your warp and leaving your atoms shredded and spliced with roach DNA.
 Instant death to a creature of enemy's choice.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0097 - Planet B]] |
+| Previous Card | [[0095 - Economy Warp]]         |
+
+

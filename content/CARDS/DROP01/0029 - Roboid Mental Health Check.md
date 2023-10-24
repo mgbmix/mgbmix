@@ -31,3 +31,12 @@ After using its effect, send this card to your history.
 1: Select any Male roboid in play, and exchange it with a Male roboid from your deck.  
 2: Search target opponent's [[newsfeed]] and [[Stowed Hand]] for a Female roboid and add it to your Stowed Hand.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0030 - MyGirls AI-Generated Girlfriend Experience]] |
+| Previous Card | [[0028 - Internet of Thangs]]         |
+
+
+

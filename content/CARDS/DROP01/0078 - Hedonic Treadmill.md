@@ -31,3 +31,11 @@ When the buffed Creature leaves play, send this card to discard.
 Affected creature cannot be healed;  
 Affected creature cannot suffer negative status effects (mental state, burning, poison, bleeding).  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0079 - GMS Gimme My Space Mk III Energy Projector]] |
+| Previous Card | [[0077 - Harp of Conflict]]         |
+
+

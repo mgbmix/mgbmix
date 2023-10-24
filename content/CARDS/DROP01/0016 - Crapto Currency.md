@@ -31,3 +31,8 @@ After using its effect, send this card to your [[history]].
 
 # Card Nav
 
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0017 - Blockchain Evangelist]] |
+| Previous Card | [[0015 - Blockchain Tech]]         |
+

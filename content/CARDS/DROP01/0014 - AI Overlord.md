@@ -43,3 +43,10 @@ aliases:
 
 # Card Nav
 
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0015 - Blockchain Tech]] |
+| Previous Card | [[0013 - Imposter Moon]]         |
+
+
+

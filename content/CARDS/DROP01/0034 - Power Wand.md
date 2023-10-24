@@ -30,3 +30,12 @@ This Item [[Equip|equips]] for a [[1F]] cost to an active [[Creature]].
 
 *Offering this wand to an enemy Rainbow Riot or The Hive creature will win them over to your [[Stowed Hand]].  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0035 - Authentic World]] |
+| Previous Card | [[0033 - HyperKush Bevlabs]]         |
+
+
+

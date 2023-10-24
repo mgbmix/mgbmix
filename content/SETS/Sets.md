@@ -22,4 +22,4 @@ When generating a cardlist, [[Cockatrice]] asks for a shorthand abbreviation for
 
 Currently released sets:  
 [[DROP01 - Fake Tech]]  
-[[DROP02 - Bum Legion 2099 & F.E.M.A.C.U.B.E.3]]  
+[[DROP02 - Bum Legion 2099 & F.E.M.A.C.U.B.E.3]]   ^6b3a33

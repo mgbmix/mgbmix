@@ -26,3 +26,11 @@ aliases:
 
 [R'n'D Hall Pass] Search your deck for two [[Weapon|weapons]] and put them into play. You may equip two [[Weapon|weapons]] you control.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0044 - The Living House]] |
+| Previous Card | [[0042 - Mannitol Nanomachine Injector]]         |
+
+

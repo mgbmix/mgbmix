@@ -33,3 +33,11 @@ Stealth Warps deliver a small EMP upon activation, disabling comms and surveilla
 [Stealth Warp] An otherwise unattackable card (shielded, in hiding, in a bunker, in witness protection, etc.--and even: divine, ephemeral, time-paradoxical, non-existent, traveling at light speed, and so on (i.e., for any reason)) can now be attacked once, 
 with a 4X crit [[DMG]] buff.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0092 - Portal Formula]] |
+| Previous Card | [[0090 - Teleport Tracker]]         |
+
+

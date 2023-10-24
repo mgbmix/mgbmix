@@ -32,3 +32,11 @@ When the attached Creature leaves play, send this card to discard.
 Convince your foes that they counted wrong: reduce all DMG dealt to your creatures by 100 for the next three (3) turns; you may activate this once.
 Dispose of this card after the three (3) turns have passed. There is now a new math: Cralaclus.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0052 - CAPTCHA Verification]] |
+| Previous Card | [[0050 - Lushsux Dix]]         |
+
+

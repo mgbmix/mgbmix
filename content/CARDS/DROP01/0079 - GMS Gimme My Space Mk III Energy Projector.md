@@ -34,3 +34,11 @@ Stunned for one (1) turn;
 75 [[DMG]];  
 Affected creature cannot melee attack you again.  
 
+# Card Nav
+
+| [[Sets#Current Sets\|SET]]           | ![[faketechlogo.png]]          |
+| ------------- | ------------------------------ |
+| Next Card     | [[0080 - Jack Jill Vyco and DIN]] |
+| Previous Card | [[0078 - Hedonic Treadmill]]         |
+
+
