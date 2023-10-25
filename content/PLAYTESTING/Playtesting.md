@@ -14,7 +14,7 @@ I definitely think Cockatrice is the best for the current state of the project, 
 
 # Scope of Ruleset
 
-- [[Intro to mgbmix|Intro to -mgbmix-]]
+- [[Design Space]]
 - [[Game Concepts]]
 
 ## Understanding the Ruleset
