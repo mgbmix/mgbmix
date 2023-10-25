@@ -30,6 +30,8 @@ Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that attach
 
 #### [[DROP01 - Fake Tech]]
 
+Items were prominently featured in this set, given its relation to technical commodities.
+
 ##### [[Ammo]]
 > [!example]- Ammo cards (3)
 >  - [[0056 - 20mm Hyperkinetic Rounds|20mm Hyperkinetic Rounds]]

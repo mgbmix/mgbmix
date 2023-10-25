@@ -24,8 +24,8 @@ aliases:
 
 # Rules Text  
 
-This Skill [[Equip|equips]] for a [[1F]] cost to an opposing active [[Creature]] with [[INT]] below 7.
-Once equipped, this Skill cannot be moved to another Creature.
+This Skill [[Equip|equips]] for a [[1F]] cost to an opposing active [[Creature]] with [[INT]] below 7.  
+Once equipped, this Skill cannot be moved to another Creature.  
 When the attached Creature leaves play, send this card to discard.  
 
 [Viral Sensation] Remove the attached Creature from play and place them at the bottom of their owner's deck.  

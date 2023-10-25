@@ -1,14 +1,14 @@
-To Proselytize is a [[Think Tank Actions|Think Tank action]] performed by a player's [[Seat|Seated]] [[Figurehead]].
+To Proselytize is a [[Think Tank Actions|Think Tank action]] performed by a player's [[Seat|Seated]] [[Figurehead]] at the end of that player’s turn.
 
 # Funding Cost
 
 > [!note] [[Funding Cost]]
-Proselytizing costs [[4F]].
+> Proselytizing costs [[4F]].
 
 # Effect on Game
 
 > [!todo] Effect of Proselytizing
-Proselytizing increases your [[Narrative Score]] by +1.
+> Proselytizing increases your [[Narrative Score]] by +1.
 
 # Limitations
 

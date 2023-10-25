@@ -1,3 +1,7 @@
+---
+aliases:
+  - summoning sickness
+---
 'Summoning sickness' is a term and concept invented by the creators of Mondo Megabits.
 
 It is a state that all creatures have on the turn they entered a player's control. 

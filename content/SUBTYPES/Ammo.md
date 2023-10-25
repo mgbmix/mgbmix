@@ -4,7 +4,7 @@ tags:
 ---
 Ammo are a subtype of [[Item]] cards.
 
-They are usually equipped to other Item cards, namely Weapons, in order to boost their damage and effectiveness.
+They are usually equipped to other Item cards, namely [[Weapon|Weapons]], in order to boost their damage and effectiveness.
 
 
 ### Ammo cards listed by Set
