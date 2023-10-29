@@ -54,6 +54,12 @@ NB: to navigate in a file explorer to folders that start with a period, set your
 
 #### Section for Adding Card Art
 
+##### Alternate Method
+If you don't want to download the folder from my google drive, Cockatrice will download the cards automatically from URLs I included in the database. Just click Cockatrice, ⚙️ Settings... > Card Sources, then select the box saying 'Download card pictures' on the fly. It will be a little slow, but they will load on their own.
+
+##### Otherwise, 
+to add the folders from google drive, continue on with Step 10.
+
 10. Additionally, you can add the Mondo Megabits card images if you downloaded the archive containing them. From that "base data directory" where you put the 'cards.xml' file, open the pics folder, then the CUSTOM folder, and copy into that directory the entire folder named "D01" from the Google Drive. This screenshot shows an example of where the "D01" folder containing all the images should be located.
 
 > [!warning] NB: Don't change the name of the "D01" folder.
