@@ -4,9 +4,7 @@ Subtype:
 Faction: 
 Rarity: 
 Funding Cost: 
-tags: []
-aliases:
-  - 
+tags:
 ---
 # Art
 

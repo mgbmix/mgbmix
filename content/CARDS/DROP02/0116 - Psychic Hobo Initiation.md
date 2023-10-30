@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R5
 Funding Cost: 4F / 0F
 tags: 
-aliases:
-  - Psychic Hobo Initiation
+aliases: []
 ---
 # Art
 

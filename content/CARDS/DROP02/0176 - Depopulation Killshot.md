@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 4F
 tags: 
-aliases:
-  - Depopulation Killshot
+aliases: []
 ---
 # Art
 
@@ -28,7 +27,7 @@ If you control this card at the end of your turn, this card performs your turn's
 
 /Best Interest/ 
 When you deploy this card, players cannot summon creatures for two (2) turns.
-♦ BRICS cards are immune to this agenda
+- BRICS cards are immune to this agenda
 
 # Card Nav
 

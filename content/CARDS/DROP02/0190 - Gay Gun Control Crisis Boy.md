@@ -12,8 +12,7 @@ NRG: "7"
 SWG: "2"
 PSI: "6"
 tags: 
-aliases:
-  - Gay Gun Control Crisis Boy
+aliases: []
 ---
 # Art
 
@@ -34,13 +33,13 @@ aliases:
 [[HP]]: 150 [[STR]]: 2 [[INT]]: 6 [[FYT]]: 2 [[NRG]]: 7 [[SWG]]: 2 [[PSI]]: 6  
 
 /Achilles Heel/ 
-♦ Immune to Guns DMG.
-♦ 6X Molest DMG.
+- Immune to Guns DMG.
+- 6X Molest DMG.
 
 [Shame on You]
-♦ 225 DMG to one target
-♦ Stuns all opponent  Whypeepo for one (1) turn;
-♦ D.U.D.E: Fellas Rising cards are immune to this Gay Boy
+- 225 DMG to one target
+- Stuns all opponent  Whypeepo for one (1) turn;
+- D.U.D.E: Fellas Rising cards are immune to this Gay Boy
 
 # Card Nav
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - Bruydac Varyags
+aliases: []
 ---
 # Art
 

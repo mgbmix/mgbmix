@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 3F
 tags: 
-aliases:
-  - Bruydac Xin Dynasty
+aliases: []
 ---
 # Art
 

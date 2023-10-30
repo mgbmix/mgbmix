@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases:
-  - NEWSBOP
+aliases: []
 ---
 # Art
 
@@ -29,8 +28,8 @@ You may activate its effect at any time.
 After using its effect, send this card to your [[history]].  
 
 [BOP'd] 
-♦ 250 DMG to all enemy creatures except those from Tubbos and Cubical Cog Clan (already damaged beyond repair).
-♦ Place a Depression Marker on all surviving enemy creatures. 
+- 250 DMG to all enemy creatures except those from Tubbos and Cubical Cog Clan (already damaged beyond repair).
+- Place a Depression Marker on all surviving enemy creatures. 
  Opponent must pay Universal Basic Income of one (1) Funding Point to remove this marker. 
 If opponent does not pay, the creatures become Suicidal 
 (flip a coin every turn, for each Suicidal creature, to see if they continue living or not)

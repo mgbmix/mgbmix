@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R4
 Funding Cost: 1F
 tags: 
-aliases:
-  - Dirty Hypo Needles
+aliases: []
 ---
 # Art
 

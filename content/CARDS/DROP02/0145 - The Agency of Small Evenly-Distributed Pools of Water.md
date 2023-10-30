@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 3F
 tags: 
-aliases:
-  - The Agency of Small Evenly-Distributed Pools of Water
+aliases: []
 ---
 # Art
 

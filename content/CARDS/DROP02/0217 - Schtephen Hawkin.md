@@ -12,8 +12,7 @@ NRG: "6"
 SWG: "3"
 PSI: "7"
 tags: 
-aliases:
-  - Schtephen Hawkin
+aliases: []
 ---
 # Art
 
@@ -39,8 +38,8 @@ The Hive, Whypeepo, Cubicle Cog Clan (CCC), Intelligentsia, Team PinkBean.
 Play all three (3) cards for the price of one (1) (use lowest card cost to determine).
 
 [Event Horizon SuperFuckingPickleRickAssBlaster]
-♦ 50 DMG, applied six (6) time to the same target. 
-♦ Small chance to spawn Schmevphen Wharkeng, a Schtephen Hawkin from another alternate universe that 
+- 50 DMG, applied six (6) time to the same target. 
+- Small chance to spawn Schmevphen Wharkeng, a Schtephen Hawkin from another alternate universe that 
 the black hole is connected to. Schmevphen Wharkeng is neither a scientist nor kill-bot, 
 here he's a 'campig'- which is basically a celebrity
 

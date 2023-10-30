@@ -11,9 +11,7 @@ FYT:
 NRG: 
 SWG: 
 PSI: 
-tags: []
-aliases:
-  - 
+tags:
 ---
 # Art
 

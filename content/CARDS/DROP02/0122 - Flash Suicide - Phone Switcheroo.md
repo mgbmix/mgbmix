@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - Flash Suicide - Phone Switcheroo
+aliases: []
 ---
 # Art
 

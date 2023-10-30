@@ -12,8 +12,7 @@ NRG: "4"
 SWG: "3"
 PSI: "8"
 tags: 
-aliases:
-  - Israeli Art Student
+aliases: []
 ---
 # Art
 
@@ -34,8 +33,8 @@ aliases:
 [[HP]]: 150 [[STR]]: 5 [[INT]]: 8 [[FYT]]: 7 [[NRG]]: 4 [[SWG]]: 3 [[PSI]]: 8  
 
 [Krav Maga Temper Tantrum]
-♦ Israeli Art Student deals 75 DMG to any attacking creature for the next three (3) turns;
-♦ Reduce incoming DMG by 50%.
+- Israeli Art Student deals 75 DMG to any attacking creature for the next three (3) turns;
+- Reduce incoming DMG by 50%.
 
 [Embedded Asset] 
 Opponent must reveal to you the next three (3) cards from his Draw Pile and may not look at them himself.

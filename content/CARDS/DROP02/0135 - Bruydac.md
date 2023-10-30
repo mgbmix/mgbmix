@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases:
-  - Bruydac
+aliases: []
 ---
 # Art
 

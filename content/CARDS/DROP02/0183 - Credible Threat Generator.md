@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases:
-  - Credible Threat Generator
+aliases: []
 ---
 # Art
 

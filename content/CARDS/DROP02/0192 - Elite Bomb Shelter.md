@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 0F
 tags: 
-aliases:
-  - Elite Bomb Shelter
+aliases: []
 ---
 # Art
 
@@ -26,11 +25,11 @@ aliases:
 
 /Platinum Prestige Protection/ 
 Place up to three (3) creatures in Elite Bomb Shelter to protect them from DMG.
-♦ Sheltered creatures can still use abilities inside Elite Bomb Shelter, 
+- Sheltered creatures can still use abilities inside Elite Bomb Shelter, 
 but they cannot affect the outside world (they may heal each other, apply buffs/lotion, charge attacks for a later turn, etc.)
-♦ Elite Bomb Shelter has 2000 HP, if destroyed it will kill all occupants instantly.
-♦ Bomb Shelter takes 0.25X DMG from explosive attacks (resistant). Can be lockpicked;
-♦ Moving creatures into/out of Elite Bomb Shelter takes one (1) full turn.
+- Elite Bomb Shelter has 2000 HP, if destroyed it will kill all occupants instantly.
+- Bomb Shelter takes 0.25X DMG from explosive attacks (resistant). Can be lockpicked;
+- Moving creatures into/out of Elite Bomb Shelter takes one (1) full turn.
 
 
 # Card Nav

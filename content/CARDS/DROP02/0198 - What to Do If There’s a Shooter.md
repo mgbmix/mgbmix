@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 3F
 tags: 
-aliases:
-  - What to Do If There’s a Shooter
+aliases: []
 ---
 # Art
 

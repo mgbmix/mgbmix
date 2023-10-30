@@ -12,8 +12,7 @@ NRG: "1"
 SWG: "1"
 PSI: "1"
 tags: 
-aliases:
-  - Sandy Hookers
+aliases: []
 ---
 # Art
 

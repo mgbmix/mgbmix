@@ -12,8 +12,7 @@ NRG: "4"
 SWG: "2"
 PSI: "2"
 tags: 
-aliases:
-  - Gay Terminator
+aliases: []
 ---
 # Art
 

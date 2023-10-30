@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases:
-  - Extra Gas
+aliases: []
 ---
 # Art
 
@@ -27,8 +26,8 @@ aliases:
 If you control this card at the end of your turn, you may Proselytize at no cost.
 
 [Running on Shit Fumes]
-♦ The next enemy attack or spell takes 3 turns to land.
-♦ Creature who attacks next takes 50 Shit DMG
+- The next enemy attack or spell takes 3 turns to land.
+- Creature who attacks next takes 50 Shit DMG
 
 # Card Nav
 

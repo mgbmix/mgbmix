@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 1F
 tags: 
-aliases:
-  - Evolutionary Paths
+aliases: []
 ---
 # Art
 

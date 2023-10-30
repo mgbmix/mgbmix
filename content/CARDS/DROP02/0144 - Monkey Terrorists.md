@@ -12,8 +12,7 @@ NRG: "0"
 SWG: "8"
 PSI: "0"
 tags: 
-aliases:
-  - Monkey Terrorists
+aliases: []
 ---
 # Art
 

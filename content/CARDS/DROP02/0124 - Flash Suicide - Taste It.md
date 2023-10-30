@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases:
-  - Flash Suicide - Taste It
+aliases: []
 ---
 # Art
 

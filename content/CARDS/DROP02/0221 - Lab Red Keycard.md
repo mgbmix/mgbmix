@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 2F
 tags: 
-aliases:
-  - Lab Red Keycard
+aliases: []
 ---
 # Art
 

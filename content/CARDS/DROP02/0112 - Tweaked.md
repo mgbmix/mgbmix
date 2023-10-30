@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases:
-  - Tweaked
+aliases: []
 ---
 # Art
 

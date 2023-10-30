@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases:
-  - Fake Moon (Trumanned President)
+aliases: []
 ---
 # Art
 
@@ -25,8 +24,8 @@ aliases:
 # Rules Text  
 
 /Real Estate, Fake Moon/
-♦ All friendly creatures gain +1 INT and +1 PSI
-♦ All creatures with under 4 STR cannot use item
+- All friendly creatures gain +1 INT and +1 PSI
+- All creatures with under 4 STR cannot use item
 
 
 # Card Nav

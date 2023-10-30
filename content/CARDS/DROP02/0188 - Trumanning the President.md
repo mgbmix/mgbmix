@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 4F
 tags: 
-aliases:
-  - Trumanning the President
+aliases: []
 ---
 # Art
 

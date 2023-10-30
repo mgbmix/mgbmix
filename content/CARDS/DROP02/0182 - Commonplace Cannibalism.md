@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 4F
 tags: 
-aliases:
-  - Commonplace Cannibalism
+aliases: []
 ---
 # Art
 

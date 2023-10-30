@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 0F
 tags: 
-aliases:
-  - The Museum
+aliases: []
 ---
 # Art
 
@@ -25,9 +24,9 @@ aliases:
 # Rules Text  
 
 /History's Tourist/ 
-♦ Hoaxes, tactics and agenda cards do not affect any creatures with less than 6 INT.
-♦ Food/Trash items have no negative effects
-♦ For each Bum Legion 2099 creature in play, one (1) FEMACUBE³ creature you control gains 25 HP.
+- Hoaxes, tactics and agenda cards do not affect any creatures with less than 6 INT.
+- Food/Trash items have no negative effects
+- For each Bum Legion 2099 creature in play, one (1) FEMACUBE³ creature you control gains 25 HP.
 
 
 # Card Nav

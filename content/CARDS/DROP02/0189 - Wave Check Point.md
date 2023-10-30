@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases:
-  - Wave Check Point
+aliases: []
 ---
 # Art
 
@@ -29,13 +28,13 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 Both players roll d6.
 
 [d1-d3] “Roast Ya Shit”: 
-♦ All creatures -3 SWG, bring next item card in deck into hand. Shuffle.
+- All creatures -3 SWG, bring next item card in deck into hand. Shuffle.
 
 [d4-d5] “Type Wavey”: 
-♦ 25 Emotional DMG and +2 SWG to all creatures. Gain 1 Narrative Point.
+- 25 Emotional DMG and +2 SWG to all creatures. Gain 1 Narrative Point.
 
 [d6] “Silver Surfer”: 
-♦ Revive last slain creature, +300 HP to max HP. Ignore funding points next turn
+- Revive last slain creature, +300 HP to max HP. Ignore funding points next turn
 
 
 # Card Nav

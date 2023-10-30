@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 1F
 tags: 
-aliases:
-  - Sequencing Database
+aliases: []
 ---
 # Art
 

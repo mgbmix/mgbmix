@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases:
-  - Gas Station Adrenochrome
+aliases: []
 ---
 # Art
 
@@ -27,8 +26,8 @@ aliases:
 This Item [[Equip|equips]] for a [[1F]] cost to a target.  
 
 [I Am Become Vampyr]
-♦ 2X DMG for next attack
-♦ Drawback: You are now Vampyr. The night beckons, you wane as the moon does. 
+- 2X DMG for next attack
+- Drawback: You are now Vampyr. The night beckons, you wane as the moon does. 
 For the first time ever you can understand the chatter of the bats at nyght. 
   You resp'nd. An unholy union forms, the thyrst grows evermore as your former self turns weary. 
   Dread incarnyte, you doth know the eve at which you Feast draws near. When the fang doth sink, there is no turnyng back. 

@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases:
-  - Raw Truth
+aliases: []
 ---
 # Art
 

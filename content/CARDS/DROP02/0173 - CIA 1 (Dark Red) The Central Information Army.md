@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 0F
 tags: 
-aliases:
-  - CIA 1 (Dark Red) The Central Information Army
+aliases: []
 ---
 # Art
 

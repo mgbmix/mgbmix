@@ -12,8 +12,7 @@ NRG: "5"
 SWG: "20"
 PSI: "1"
 tags: 
-aliases:
-  - Brain Scorchers
+aliases: []
 ---
 # Art
 

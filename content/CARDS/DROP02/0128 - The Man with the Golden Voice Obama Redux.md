@@ -12,8 +12,7 @@ NRG: "3"
 SWG: "5"
 PSI: "8"
 tags: 
-aliases:
-  - The Man with the Golden Voice Obama Redux
+aliases: []
 ---
 # Art
 

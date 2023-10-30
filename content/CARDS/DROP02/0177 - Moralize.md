@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases:
-  - Moralize
+aliases: []
 ---
 # Art
 
@@ -29,7 +28,7 @@ Once equipped, this Skill cannot be moved to another target.
 When the attached Creature leaves play, send this card to discard.  
 
 [Try My Shoes On] Empathize with my fucked up worldview.
-♦ Flip a coin.
+- Flip a coin.
 If heads, Target creature is persuaded to no longer attack or use abilities which deal damage.
 If tails, Target creature loses one (1) turn for re-typing argument several times before posting.
 If coin lands perfectly on its edge (S.U.C.C.E.S.S.+): your argument was so great that target gives up and joins your side

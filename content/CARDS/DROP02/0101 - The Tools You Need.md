@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases:
-  - The Tools You Need
+aliases: []
 ---
 # Art
 
@@ -27,8 +26,8 @@ aliases:
 If you control this card at the end of your turn, you may Proselytize at no cost.
 
 [JACKED UP] You feel that?
-♦ Up to two (2) Bum Legion: 2099 cards currently in play gain 2X DMG for three (3) turns.
-♦ At the end of three (3) turns, buff wears off and affected creature take 200 DMG. Use aggressively.  
+- Up to two (2) Bum Legion: 2099 cards currently in play gain 2X DMG for three (3) turns.
+- At the end of three (3) turns, buff wears off and affected creature take 200 DMG. Use aggressively.  
 
 # Card Nav
 

@@ -12,8 +12,7 @@ NRG: "5"
 SWG: "6"
 PSI: "4"
 tags: 
-aliases:
-  - King of Dogs
+aliases: []
 ---
 # Art
 
@@ -34,7 +33,7 @@ aliases:
 [[HP]]: 450 [[STR]]: 7 [[INT]]: 3 [[FYT]]: 7 [[NRG]]: 5 [[SWG]]: 6 [[PSI]]: 4  
 
 [Putrid Mange] Two target opposing creature cards are poisoned.
-♦ -50 HP per turn for three (3) turns
+- -50 HP per turn for three (3) turns
 
 # Card Nav
 

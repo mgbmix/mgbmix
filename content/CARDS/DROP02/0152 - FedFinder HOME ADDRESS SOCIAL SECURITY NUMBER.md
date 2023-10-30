@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases:
-  - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER
+aliases: []
 ---
 # Art
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases:
-  - CIA 3 (Dark Green) The Commission of Intelligence Authorization
+aliases: []
 ---
 # Art
 
@@ -27,10 +26,10 @@ aliases:
 When you deploy this card, choose one of the following effects  
   
 [SSN Retcon] 
-♦ Restat any one (1) creature’s stats.
-♦ Maximum of ten (10) total points changed.
-♦ Up or down, friend or foe.
-♦ Only works on Humanoids. No SSN = no retcon.
+- Restat any one (1) creature’s stats.
+- Maximum of ten (10) total points changed.
+- Up or down, friend or foe.
+- Only works on Humanoids. No SSN = no retcon.
 
 OR
 

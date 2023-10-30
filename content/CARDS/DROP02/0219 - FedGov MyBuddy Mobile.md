@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases:
-  - FedGov MyBuddy Mobile
+aliases: []
 ---
 # Art
 
@@ -30,8 +29,8 @@ After using its effect, send this card to your [[history]].
 
 [You Got A Friend In Me] 
 Target an opposing active Creature. 
-♦ Terror Level is escalated to ESCALATED, players receive double TERROR POINTS
-♦ Target creature now receives 3X DMG from F.E.M.A.C.U.B.E.³ attacks.
+- Terror Level is escalated to ESCALATED, players receive double TERROR POINTS
+- Target creature now receives 3X DMG from F.E.M.A.C.U.B.E.³ attacks.
 
 # Card Nav
 

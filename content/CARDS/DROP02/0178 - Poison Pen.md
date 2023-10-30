@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - Poison Pen
+aliases: []
 ---
 # Art
 
@@ -29,7 +28,7 @@ This Item equips for a 1F cost to an active Item you control.
 
 [Sign Here] 
 Inject an enemy creature with Poison Pen.
-♦ All moves take twice as long to complete due to onset of inexplicable dementia-like symptoms.
+- All moves take twice as long to complete due to onset of inexplicable dementia-like symptoms.
 
 /Can I Borrow That?/
 While this card is equipped to an Item card you control, you may donate both cards to an opponent.  

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - Robocall from the President
+aliases: []
 ---
 # Art
 
@@ -30,10 +29,10 @@ After using its effect, send this card to your [[history]].
 
 [Dad] never loved [you]
 Target an active opposing Creature.  
-♦ Reduce its INT by 5.
-♦ 25 Emotional DMG.
+- Reduce its INT by 5.
+- 25 Emotional DMG.
 Flip a coin:   
-♦ If heads, destroy the targeted creature
+- If heads, destroy the targeted creature
 
 # Card Nav
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 0F
 tags: 
-aliases:
-  - Fake Iraq (Trumanned President)
+aliases: []
 ---
 # Art
 

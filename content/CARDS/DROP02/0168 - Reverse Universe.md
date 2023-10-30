@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 0F
 tags: 
-aliases:
-  - Reverse Universe
+aliases: []
 ---
 # Art
 
@@ -26,7 +25,7 @@ aliases:
 
 ⸮ mǝʜɈ Ɉiʜ :ǝno ʞɔɒɈɈɒ
 HEALS ENEMY FOR 25 HP
-♦ ⸮niɒϱɒ mǝʜɈ ɈiH :oɯT ʞɔɒɈɈA
+- ⸮niɒϱɒ mǝʜɈ ɈiH :oɯT ʞɔɒɈɈA
 HEALS ENEMY FOR 25 HP
 
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases:
-  - World Health Organization Satellite Realm B
+aliases: []
 ---
 # Art
 
@@ -27,13 +26,13 @@ aliases:
 /Common Intergalactic STIs/ 
 
 HIV:VE: 
-♦ Any female creature adjacent to another female creature is marked for death (destroyed after five (5) turns).
+- Any female creature adjacent to another female creature is marked for death (destroyed after five (5) turns).
 
 Antenna Warts: 
-♦ Any biological creature adjacent to an Aliens faction creature attacks a random target every turn for five (5) turns.
+- Any biological creature adjacent to an Aliens faction creature attacks a random target every turn for five (5) turns.
 
 WHOoties: 
-♦ Turn all Male Human creatures facedown. They're useless but they take up space and cannot be replaced
+- Turn all Male Human creatures facedown. They're useless but they take up space and cannot be replaced
 
 
 # Card Nav

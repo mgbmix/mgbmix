@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases:
-  - Russian Bum Fire
+aliases: []
 ---
 # Art
 
@@ -28,9 +27,9 @@ This Item [[Equip|equips]] for a [[1F]] cost to a target.
 
 [Быстрая Pазминка] 
 Throw an EXPLOSIVE PISS GRENADE at two neighboring enemies. 
-  ♦ 125 DMG to each creature. 
-  ♦ 50 burn DMG next turn. 
-  ♦ If attacked creature is already poisoned, the toxic piss elixer will overhaul their immune system and provide an instant kill.
+  - 125 DMG to each creature. 
+  - 50 burn DMG next turn. 
+  - If attacked creature is already poisoned, the toxic piss elixer will overhaul their immune system and provide an instant kill.
 
 # Card Nav
 

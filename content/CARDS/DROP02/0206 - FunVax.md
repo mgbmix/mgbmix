@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 1F
 tags: 
-aliases:
-  - FunVax
+aliases: []
 ---
 # Art
 

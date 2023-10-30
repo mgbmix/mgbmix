@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 2F
 tags: 
-aliases:
-  - Intro to Crisis Acting 101
+aliases: []
 ---
 # Art
 
@@ -30,9 +29,9 @@ After using its effect, send this card to your [[history]].
 
 [Honor Roll BANG BANG BANG.. BANGBANGBANG, BANG-BANG!] 
 Pick a creature to enroll in Intro to Crisis Acting 101.
-♦ Creature graduates after two (2) turns, and can now make something terrible happen at any location, on command!
-♦ Destroy any location card, at will.
-♦ Creature retains this skill and may use it once per turn until killed
+- Creature graduates after two (2) turns, and can now make something terrible happen at any location, on command!
+- Destroy any location card, at will.
+- Creature retains this skill and may use it once per turn until killed
 
 # Card Nav
 

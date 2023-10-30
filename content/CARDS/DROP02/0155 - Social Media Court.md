@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 2F
 tags: 
-aliases:
-  - Social Media Court
+aliases: []
 ---
 # Art
 

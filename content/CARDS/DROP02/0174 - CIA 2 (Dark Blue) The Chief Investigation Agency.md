@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 0F
 tags: 
-aliases:
-  - CIA 2 (Dark Blue) The Chief Investigation Agency
+aliases: []
 ---
 # Art
 
@@ -25,10 +24,10 @@ aliases:
 # Rules Text  
 
 [Login_Success] 
-♦ Choose a creature from your hand to perform the hack. This creature is now The Hacker.
-♦ As long as this The Hacker is alive, your opponent may not turn any cards face down.
-♦ Can view your opponent's hand until this The Hacker is destroyed.
-♦ Enemy FEMACUBE creatures deal 2X DMG to The Hacker
+- Choose a creature from your hand to perform the hack. This creature is now The Hacker.
+- As long as this The Hacker is alive, your opponent may not turn any cards face down.
+- Can view your opponent's hand until this The Hacker is destroyed.
+- Enemy FEMACUBE creatures deal 2X DMG to The Hacker
 
 
 # Card Nav

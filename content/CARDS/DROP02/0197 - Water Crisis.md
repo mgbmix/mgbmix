@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases:
-  - Water Crisis
+aliases: []
 ---
 # Art
 

@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R6
 Funding Cost: 1F
 tags: 
-aliases:
-  - The Actor's Curse
+aliases: []
 ---
 # Art
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases:
-  - The FEMACUBE³
+aliases: []
 ---
 # Art
 
@@ -26,13 +25,13 @@ aliases:
 
 /C.U.B.E.D.³/ 
 The key to effective gnance can be found in the Law of Triples.
-♦ When this card enter play, one (1) F.E.M.A.C.U.B.E.³ card may be used three times this turn.
+- When this card enter play, one (1) F.E.M.A.C.U.B.E.³ card may be used three times this turn.
 
 [Safely Sleeping] 
-♦ Put any number of your active creatures into a medically induced coma;
-♦ Comatose creatures may not act, but also do not take DMG.
-♦ Wake creature(s) at any time; but only all at once.
-♦ Regardless of number of comatose creatures, this ability costs one (1) Funding Point per turn
+- Put any number of your active creatures into a medically induced coma;
+- Comatose creatures may not act, but also do not take DMG.
+- Wake creature(s) at any time; but only all at once.
+- Regardless of number of comatose creatures, this ability costs one (1) Funding Point per turn
 
 
 # Card Nav

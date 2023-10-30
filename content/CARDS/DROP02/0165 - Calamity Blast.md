@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases:
-  - Calamity Blast
+aliases: []
 ---
 # Art
 
@@ -27,10 +26,10 @@ aliases:
 This Item [[Equip|equips]] for a [[1F]] cost to a target.  
 
 [Calamity Before the Storm] 
-♦ Must play loud ROCK MUSIC at max volume for ten (10) turns.
-♦ 250 DMG to all enemy creatures
-♦ 75 DMG to all of your own. You love doing all this fucking math. Oh yeah it also
-♦ turns kiddo creatures into vegumtahbles
+- Must play loud ROCK MUSIC at max volume for ten (10) turns.
+- 250 DMG to all enemy creatures
+- 75 DMG to all of your own. You love doing all this fucking math. Oh yeah it also
+- turns kiddo creatures into vegumtahbles
 
 # Card Nav
 

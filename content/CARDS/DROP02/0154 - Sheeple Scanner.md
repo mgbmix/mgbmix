@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases:
-  - Sheeple Scanner
+aliases: []
 ---
 # Art
 
@@ -29,7 +28,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to a target.
 [M.O.V.] 
 Target Creature takes 125 DMG and can no longer heal.
 The targeted Creature loses -3 PSI.  
-♦ +125 HP to one of your Creatures
+- +125 HP to one of your Creatures
 
 # Card Nav
 

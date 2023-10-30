@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases:
-  - Homeland Security Sexual Threat Scale
+aliases: []
 ---
 # Art
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases:
-  - GATE Program
+aliases: []
 ---
 # Art
 

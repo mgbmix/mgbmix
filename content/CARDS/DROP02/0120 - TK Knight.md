@@ -12,8 +12,7 @@ NRG: "6"
 SWG: "4"
 PSI: "8"
 tags: 
-aliases:
-  - TK Knight
+aliases: []
 ---
 # Art
 
@@ -34,15 +33,15 @@ aliases:
 [[HP]]: 350 [[STR]]: 5 [[INT]]: 4 [[FYT]]: 5 [[NRG]]: 6 [[SWG]]: 4 [[PSI]]: 8  
 
 [Pick Up a Guy With You Mind Throw Him at a Wall Hahaha] 
-♦ 150 DMG.
+- 150 DMG.
 
 [Mynd Vyrus, Fear Incarnate] 
-♦ Creatures with under 300 HP cannot attack you.
-♦ Opponent must reshuffle card. Can only be done twice.
+- Creatures with under 300 HP cannot attack you.
+- Opponent must reshuffle card. Can only be done twice.
 
 [Shortsword Sweep] 
-♦ 50 DMG, stuns for one turn.
-♦ Target creature will come down with tetanus in 60 days.
+- 50 DMG, stuns for one turn.
+- Target creature will come down with tetanus in 60 days.
 Red Solo Hans Solo, Beat Your Cup Stacking PR: 3.4 seconds, holy shit. You did it!
 
 # Card Nav

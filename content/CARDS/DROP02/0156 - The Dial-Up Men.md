@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 3F
 tags: 
-aliases:
-  - The Dial-Up Men
+aliases: []
 ---
 # Art
 

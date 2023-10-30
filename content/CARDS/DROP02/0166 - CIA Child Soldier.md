@@ -12,8 +12,7 @@ NRG: "6"
 SWG: "4"
 PSI: "6"
 tags: 
-aliases:
-  - CIA Child Soldier
+aliases: []
 ---
 # Art
 
@@ -34,7 +33,7 @@ aliases:
 [[HP]]: 425 [[STR]]: 4 [[INT]]: 6 [[FYT]]: 2 [[NRG]]: 6 [[SWG]]: 4 [[PSI]]: 6  
 
 [Temper Tantrum] 
-♦ 75 DMG to target active Creature. Flip a coin, if heads, the attack is followed by an additional 200 firearm DMG.
+- 75 DMG to target active Creature. Flip a coin, if heads, the attack is followed by an additional 200 firearm DMG.
 
 /Gun Control When?/ 
 If CIA Child Soldier is defeated via gunfire. opponent loses two (2) Narrative points. 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 0F
 tags: 
-aliases:
-  - NT Mineral Reclamation Asteroid B-73
+aliases: []
 ---
 # Art
 
@@ -26,7 +25,7 @@ aliases:
 
 [Neil Armstronk] 
   While this location is in play, all F.E.M.A.C.U.B.E.³, Aliens, and D.U.D.E.: Fellas Rising cards have  an unlimited supply of Loud Dope to smoke.
-♦ +50 HP per turn for above listed factions
+- +50 HP per turn for above listed factions
 
 
 # Card Nav

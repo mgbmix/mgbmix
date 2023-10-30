@@ -12,8 +12,7 @@ NRG: "5"
 SWG: "2"
 PSI: "9"
 tags: 
-aliases:
-  - Caged Ragist
+aliases: []
 ---
 # Art
 
@@ -35,9 +34,9 @@ aliases:
 
 [Ragist Prison Break] 
 Before Caged Ragist can be put into play, you must destroy his cage.
-♦ Cage has 550 HP. Exteremist RageFuck: Free at last!
-♦ When unleashed, 400 DMG to target opposing active Creature
-♦ Entire enemy team stunned for two 2 turns (D.U.D.E: Fellas Rising, Psychos, Aliens and Daytona Indians are Immune).
+- Cage has 550 HP. Exteremist RageFuck: Free at last!
+- When unleashed, 400 DMG to target opposing active Creature
+- Entire enemy team stunned for two 2 turns (D.U.D.E: Fellas Rising, Psychos, Aliens and Daytona Indians are Immune).
 
 # Card Nav
 

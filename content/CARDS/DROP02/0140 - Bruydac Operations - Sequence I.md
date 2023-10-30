@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F / 0F
 tags: 
-aliases:
-  - Bruydac Operations - Sequence I
+aliases: []
 ---
 # Art
 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 4F
 tags: 
-aliases:
-  - Gifted Children's Research Program
+aliases: []
 ---
 # Art
 
@@ -28,7 +27,7 @@ If you control this card at the end of your turn, this card performs your turn's
 
 /Full Potential Realization Event (FPRE)/ 
 When you deploy this card,  
-♦ Destroy an enemy creature card of the ‘Revolutionary’ subtype.
+- Destroy an enemy creature card of the ‘Revolutionary’ subtype.
 
 # Card Nav
 

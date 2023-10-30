@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R6
 Funding Cost: 2F
 tags: 
-aliases:
-  - No Good Deed
+aliases: []
 ---
 # Art
 

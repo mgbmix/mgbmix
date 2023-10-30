@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases:
-  - Lockdown (Standard)
+aliases: []
 ---
 # Art
 
@@ -29,9 +28,9 @@ You may activate its effect at any time.
 After using its effect, send this card to your [[history]].  
 
 [LOCKDOWN_DELTA:STANDARD] 
-♦ Arrest up to three (3) creatures for three (3) turns.
-♦ Every turn, flip a coin. If tails, a creature of your enemy's choice is released early.
-♦ Confiscate and destroy all firearm item cards
+- Arrest up to three (3) creatures for three (3) turns.
+- Every turn, flip a coin. If tails, a creature of your enemy's choice is released early.
+- Confiscate and destroy all firearm item cards
 
 # Card Nav
 

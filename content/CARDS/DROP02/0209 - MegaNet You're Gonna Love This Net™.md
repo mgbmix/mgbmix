@@ -12,8 +12,7 @@ NRG: "7"
 SWG: "6"
 PSI: "9"
 tags: 
-aliases:
-  - MegaNet You're Gonna Love This Net™
+aliases: []
 ---
 # Art
 

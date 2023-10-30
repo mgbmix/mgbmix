@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases:
-  - Lockdown (High)
+aliases: []
 ---
 # Art
 
@@ -30,8 +29,8 @@ After using its effect, send this card to your [[history]].
 
 [LOCKDOWN_DELTA:HIGH] 
 When you activate this effect, target an opposing active Creature
-♦ 2X DMG when attacking this creature;
-♦ Opponent may sacrifice the targeted Creature to gain one (1) Funding Point.
+- 2X DMG when attacking this creature;
+- Opponent may sacrifice the targeted Creature to gain one (1) Funding Point.
 
 # Card Nav
 

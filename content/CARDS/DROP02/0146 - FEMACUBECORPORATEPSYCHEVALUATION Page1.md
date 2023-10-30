@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - FEMACUBECORPORATEPSYCHEVALUATION Page1
+aliases: []
 ---
 # Art
 

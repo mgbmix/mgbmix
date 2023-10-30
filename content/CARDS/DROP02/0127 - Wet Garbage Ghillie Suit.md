@@ -5,8 +5,7 @@ Faction: Bum Legion 2099
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases:
-  - Wet Garbage Ghillie Suit
+aliases: []
 ---
 # Art
 
@@ -27,9 +26,9 @@ aliases:
 This Item [[Equip|equips]] for a [[1F]] cost to a target.  
 
 [Smells Like Ulcer Pus] Choose one effect:
-♦ The next time equipped creature gets attacked, roll a d6. If 3 or higher, you blend in and dodge all DMG.
-♦ Ability to provide cover to Bum Legion 2099 creature when attacked. Deflect an incoming attack and remove one garbage counter.
-♦ +50 HP, light armor.
+- The next time equipped creature gets attacked, roll a d6. If 3 or higher, you blend in and dodge all DMG.
+- Ability to provide cover to Bum Legion 2099 creature when attacked. Deflect an incoming attack and remove one garbage counter.
+- +50 HP, light armor.
   
 /I Need Garbage/
 This card enters play with 5 garbage counters on it. 

@@ -5,8 +5,7 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases:
-  - Terrorist Training Simulator
+aliases: []
 ---
 # Art
 
@@ -29,7 +28,7 @@ You may activate its effect at any time.
 After using its effect, send this card to your [[history]].  
 
 [The League Of Legends]
-♦ +50 DMG boost and MAX FYT for three (3) turns for a target creature
+- +50 DMG boost and MAX FYT for three (3) turns for a target creature
 
 # Card Nav
 
