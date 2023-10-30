@@ -31,7 +31,7 @@ If you control this card at the end of your turn, you may Proselytize at no cost
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  
