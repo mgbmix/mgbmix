@@ -51,6 +51,6 @@ Envelop a creature card, adding it to Resonant Mesh's mass.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0221 - Lab Red Keycard]] |
+| Previous Card | [[0219 - FedGov MyBuddy Mobile]] |
 

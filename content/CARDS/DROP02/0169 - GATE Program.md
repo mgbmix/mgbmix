@@ -34,7 +34,7 @@ Both players must discard one (1) creature of their choice (accidental 2C-B + ke
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0170 - Gas Station Adrenochrome]] |
+| Previous Card | [[0168 - Reverse Universe]] |
 
 

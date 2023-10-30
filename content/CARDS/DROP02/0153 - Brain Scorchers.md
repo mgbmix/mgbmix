@@ -44,6 +44,6 @@ Future attacks do twice as much DMG.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0154 - Sheeple Scanner]] |
+| Previous Card | [[0152 - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER]] |
 

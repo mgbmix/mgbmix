@@ -31,7 +31,7 @@ When you play this card, repair stats on all currently in play creatures. Stat b
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0140 - Bruydac Operations - Sequence I]] |
+| Previous Card | [[0138 - Bruydac Varyags]] |
 
 

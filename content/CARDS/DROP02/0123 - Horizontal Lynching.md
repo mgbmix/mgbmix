@@ -36,7 +36,7 @@ If you do, +200 HP and +2 FYT for all creatures of the same faction that are cur
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0124 - Flash Suicide - Taste It]] |
+| Previous Card | [[0122 - Flash Suicide - Phone Switcheroo]] |
 
 

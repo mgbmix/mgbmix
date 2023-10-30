@@ -38,6 +38,6 @@ That player shuffles their newsfeed.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | none |  
+| Previous Card | [[0220 - Resonant Mesh]] |  
 

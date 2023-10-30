@@ -36,7 +36,7 @@ If heads, that player's Seated Figurehead takes 25 threat DMG.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0212 - Robocall from the President]] |
+| Previous Card | [[0210 - Power Plant Meltdown]] |
 
 

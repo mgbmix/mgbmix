@@ -38,7 +38,7 @@ If coin lands perfectly on its edge (S.U.C.C.E.S.S.+): your argument was so grea
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0178 - Poison Pen]] |
+| Previous Card | [[0176 - Depopulation Killshot]] |
 
 

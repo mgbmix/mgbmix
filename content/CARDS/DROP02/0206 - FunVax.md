@@ -36,5 +36,5 @@ Draw two (2) additional cards and add to Look Hand.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXXX |
-| Previous Card | XXXX |
+| Next Card | [[0207 - G.I.D.]] |
+| Previous Card | [[0205 - FOSTER, TERRY Incident Report 1c]] |

@@ -35,7 +35,7 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0211 - Protection Threat]] |
+| Previous Card | [[0209 - MegaNet You're Gonna Love This Net™]] |
 
 

@@ -36,8 +36,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0195 - Forced Sterilization]] |
+| Previous Card | [[0193 - Homeland Security Sexual Threat Scale]] |
 
 
 

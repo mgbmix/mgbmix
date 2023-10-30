@@ -48,6 +48,6 @@ here he's a 'campig'- which is basically a celebrity
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0218 - Caged Ragist]] |
+| Previous Card | [[0216 - Targeted Mutations]] |
 

@@ -32,7 +32,7 @@ This card must be played concurrently with Bruydac: Operations - Sequence I
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0141 - Bruydac Operations - Sequence II]] |
+| Previous Card | [[0139 - Bruydac Shizmadu Traces]] |
 
 

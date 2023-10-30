@@ -34,7 +34,7 @@ Choose a creature controlled by target player.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0109 - Survival Arts]] |
+| Previous Card | [[0107 - Armor of Don Quixote]] |
 
 

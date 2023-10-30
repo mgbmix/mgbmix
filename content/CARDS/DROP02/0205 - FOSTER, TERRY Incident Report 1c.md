@@ -30,7 +30,7 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0206 - FunVax]] |
+| Previous Card | [[0204 - FOSTER, TERRY Incident Report 1b]] |
 
 

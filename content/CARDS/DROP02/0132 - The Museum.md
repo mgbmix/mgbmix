@@ -34,8 +34,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0133 - Red Tape]] |
+| Previous Card | [[0131 - The Great Reset]] |
 
 
 

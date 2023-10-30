@@ -38,7 +38,7 @@ locking up one of your creatures without consequence
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0185 - Daylight Savings]] |
+| Previous Card | [[0183 - Credible Threat Generator]] |
 
 

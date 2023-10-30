@@ -39,7 +39,7 @@ If opponent does not pay, the creatures become Suicidal
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0144 - Monkey Terrorists]] |
+| Previous Card | [[0142 - Evolutionary Paths]] |
 
 

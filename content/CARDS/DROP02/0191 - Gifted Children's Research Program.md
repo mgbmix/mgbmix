@@ -34,6 +34,6 @@ When you deploy this card,
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0192 - Elite Bomb Shelter]] |  
+| Previous Card | [[0190 - Gay Gun Control Crisis Boy]] |  
 

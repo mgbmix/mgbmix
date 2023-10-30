@@ -40,7 +40,7 @@ Discard this card along with one Drug card from your hand to draw three (3) addi
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0122 - Flash Suicide - Phone Switcheroo]] |
+| Previous Card | [[0120 - TK Knight]] |
 
 

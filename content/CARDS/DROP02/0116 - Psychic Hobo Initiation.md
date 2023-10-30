@@ -33,7 +33,7 @@ Your psychic creature deals 200 additional DMG on next attack
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0117 - Human Shield]] |
+| Previous Card | [[0115 - The Actor's Curse]] |
 
 

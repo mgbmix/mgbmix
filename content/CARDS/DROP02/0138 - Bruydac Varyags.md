@@ -30,7 +30,7 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0139 - Bruydac Shizmadu Traces]] |
+| Previous Card | [[0137 - Bruydac Xin Dynasty]] |
 
 

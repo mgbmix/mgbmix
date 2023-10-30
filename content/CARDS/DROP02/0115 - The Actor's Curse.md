@@ -34,7 +34,7 @@ dream shatterer: all agenda cards in play are foiled. does not include narrative
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0116 - Psychic Hobo Initiation]] |
+| Previous Card | [[0114 - Open Manhole]] |
 
 

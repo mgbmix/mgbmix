@@ -38,7 +38,7 @@ A creature suffering from the Gun Control debuff cannot attack with projectile w
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0203 - FOSTER, TERRY Incident Report 1a]] |
+| Previous Card | [[0201 - Lazarus Rejuvenation]] |
 
 

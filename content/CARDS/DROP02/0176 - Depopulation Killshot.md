@@ -34,6 +34,6 @@ When you deploy this card, players cannot summon creatures for two (2) turns.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0177 - Moralize]] |  
+| Previous Card | [[0175 - CIA 3 (Dark Green) The Commission of Intelligence Authorization]] |  
 

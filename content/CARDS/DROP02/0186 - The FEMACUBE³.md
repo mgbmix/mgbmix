@@ -39,8 +39,8 @@ The key to effective gnance can be found in the Law of Triples.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0187 - IRS Stormtrooper]] |
+| Previous Card | [[0185 - Daylight Savings]] |
 
 
 

@@ -30,7 +30,7 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0205 - FOSTER, TERRY Incident Report 1c]] |
+| Previous Card | [[0203 - FOSTER, TERRY Incident Report 1a]] |
 
 

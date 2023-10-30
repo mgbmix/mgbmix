@@ -31,7 +31,7 @@ When you play this card, peek at enemy’s next card to be drawn.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0147 - FEMACUBECORPORATEPSYCHEVALUATION Page2]] |
+| Previous Card | [[0145 - The Agency of Small Evenly-Distributed Pools of Water]] |
 
 

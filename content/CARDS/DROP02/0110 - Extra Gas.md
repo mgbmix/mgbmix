@@ -32,8 +32,8 @@ If you control this card at the end of your turn, you may Proselytize at no cost
 
 # Card Nav
 
-| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
-| --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| [[Sets\|SET]] | ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
+| ------------- | ----------------------------------- |
+| Next Card     | [[0111 - King of Dogs]]             |
+| Previous Card | [[0109 - Survival Arts]]            |
 

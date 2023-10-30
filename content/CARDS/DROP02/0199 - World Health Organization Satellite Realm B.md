@@ -40,8 +40,8 @@ WHOoties:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0200 - Israeli Art Student]] |
+| Previous Card | [[0198 - What to Do If There’s a Shooter]] |
 
 
 

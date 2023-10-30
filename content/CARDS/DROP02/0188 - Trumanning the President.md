@@ -35,6 +35,6 @@ The POTUS can “pardon” any one (1) of your own cards from being discarded pe
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0189 - Wave Check Point]] |  
+| Previous Card | [[0187 - IRS Stormtrooper]] |  
 

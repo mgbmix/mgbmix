@@ -33,6 +33,6 @@ While this card is on the field all Bum Legion creatures gain Max PSI points
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0120 - TK Knight]] |  
+| Previous Card | [[0118 - Jenkem Whippet]] |  
 

@@ -32,8 +32,8 @@ So long as you control two or more F.E.M.A.C.U.B.E.³ or WarGodz creatures, your
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0151 - Fake Moon (Trumanned President)]] |
+| Previous Card | [[0149 - Fake Alien Abduction (Trumanned President)]] |
 
 
 

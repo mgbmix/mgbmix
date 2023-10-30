@@ -38,7 +38,7 @@ After using its effect, send this card to your [[history]].
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0115 - The Actor's Curse]] |
+| Previous Card | [[0113 - Dirty Hypo Needles]] |
 
 

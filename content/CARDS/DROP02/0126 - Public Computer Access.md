@@ -36,5 +36,5 @@ This is a creature ability (costs NRG).
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXXX |
-| Previous Card | XXXX |
+| Next Card | [[0127 - Wet Garbage Ghillie Suit]] |
+| Previous Card | [[0125 - Cigarette Bum]] |

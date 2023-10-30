@@ -35,8 +35,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0104 - Phonebook Armor]] |
+| Previous Card | [[0102 - Raw Truth]] |
 
 
 

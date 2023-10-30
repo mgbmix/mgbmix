@@ -34,7 +34,7 @@ If you did not get two (2) The Hive cards or two (2) Team PinkBean cards, you ma
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0198 - What to Do If There’s a Shooter]] |
+| Previous Card | [[0196 - Terrorist Training Simulator]] |
 
 

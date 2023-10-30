@@ -34,8 +34,8 @@ HEALS ENEMY FOR 25 HP
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0169 - GATE Program]] |
+| Previous Card | [[0167 - Sandy Hookers]] |
 
 
 

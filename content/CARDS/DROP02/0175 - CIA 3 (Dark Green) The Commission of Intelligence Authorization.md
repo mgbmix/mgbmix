@@ -43,8 +43,8 @@ If not useful, property can be sold/destroyed for .04 BTC (+350 HP to any target
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0176 - Depopulation Killshot]] |
+| Previous Card | [[0174 - CIA 2 (Dark Blue) The Chief Investigation Agency]] |
 
 
 

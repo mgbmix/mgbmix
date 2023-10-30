@@ -37,7 +37,7 @@ If host creature is destroyed, place this card at the bottom of your deck
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0118 - Jenkem Whippet]] |
+| Previous Card | [[0116 - Psychic Hobo Initiation]] |
 
 

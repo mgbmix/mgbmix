@@ -32,6 +32,6 @@ If you do, opponent must discard all cards in hand and remove all cards in play 
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0132 - The Museum]] |  
+| Previous Card | [[0130 - 1-800-WE-HELP-U]] |  
 

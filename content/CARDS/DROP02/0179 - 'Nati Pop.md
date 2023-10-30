@@ -49,6 +49,6 @@ stat gain is permanent (the state-run media apparatus defends everything they sa
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0180 - Demonic Centrifuge]] |  
+| Previous Card | [[0178 - Poison Pen]] |  
 

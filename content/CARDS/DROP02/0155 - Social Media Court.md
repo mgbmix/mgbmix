@@ -36,7 +36,7 @@ Targeted Creature is removed from play and placed at bottom of its owner's deck.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0156 - The Dial-Up Men]] |
+| Previous Card | [[0154 - Sheeple Scanner]] |
 
 

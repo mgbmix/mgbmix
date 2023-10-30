@@ -33,7 +33,7 @@ Your opponents reveal their Stowed Hands. All opposing Food cards in play and in
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0103 - Bum Army]] |
+| Previous Card | [[0101 - The Tools You Need]] |
 
 

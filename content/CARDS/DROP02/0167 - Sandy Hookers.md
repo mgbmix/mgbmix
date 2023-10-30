@@ -41,6 +41,6 @@ create unlimited duplicate instances of Sandy Hookers on the battlefield at a co
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0168 - Reverse Universe]] |
+| Previous Card | [[0166 - CIA Child Soldier]] |
 

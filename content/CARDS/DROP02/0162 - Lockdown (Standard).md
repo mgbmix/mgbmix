@@ -37,7 +37,7 @@ After using its effect, send this card to your [[history]].
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0163 - Mindwipe Pill]] |
+| Previous Card | [[0161 - Lockdown (High)]] |
 
 

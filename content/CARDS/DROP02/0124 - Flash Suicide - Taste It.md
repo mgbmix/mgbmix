@@ -38,7 +38,7 @@ On the third turn, target creature commits suicide.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0125 - Cigarette Bum]] |
+| Previous Card | [[0123 - Horizontal Lynching]] |
 
 

@@ -44,6 +44,6 @@ no matter how powerful (even nuclear weapons and/or end-of-Universe type catacly
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0173 - CIA 1 (Dark Red) The Central Information Army]] |  
+| Previous Card | [[0171 - Gay Terminator]] |  
 

@@ -37,8 +37,8 @@ but they cannot affect the outside world (they may heal each other, apply buffs/
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0193 - Homeland Security Sexual Threat Scale]] |
+| Previous Card | [[0191 - Gifted Children's Research Program]] |
 
 
 

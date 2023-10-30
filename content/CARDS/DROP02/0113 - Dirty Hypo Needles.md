@@ -35,7 +35,7 @@ Tails: Enemy creature contracts AIDS : ) ..and it goes full blown fast………n
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0114 - Open Manhole]] |
+| Previous Card | [[0112 - Tweaked]] |
 
 

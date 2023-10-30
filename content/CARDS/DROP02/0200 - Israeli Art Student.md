@@ -47,6 +47,6 @@ Cannot be attacked by Thin Blue Whine or F.E.M.A.C.U.B.E.³ creatures.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0201 - Lazarus Rejuvenation]] |
+| Previous Card | [[0199 - World Health Organization Satellite Realm B]] |
 

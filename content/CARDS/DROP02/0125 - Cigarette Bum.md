@@ -49,6 +49,6 @@ Roll a d6.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0126 - Public Computer Access]] |
+| Previous Card | [[0124 - Flash Suicide - Taste It]] |
 

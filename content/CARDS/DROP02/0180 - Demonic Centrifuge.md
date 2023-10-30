@@ -37,6 +37,6 @@ Equipped creature gets -4 SWG
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0181 - Airplane Mass Shooting Tutorial Mission]] |  
+| Previous Card | [[0179 - 'Nati Pop]] |  
 

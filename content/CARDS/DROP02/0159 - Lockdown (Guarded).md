@@ -37,7 +37,7 @@ When busted, enemy must reveal their Hand and place all Items they control on th
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0160 - Lockdown (Elevated)]] |
+| Previous Card | [[0158 - Lockdown (Low)]] |
 
 

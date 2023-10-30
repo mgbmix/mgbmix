@@ -49,6 +49,6 @@ Red Solo Hans Solo, Beat Your Cup Stacking PR: 3.4 seconds, holy shit. You did i
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0121 - Ditch Contraband]] |
+| Previous Card | [[0119 - Sky Bums]] |
 

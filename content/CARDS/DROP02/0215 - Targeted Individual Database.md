@@ -41,6 +41,6 @@ all friendly creatures currently suffering from the Gangstalked debuff are now i
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0216 - Targeted Mutations]] |  
+| Previous Card | [[0214 - Sheeple Chipper]] |  
 

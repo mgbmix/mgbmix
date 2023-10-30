@@ -37,8 +37,8 @@ Then you may search your newsfeed for a F.E.M.A.C.U.B.E.³ creature and deploy i
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0174 - CIA 2 (Dark Blue) The Chief Investigation Agency]] |
+| Previous Card | [[0172 - ChillX Hypo-Pistol]] |
 
 
 

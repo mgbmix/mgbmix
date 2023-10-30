@@ -33,8 +33,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0152 - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER]] |
+| Previous Card | [[0150 - Fake Iraq (Trumanned President)]] |
 
 
 

@@ -41,7 +41,7 @@ This card cannot target Bum Legion 2099 Creatures.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0134 - B-rock The Islamic Shock Hussein O-Bomb-Ya]] |
+| Previous Card | [[0132 - The Museum]] |
 
 

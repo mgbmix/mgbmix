@@ -35,6 +35,6 @@ You may take one copy of the named card from that player's newsfeed and put it i
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0153 - Brain Scorchers]] |  
+| Previous Card | [[0151 - Fake Moon (Trumanned President)]] |  
 

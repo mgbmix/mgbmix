@@ -35,6 +35,6 @@ The targeted Creature loses -3 PSI.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] | 
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0155 - Social Media Court]] |  
+| Previous Card | [[0153 - Brain Scorchers]] |  
 

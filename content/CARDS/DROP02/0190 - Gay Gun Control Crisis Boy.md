@@ -46,6 +46,6 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0191 - Gifted Children's Research Program]] |
+| Previous Card | [[0189 - Wave Check Point]] |
 

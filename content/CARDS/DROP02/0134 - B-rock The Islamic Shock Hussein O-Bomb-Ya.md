@@ -52,6 +52,6 @@ Legalize something (anything) totally because it's a good idea
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0135 - Bruydac]] |
+| Previous Card | [[0133 - Red Tape]] |
 

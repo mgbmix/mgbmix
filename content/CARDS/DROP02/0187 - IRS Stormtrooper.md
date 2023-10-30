@@ -49,6 +49,6 @@ Severe 6am beating.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0188 - Trumanning the President]] |
+| Previous Card | [[0186 - The FEMACUBE³]] |
 

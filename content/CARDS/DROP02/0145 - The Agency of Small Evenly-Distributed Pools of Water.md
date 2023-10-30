@@ -36,7 +36,7 @@ That player skips their next turn.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0146 - FEMACUBECORPORATEPSYCHEVALUATION Page1]] |
+| Previous Card | [[0144 - Monkey Terrorists]] |
 
 

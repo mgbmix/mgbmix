@@ -32,7 +32,7 @@ All non-F.E.M.A.C.U.B.E.³ creatures on both sides of play are destroyed
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0142 - Evolutionary Paths]] |
+| Previous Card | [[0140 - Bruydac Operations - Sequence I]] |
 
 

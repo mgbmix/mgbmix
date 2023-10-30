@@ -32,7 +32,7 @@ Shuffle your newsfeed.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0148 - FEMACUBECORPORATEPSYCHEVALUATION Page3]] |
+| Previous Card | [[0146 - FEMACUBECORPORATEPSYCHEVALUATION Page1]] |
 
 

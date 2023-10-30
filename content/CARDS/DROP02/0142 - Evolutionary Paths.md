@@ -36,7 +36,7 @@ Shuffle your newsfeed. The equipped creature is put on the bottom of its owner's
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0143 - NEWSBOP]] |
+| Previous Card | [[0141 - Bruydac Operations - Sequence II]] |
 
 

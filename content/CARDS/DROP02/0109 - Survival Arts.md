@@ -35,7 +35,7 @@ All Bum Legion creatures you control gain +1 on all stats as long as this card i
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0110 - Extra Gas]] |
+| Previous Card | [[0108 - Badd Notification]] |
 
 

@@ -46,6 +46,6 @@ Target card in play loses its current Factions and now belongs to Rainbow R!ot
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0172 - ChillX Hypo-Pistol]] |
+| Previous Card | [[0170 - Gas Station Adrenochrome]] |
 

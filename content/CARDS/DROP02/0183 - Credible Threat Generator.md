@@ -38,6 +38,6 @@ on your next turn your Thin Blue Whine/F.E.M.A.C.U.B.E.³ creatures may attack a
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0184 - DigiSnitch]] |  
+| Previous Card | [[0182 - Commonplace Cannibalism]] |  
 

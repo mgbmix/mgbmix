@@ -48,6 +48,6 @@ When their Hand is revealed, that player may discard all Item cards in Hand to r
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0210 - Power Plant Meltdown]] |
+| Previous Card | [[0208 - Let’s Start Over]] |
 

@@ -37,5 +37,5 @@ whenever buffed creature attacks, roll two(2) six-sided dice.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXXX |
-| Previous Card | XXXX |
+| Next Card | [[0113 - Dirty Hypo Needles]] |
+| Previous Card | [[0111 - King of Dogs]] |

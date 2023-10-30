@@ -43,6 +43,6 @@ This creature gets +4 STR (permanently) at end of this turn.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0129 - Intro to Crisis Acting 101]] |
+| Previous Card | [[0127 - Wet Garbage Ghillie Suit]] |
 

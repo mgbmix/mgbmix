@@ -38,6 +38,6 @@ For the first time ever you can understand the chatter of the bats at nyght.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0171 - Gay Terminator]] |  
+| Previous Card | [[0169 - GATE Program]] |  
 

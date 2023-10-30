@@ -37,7 +37,7 @@ When you activate this effect, target an opposing active Creature
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0162 - Lockdown (Standard)]] |
+| Previous Card | [[0160 - Lockdown (Elevated)]] |
 
 

@@ -40,7 +40,7 @@ That player reveals their hand. You may choose one Item to add to your Stowed Ha
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0161 - Lockdown (High)]] |
+| Previous Card | [[0159 - Lockdown (Guarded)]] |
 
 

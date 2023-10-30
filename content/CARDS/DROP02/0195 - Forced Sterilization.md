@@ -37,6 +37,6 @@ You cannot play strong or beautiful creatures. (This means Creatures with STR or
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0196 - Terrorist Training Simulator]] |  
+| Previous Card | [[0194 - FEMACUBE Vivisection Colony 821a Major]] |  
 

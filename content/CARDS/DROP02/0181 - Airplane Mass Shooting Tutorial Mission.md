@@ -30,7 +30,7 @@ ON CHALLENGE COMPLETION, COLLECT 500 TERROR POINTs
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0182 - Commonplace Cannibalism]] |
+| Previous Card | [[0180 - Demonic Centrifuge]] |
 
 

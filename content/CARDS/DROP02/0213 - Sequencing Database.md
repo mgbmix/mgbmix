@@ -36,7 +36,7 @@ Select one card from their hand. Your opponent must recite the effect and/or des
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0214 - Sheeple Chipper]] |
+| Previous Card | [[0212 - Robocall from the President]] |
 
 

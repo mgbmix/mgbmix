@@ -34,7 +34,7 @@ The chosen card type cannot be deployed or activated for the next ten (10) turns
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0150 - Fake Iraq (Trumanned President)]] |
+| Previous Card | [[0148 - FEMACUBECORPORATEPSYCHEVALUATION Page3]] |
 
 

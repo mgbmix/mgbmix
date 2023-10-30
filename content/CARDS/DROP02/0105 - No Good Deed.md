@@ -35,7 +35,7 @@ Sting a target creature with 400 wasps. 500 DMG
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0106 - Russian Bum Fire]] |
+| Previous Card | [[0104 - Phonebook Armor]] |
 
 

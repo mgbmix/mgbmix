@@ -34,6 +34,6 @@ This Item [[Equip|equips]] for a [[1F]] cost to a target.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0105 - No Good Deed]] |  
+| Previous Card | [[0103 - Bum Army]] |  
 

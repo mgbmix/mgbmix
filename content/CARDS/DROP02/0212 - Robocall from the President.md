@@ -39,7 +39,7 @@ Flip a coin:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0213 - Sequencing Database]] |
+| Previous Card | [[0211 - Protection Threat]] |
 
 

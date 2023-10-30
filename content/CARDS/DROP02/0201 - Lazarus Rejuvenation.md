@@ -36,7 +36,7 @@ Cloned card is destroyed again five (5) turns later, due to instability of biost
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0202 - False Flag Attack]] |
+| Previous Card | [[0200 - Israeli Art Student]] |
 
 

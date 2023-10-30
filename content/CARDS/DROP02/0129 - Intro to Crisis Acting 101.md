@@ -38,7 +38,7 @@ Pick a creature to enroll in Intro to Crisis Acting 101.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0130 - 1-800-WE-HELP-U]] |
+| Previous Card | [[0128 - The Man with the Golden Voice Obama Redux]] |
 
 

@@ -30,7 +30,7 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0199 - World Health Organization Satellite Realm B]] |
+| Previous Card | [[0197 - Water Crisis]] |
 
 

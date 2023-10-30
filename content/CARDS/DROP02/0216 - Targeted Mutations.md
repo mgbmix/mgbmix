@@ -33,6 +33,6 @@ Add five (5) points to any stat and subtract five (5) points from any stat until
 
 | [[Sets\|SET]] | XXX |  
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0217 - Schtephen Hawkin]] |  
+| Previous Card | [[0215 - Targeted Individual Database]] |  
 

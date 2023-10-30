@@ -33,8 +33,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0165 - Calamity Blast]] |
+| Previous Card | [[0163 - Mindwipe Pill]] |
 
 
 

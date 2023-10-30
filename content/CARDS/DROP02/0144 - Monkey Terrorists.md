@@ -41,6 +41,6 @@ If you do, create a Skill - Spy Arts token called Monkey Kong Krusade alraedy eq
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0145 - The Agency of Small Evenly-Distributed Pools of Water]] |
+| Previous Card | [[0143 - NEWSBOP]] |
 

@@ -36,7 +36,7 @@ You're kind of a bitch for doing it though
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0209 - MegaNet You're Gonna Love This Net™]] |
+| Previous Card | [[0207 - G.I.D.]] |
 
 

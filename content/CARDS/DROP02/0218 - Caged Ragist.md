@@ -43,6 +43,6 @@ Before Caged Ragist can be put into play, you must destroy his cage.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0219 - FedGov MyBuddy Mobile]] |
+| Previous Card | [[0217 - Schtephen Hawkin]] |
 

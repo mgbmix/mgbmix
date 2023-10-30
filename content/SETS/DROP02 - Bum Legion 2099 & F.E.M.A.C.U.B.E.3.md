@@ -30,7 +30,7 @@ DROP02 contains the following cards:
 
 [[0101 - The Tools You Need]]   
 [[0102 - Raw Truth]]  
-[[0103 -Bum Army]]  
+[[0103 - Bum Army]]  
 [[0104 - Phonebook Armor]]  
 [[0105 - No Good Deed]]  
 [[0106 - Russian Bum Fire]]  

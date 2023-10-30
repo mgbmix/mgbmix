@@ -36,6 +36,6 @@ This Item [[Equip|equips]] for a [[1F]] cost to a target.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0166 - CIA Child Soldier]] |  
+| Previous Card | [[0164 - NT Mineral Reclamation Asteroid B-73]] |  
 

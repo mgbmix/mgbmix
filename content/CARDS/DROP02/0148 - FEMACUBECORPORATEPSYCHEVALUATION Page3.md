@@ -32,7 +32,7 @@ That player loses Funding points equal to the result of the die roll.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0149 - Fake Alien Abduction (Trumanned President)]] |
+| Previous Card | [[0147 - FEMACUBECORPORATEPSYCHEVALUATION Page2]] |
 
 

@@ -44,6 +44,6 @@ You may add Gun Control Crisis Boy to play instantly as well.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0167 - Sandy Hookers]] |
+| Previous Card | [[0165 - Calamity Blast]] |
 

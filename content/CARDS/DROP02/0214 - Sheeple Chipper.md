@@ -38,6 +38,6 @@ search opponent’s discard/draw piles if need be, just find them!
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0215 - Targeted Individual Database]] |  
+| Previous Card | [[0213 - Sequencing Database]] |  
 

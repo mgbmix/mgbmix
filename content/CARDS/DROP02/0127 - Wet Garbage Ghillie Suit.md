@@ -43,6 +43,6 @@ You may sacrifice a Food / Trash card in play to add one garbage counter to this
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0128 - The Man with the Golden Voice Obama Redux]] |  
+| Previous Card | [[0126 - Public Computer Access]] |  
 

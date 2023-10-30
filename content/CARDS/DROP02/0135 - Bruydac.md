@@ -33,8 +33,8 @@ This card becomes a copy of the named card.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0136 - Bruydac Lehns-Vult]] |
+| Previous Card | [[0134 - B-rock The Islamic Shock Hussein O-Bomb-Ya]] |
 
 
 

@@ -38,6 +38,6 @@ When you deploy this card, Truther cards cannot be played for four (4) turns.
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0183 - Credible Threat Generator]] |  
+| Previous Card | [[0181 - Airplane Mass Shooting Tutorial Mission]] |  
 

@@ -35,8 +35,8 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0175 - CIA 3 (Dark Green) The Commission of Intelligence Authorization]] |
+| Previous Card | [[0173 - CIA 1 (Dark Red) The Central Information Army]] |
 
 
 

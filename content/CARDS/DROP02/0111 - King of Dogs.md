@@ -40,6 +40,6 @@ aliases:
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
-| Next Card | XXX |
-| Previous Card | XXX |
+| Next Card | [[0112 - Tweaked]] |
+| Previous Card | [[0110 - Extra Gas]] |
 

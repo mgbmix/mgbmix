@@ -37,7 +37,7 @@ All enemy creatures deal half DMG for 2 turns
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
-| Next Card     | XXX |
-| Previous Card | XXX |
+| Next Card     | [[0123 - Horizontal Lynching]] |
+| Previous Card | [[0121 - Ditch Contraband]] |
 
 
