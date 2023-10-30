@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Trumanning the President
 ---
 # Art
 
@@ -32,7 +33,7 @@ The POTUS can “pardon” any one (1) of your own cards from being discarded pe
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

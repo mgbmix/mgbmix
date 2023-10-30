@@ -12,7 +12,8 @@ NRG: "1"
 SWG: "5"
 PSI: "1"
 tags: 
-aliases: []
+aliases:
+  - B-rock The Islamic Shock Hussein O-Bomb-Ya
 ---
 # Art
 
@@ -49,7 +50,7 @@ Legalize something (anything) totally because it's a good idea
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

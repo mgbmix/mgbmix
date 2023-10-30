@@ -12,7 +12,8 @@ NRG: "6"
 SWG: "4"
 PSI: "8"
 tags: 
-aliases: []
+aliases:
+  - TK Knight
 ---
 # Art
 
@@ -46,7 +47,7 @@ Red Solo Hans Solo, Beat Your Cup Stacking PR: 3.4 seconds, holy shit. You did i
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

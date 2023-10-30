@@ -12,7 +12,8 @@ NRG: "0"
 SWG: "8"
 PSI: "0"
 tags: 
-aliases: []
+aliases:
+  - Monkey Terrorists
 ---
 # Art
 
@@ -38,7 +39,7 @@ If you do, create a Skill - Spy Arts token called Monkey Kong Krusade alraedy eq
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

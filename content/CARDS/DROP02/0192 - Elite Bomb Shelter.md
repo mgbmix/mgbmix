@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - Elite Bomb Shelter
 ---
 # Art
 
@@ -34,7 +35,7 @@ but they cannot affect the outside world (they may heal each other, apply buffs/
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

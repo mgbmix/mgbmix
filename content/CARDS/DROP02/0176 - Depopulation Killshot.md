@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Depopulation Killshot
 ---
 # Art
 
@@ -31,7 +32,7 @@ When you deploy this card, players cannot summon creatures for two (2) turns.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

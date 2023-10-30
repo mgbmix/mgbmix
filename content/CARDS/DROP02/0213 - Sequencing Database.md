@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Sequencing Database
 ---
 # Art
 
@@ -33,7 +34,7 @@ Select one card from their hand. Your opponent must recite the effect and/or des
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

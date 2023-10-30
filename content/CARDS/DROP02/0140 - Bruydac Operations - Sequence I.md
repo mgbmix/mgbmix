@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F / 0F
 tags: 
-aliases: []
+aliases:
+  - Bruydac Operations - Sequence I
 ---
 # Art
 
@@ -29,7 +30,7 @@ This card must be played concurrently with Bruydac: Operations - Sequence I
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX          |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

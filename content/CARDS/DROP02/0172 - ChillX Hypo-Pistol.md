@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - ChillX Hypo-Pistol
 ---
 # Art
 
@@ -41,7 +42,7 @@ no matter how powerful (even nuclear weapons and/or end-of-Universe type catacly
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

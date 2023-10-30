@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Water Crisis
 ---
 # Art
 
@@ -31,7 +32,7 @@ If you did not get two (2) The Hive cards or two (2) Team PinkBean cards, you ma
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

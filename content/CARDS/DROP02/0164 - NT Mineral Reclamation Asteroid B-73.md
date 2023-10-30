@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - NT Mineral Reclamation Asteroid B-73
 ---
 # Art
 
@@ -30,7 +31,7 @@ aliases: []
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

@@ -12,7 +12,8 @@ NRG: "5"
 SWG: "20"
 PSI: "1"
 tags: 
-aliases: []
+aliases:
+  - Brain Scorchers
 ---
 # Art
 
@@ -41,7 +42,7 @@ Future attacks do twice as much DMG.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

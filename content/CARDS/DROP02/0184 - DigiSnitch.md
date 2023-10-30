@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - DigiSnitch
 ---
 # Art
 
@@ -35,7 +36,7 @@ locking up one of your creatures without consequence
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

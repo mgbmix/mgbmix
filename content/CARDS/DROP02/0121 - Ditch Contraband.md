@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R4
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Ditch Contraband
 ---
 # Art
 
@@ -37,7 +38,7 @@ Discard this card along with one Drug card from your hand to draw three (3) addi
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

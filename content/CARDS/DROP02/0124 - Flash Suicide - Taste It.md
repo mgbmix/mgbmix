@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Flash Suicide - Taste It
 ---
 # Art
 
@@ -35,7 +36,7 @@ On the third turn, target creature commits suicide.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

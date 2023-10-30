@@ -12,7 +12,8 @@ NRG: "4"
 SWG: "2"
 PSI: "2"
 tags: 
-aliases: []
+aliases:
+  - Gay Terminator
 ---
 # Art
 
@@ -43,7 +44,7 @@ Target card in play loses its current Factions and now belongs to Rainbow R!ot
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

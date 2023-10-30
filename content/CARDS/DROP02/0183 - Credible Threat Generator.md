@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Credible Threat Generator
 ---
 # Art
 
@@ -35,7 +36,7 @@ on your next turn your Thin Blue Whine/F.E.M.A.C.U.B.E.³ creatures may attack a
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

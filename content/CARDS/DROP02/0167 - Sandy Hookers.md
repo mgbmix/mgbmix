@@ -12,7 +12,8 @@ NRG: "1"
 SWG: "1"
 PSI: "1"
 tags: 
-aliases: []
+aliases:
+  - Sandy Hookers
 ---
 # Art
 
@@ -38,7 +39,7 @@ create unlimited duplicate instances of Sandy Hookers on the battlefield at a co
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

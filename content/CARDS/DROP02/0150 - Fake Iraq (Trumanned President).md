@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - Fake Iraq (Trumanned President)
 ---
 # Art
 
@@ -29,7 +30,7 @@ So long as you control two or more F.E.M.A.C.U.B.E.³ or WarGodz creatures, your
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

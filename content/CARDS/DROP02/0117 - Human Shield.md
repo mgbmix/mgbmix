@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Human Shield
 ---
 # Art
 
@@ -34,7 +35,7 @@ If host creature is destroyed, place this card at the bottom of your deck
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

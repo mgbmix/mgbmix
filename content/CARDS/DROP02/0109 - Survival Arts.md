@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Survival Arts
 ---
 # Art
 
@@ -32,7 +33,7 @@ All Bum Legion creatures you control gain +1 on all stats as long as this card i
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

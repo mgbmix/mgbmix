@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - The Museum
 ---
 # Art
 
@@ -31,7 +32,7 @@ aliases: []
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

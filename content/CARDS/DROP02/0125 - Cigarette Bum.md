@@ -12,7 +12,8 @@ NRG: "3"
 SWG: "2"
 PSI: "7"
 tags: 
-aliases: []
+aliases:
+  - Cigarette Bum
 ---
 # Art
 
@@ -46,7 +47,7 @@ Roll a d6.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Poison Pen
 ---
 # Art
 
@@ -36,7 +37,7 @@ If you do, that player skips their next turn.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Intro to Crisis Acting 101
 ---
 # Art
 
@@ -35,7 +36,7 @@ Pick a creature to enroll in Intro to Crisis Acting 101.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

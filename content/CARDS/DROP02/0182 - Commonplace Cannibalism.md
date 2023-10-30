@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Commonplace Cannibalism
 ---
 # Art
 
@@ -35,7 +36,7 @@ When you deploy this card, Truther cards cannot be played for four (4) turns.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

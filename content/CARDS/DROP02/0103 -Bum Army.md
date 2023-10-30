@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R1
 Funding Cost: 3F
 tags: 
-aliases: []
+aliases:
+  - Bum Army
 ---
 # Art
 
@@ -32,7 +33,7 @@ aliases: []
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

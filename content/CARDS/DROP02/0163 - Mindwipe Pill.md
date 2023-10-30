@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Mindwipe Pill
 ---
 # Art
 
@@ -31,7 +32,7 @@ they are reverted to Normal/Good mental status.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Flash Suicide - Phone Switcheroo
 ---
 # Art
 
@@ -34,7 +35,7 @@ All enemy creatures deal half DMG for 2 turns
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

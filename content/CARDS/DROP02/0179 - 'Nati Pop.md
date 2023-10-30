@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - "'Nati Pop"
 ---
 # Art
 
@@ -46,7 +47,7 @@ stat gain is permanent (the state-run media apparatus defends everything they sa
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

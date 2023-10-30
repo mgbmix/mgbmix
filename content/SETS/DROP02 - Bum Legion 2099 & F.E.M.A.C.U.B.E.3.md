@@ -53,7 +53,7 @@ DROP02 contains the following cards:
 [[0123 - Horizontal Lynching]]  
 [[0124 - Flash Suicide - Taste It]]  
 [[0125 - Cigarette Bum]]  
-[[0126 -Public Computer Access]]  
+[[0126 - Public Computer Access]]  
 [[0127 - Wet Garbage Ghillie Suit]]  
 [[0128 - The Man with the Golden Voice Obama Redux]]  
 [[0129 - Intro to Crisis Acting 101]]  

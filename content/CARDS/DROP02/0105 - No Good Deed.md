@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R6
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - No Good Deed
 ---
 # Art
 
@@ -32,7 +33,7 @@ Sting a target creature with 400 wasps. 500 DMG
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

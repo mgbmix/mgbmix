@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Lockdown (Guarded)
 ---
 # Art
 
@@ -34,7 +35,7 @@ When busted, enemy must reveal their Hand and place all Items they control on th
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

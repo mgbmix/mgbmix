@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER
 ---
 # Art
 
@@ -32,7 +33,7 @@ You may take one copy of the named card from that player's newsfeed and put it i
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

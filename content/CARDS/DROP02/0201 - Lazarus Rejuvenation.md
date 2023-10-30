@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Lazarus Rejuvenation
 ---
 # Art
 
@@ -33,7 +34,7 @@ Cloned card is destroyed again five (5) turns later, due to instability of biost
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

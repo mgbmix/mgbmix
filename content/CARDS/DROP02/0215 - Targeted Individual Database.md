@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Targeted Individual Database
 ---
 # Art
 
@@ -38,7 +39,7 @@ all friendly creatures currently suffering from the Gangstalked debuff are now i
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

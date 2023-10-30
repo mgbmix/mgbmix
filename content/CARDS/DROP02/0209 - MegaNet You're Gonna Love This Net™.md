@@ -12,7 +12,8 @@ NRG: "7"
 SWG: "6"
 PSI: "9"
 tags: 
-aliases: []
+aliases:
+  - MegaNet You're Gonna Love This Net™
 ---
 # Art
 
@@ -45,7 +46,7 @@ When their Hand is revealed, that player may discard all Item cards in Hand to r
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

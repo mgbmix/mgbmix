@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Fake Alien Abduction (Trumanned President)
 ---
 # Art
 
@@ -31,7 +32,7 @@ The chosen card type cannot be deployed or activated for the next ten (10) turns
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

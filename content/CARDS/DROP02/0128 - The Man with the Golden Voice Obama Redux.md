@@ -12,7 +12,8 @@ NRG: "3"
 SWG: "5"
 PSI: "8"
 tags: 
-aliases: []
+aliases:
+  - The Man with the Golden Voice Obama Redux
 ---
 # Art
 
@@ -40,7 +41,7 @@ This creature gets +4 STR (permanently) at end of this turn.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

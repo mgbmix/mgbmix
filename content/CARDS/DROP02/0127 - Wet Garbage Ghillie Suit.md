@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Wet Garbage Ghillie Suit
 ---
 # Art
 
@@ -40,7 +41,7 @@ You may sacrifice a Food / Trash card in play to add one garbage counter to this
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - Reverse Universe
 ---
 # Art
 
@@ -31,7 +32,7 @@ HEALS ENEMY FOR 25 HP
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

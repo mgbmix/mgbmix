@@ -12,7 +12,8 @@ NRG: "4"
 SWG: "3"
 PSI: "8"
 tags: 
-aliases: []
+aliases:
+  - Israeli Art Student
 ---
 # Art
 
@@ -44,7 +45,7 @@ Cannot be attacked by Thin Blue Whine or F.E.M.A.C.U.B.E.³ creatures.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

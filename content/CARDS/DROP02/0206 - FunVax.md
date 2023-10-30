@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - FunVax
 ---
 # Art
 
@@ -33,7 +34,7 @@ Draw two (2) additional cards and add to Look Hand.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXXX |
 | Previous Card | XXXX |

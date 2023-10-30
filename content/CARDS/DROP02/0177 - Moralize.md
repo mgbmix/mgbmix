@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Moralize
 ---
 # Art
 
@@ -35,7 +36,7 @@ If coin lands perfectly on its edge (S.U.C.C.E.S.S.+): your argument was so grea
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R2
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Tweaked
 ---
 # Art
 
@@ -34,7 +35,7 @@ whenever buffed creature attacks, roll two(2) six-sided dice.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXXX |
 | Previous Card | XXXX |

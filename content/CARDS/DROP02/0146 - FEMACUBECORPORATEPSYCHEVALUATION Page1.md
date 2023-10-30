@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - FEMACUBECORPORATEPSYCHEVALUATION Page1
 ---
 # Art
 
@@ -28,7 +29,7 @@ When you play this card, peek at enemy’s next card to be drawn.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

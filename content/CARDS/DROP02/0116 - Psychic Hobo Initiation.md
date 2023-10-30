@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R5
 Funding Cost: 4F / 0F
 tags: 
-aliases: []
+aliases:
+  - Psychic Hobo Initiation
 ---
 # Art
 
@@ -30,7 +31,7 @@ Your psychic creature deals 200 additional DMG on next attack
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX          |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

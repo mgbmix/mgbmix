@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - GATE Program
 ---
 # Art
 
@@ -31,7 +32,7 @@ Both players must discard one (1) creature of their choice (accidental 2C-B + ke
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

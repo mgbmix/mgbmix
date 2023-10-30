@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 2F / 0F
 tags: 
-aliases: []
+aliases:
+  - Airplane Mass Shooting Tutorial Mission
 ---
 # Art
 
@@ -27,7 +28,7 @@ ON CHALLENGE COMPLETION, COLLECT 500 TERROR POINTs
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX          |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

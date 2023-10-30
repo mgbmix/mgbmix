@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Raw Truth
 ---
 # Art
 
@@ -30,7 +31,7 @@ Your opponents reveal their Stowed Hands. All opposing Food cards in play and in
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

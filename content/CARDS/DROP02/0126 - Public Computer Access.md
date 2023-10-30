@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R6
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Public Computer Access
 ---
 # Art
 
@@ -33,7 +34,7 @@ This is a creature ability (costs NRG).
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXXX |
 | Previous Card | XXXX |

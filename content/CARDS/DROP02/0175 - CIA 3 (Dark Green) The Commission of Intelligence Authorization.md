@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - CIA 3 (Dark Green) The Commission of Intelligence Authorization
 ---
 # Art
 
@@ -40,7 +41,7 @@ If not useful, property can be sold/destroyed for .04 BTC (+350 HP to any target
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

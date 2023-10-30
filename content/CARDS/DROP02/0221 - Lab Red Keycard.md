@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Lab Red Keycard
 ---
 # Art
 
@@ -35,7 +36,7 @@ That player shuffles their newsfeed.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

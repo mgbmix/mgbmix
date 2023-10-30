@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Sky Bums
 ---
 # Art
 
@@ -30,7 +31,7 @@ While this card is on the field all Bum Legion creatures gain Max PSI points
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

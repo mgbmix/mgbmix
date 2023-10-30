@@ -12,7 +12,8 @@ NRG: "6"
 SWG: "3"
 PSI: "7"
 tags: 
-aliases: []
+aliases:
+  - Schtephen Hawkin
 ---
 # Art
 
@@ -45,7 +46,7 @@ here he's a 'campig'- which is basically a celebrity
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

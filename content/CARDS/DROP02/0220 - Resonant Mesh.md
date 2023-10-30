@@ -12,7 +12,8 @@ NRG: "10"
 SWG: "9"
 PSI: "7"
 tags: 
-aliases: []
+aliases:
+  - Resonant Mesh
 ---
 # Art
 
@@ -48,7 +49,7 @@ Envelop a creature card, adding it to Resonant Mesh's mass.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

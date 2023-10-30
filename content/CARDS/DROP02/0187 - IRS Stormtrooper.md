@@ -12,7 +12,8 @@ NRG: "4"
 SWG: "8"
 PSI: "6"
 tags: 
-aliases: []
+aliases:
+  - IRS Stormtrooper
 ---
 # Art
 
@@ -46,7 +47,7 @@ Severe 6am beating.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - The Tools You Need
 ---
 # Art
 
@@ -33,6 +34,6 @@ If you control this card at the end of your turn, you may Proselytize at no cost
 
 | [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
-| Next Card | XXXX |  
-| Previous Card | XXXX |  
+| Next Card | [[0102 - Raw Truth]] |  
+| Previous Card | [[0100 - Fake Tech]] |  
 

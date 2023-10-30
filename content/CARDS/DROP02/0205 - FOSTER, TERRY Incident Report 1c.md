@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 3F
 tags: 
-aliases: []
+aliases:
+  - FOSTER, TERRY Incident Report 1c
 ---
 # Art
 
@@ -27,7 +28,7 @@ aliases: []
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

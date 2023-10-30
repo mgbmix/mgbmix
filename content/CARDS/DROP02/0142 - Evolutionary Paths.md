@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Evolutionary Paths
 ---
 # Art
 
@@ -33,7 +34,7 @@ Shuffle your newsfeed. The equipped creature is put on the bottom of its owner's
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

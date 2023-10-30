@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Power Plant Meltdown
 ---
 # Art
 
@@ -32,7 +33,7 @@ When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to 
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

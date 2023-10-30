@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Calamity Blast
 ---
 # Art
 
@@ -33,7 +34,7 @@ This Item [[Equip|equips]] for a [[1F]] cost to a target.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

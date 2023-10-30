@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Gifted Children's Research Program
 ---
 # Art
 
@@ -31,7 +32,7 @@ When you deploy this card,
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

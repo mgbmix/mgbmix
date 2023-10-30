@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R6
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Horizontal Lynching
 ---
 # Art
 
@@ -33,7 +34,7 @@ If you do, +200 HP and +2 FYT for all creatures of the same faction that are cur
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R1
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Red Tape
 ---
 # Art
 
@@ -38,7 +39,7 @@ This card cannot target Bum Legion 2099 Creatures.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

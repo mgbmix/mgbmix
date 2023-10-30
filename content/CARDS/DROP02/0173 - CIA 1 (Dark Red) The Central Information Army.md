@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 0F
 tags: 
-aliases: []
+aliases:
+  - CIA 1 (Dark Red) The Central Information Army
 ---
 # Art
 
@@ -34,7 +35,7 @@ Then you may search your newsfeed for a F.E.M.A.C.U.B.E.³ creature and deploy i
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

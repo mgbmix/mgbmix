@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Social Media Court
 ---
 # Art
 
@@ -33,7 +34,7 @@ Targeted Creature is removed from play and placed at bottom of its owner's deck.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

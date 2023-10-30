@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Lockdown (Standard)
 ---
 # Art
 
@@ -34,7 +35,7 @@ After using its effect, send this card to your [[history]].
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

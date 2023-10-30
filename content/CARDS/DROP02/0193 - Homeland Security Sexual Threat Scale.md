@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Homeland Security Sexual Threat Scale
 ---
 # Art
 
@@ -40,7 +41,7 @@ This ability may only be used one (1) time per game
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

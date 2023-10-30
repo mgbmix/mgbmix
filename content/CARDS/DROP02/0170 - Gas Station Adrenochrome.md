@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R4
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Gas Station Adrenochrome
 ---
 # Art
 
@@ -35,7 +36,7 @@ For the first time ever you can understand the chatter of the bats at nyght.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

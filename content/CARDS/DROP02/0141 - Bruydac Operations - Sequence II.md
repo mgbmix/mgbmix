@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R5
 Funding Cost: 4F / 0F
 tags: 
-aliases: []
+aliases:
+  - Bruydac Operations - Sequence II
 ---
 # Art
 
@@ -29,7 +30,7 @@ All non-F.E.M.A.C.U.B.E.³ creatures on both sides of play are destroyed
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX          |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

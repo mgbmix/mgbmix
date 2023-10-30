@@ -12,7 +12,8 @@ NRG: "6"
 SWG: "4"
 PSI: "6"
 tags: 
-aliases: []
+aliases:
+  - CIA Child Soldier
 ---
 # Art
 
@@ -41,7 +42,7 @@ You may add Gun Control Crisis Boy to play instantly as well.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

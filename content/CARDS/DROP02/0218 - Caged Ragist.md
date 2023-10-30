@@ -12,7 +12,8 @@ NRG: "5"
 SWG: "2"
 PSI: "9"
 tags: 
-aliases: []
+aliases:
+  - Caged Ragist
 ---
 # Art
 
@@ -40,7 +41,7 @@ Before Caged Ragist can be put into play, you must destroy his cage.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |
 | Next Card | XXX |
 | Previous Card | XXX |

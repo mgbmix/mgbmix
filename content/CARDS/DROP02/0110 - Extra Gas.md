@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R3
 Funding Cost: 4F
 tags: 
-aliases: []
+aliases:
+  - Extra Gas
 ---
 # Art
 
@@ -31,7 +32,7 @@ If you control this card at the end of your turn, you may Proselytize at no cost
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R4
 Funding Cost: 1F
 tags: 
-aliases: []
+aliases:
+  - Dirty Hypo Needles
 ---
 # Art
 
@@ -32,7 +33,7 @@ Tails: Enemy creature contracts AIDS : ) ..and it goes full blown fast………n
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

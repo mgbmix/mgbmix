@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R3
 Funding Cost: 3F
 tags: 
-aliases: []
+aliases:
+  - Bruydac Shizmadu Traces
 ---
 # Art
 
@@ -28,7 +29,7 @@ When you play this card, repair stats on all currently in play creatures. Stat b
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

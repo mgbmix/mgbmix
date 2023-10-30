@@ -5,7 +5,8 @@ Faction: Bum Legion 2099
 Rarity: R2
 Funding Cost: 2F
 tags: 
-aliases: []
+aliases:
+  - Russian Bum Fire
 ---
 # Art
 
@@ -33,7 +34,7 @@ Throw an EXPLOSIVE PISS GRENADE at two neighboring enemies.
 
 # Card Nav
 
-| [[Sets\|SET]] | XXX |  
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | --- | --- |  
 | Next Card | XXXX |  
 | Previous Card | XXXX |  

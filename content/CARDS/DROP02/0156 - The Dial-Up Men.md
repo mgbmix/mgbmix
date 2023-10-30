@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R6
 Funding Cost: 3F
 tags: 
-aliases: []
+aliases:
+  - The Dial-Up Men
 ---
 # Art
 
@@ -29,7 +30,7 @@ When this card has seven or more phone number counters, you may reveal a Weapon 
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |

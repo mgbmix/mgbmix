@@ -5,7 +5,8 @@ Faction: FEMACUBE³
 Rarity: R2
 Funding Cost: 3F
 tags: 
-aliases: []
+aliases:
+  - FEMACUBECORPORATEPSYCHEVALUATION Page2
 ---
 # Art
 
@@ -29,7 +30,7 @@ Shuffle your newsfeed.
 
 # Card Nav
 
-| [[Sets\|SET]]           | XXXX |
+| [[Sets\|SET]] |  ![[BL2099.png]] 𐌢 ![[FEMAcube.png]] |
 | ------------- | ------------------------------ |
 | Next Card     | XXX |
 | Previous Card | XXX |
