@@ -12,7 +12,7 @@ Welcome to the knowledge base for -mgbmix-, my custom ruleset for use with Mondo
 > [!tip] latest version: 0.7  
 > Get the XML file [[0.7|here]]!
 
-> [!success] Join the Discord server! https://discord.gg/WUhSYj8Y
+> [!success] Join the Discord server! https://discord.gg/ggRZtBuRZU
 
 ^ac845d
 
