@@ -2,35 +2,37 @@
 aliases:
   - Items
 ---
-Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that attaches to creatures in play.
+# Item Cards
+
+Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that can attach to various targets.
 
 > [!note] [[Funding Cost]]
 > Items cost [[2F]] to [[deploy]].
 
  > [!warning] An Item card enters play unattached to any other card.
+ > An Item cannot be used for its effects until it is equipped to a valid target.
  
 > [!abstract] An Item card can be attached to a valid target by paying the [[equip]] cost of [[1F]].
+> This can be done if the Item is unattached or already attached to an existing target.
 
->[!abstract] Abilities From Items  
->If an Item card provides an ability, a friendly equipped Creature may use that ability at the cost of [[1F]] and an [[NRG]]-based action that turn.  
+>[!abstract] Abilities From Items Cost Funding to Use 
+>If an Item card provides an activated ability, you may use that ability at the cost of [[1F]]. This applies to Items equipped to Creatures you control, enemy Creatures, or any other valid target.
 >  
-> > [!Note]  
- You do not need to consider the NRG of an enemy Creature when equipped with your Item card. The [[1F]] cost remains but the NRG factor is ignored.  
 
 > [!todo] When a Creature equipped with an Item leaves play, the Item remains in play and may be equipped again. 
 
  >[!warning] An Item can also be forcefully unequipped if a creature's [[SWG]] stat drops below the threshold for how many items they are carrying.
+ > The Creature's controller chooses which Item becomes unequipped.
  
 > [!danger] If the active player has no Creatures in play at the end of their turn, there's nobody on board to defend the Items; they are looted by the masses (sent to discard pile).
+> This looting applies to all unattached Items that player controls (residing in their Active Zone), as well as any Items attached to their Active Zone by <u>any</u> player.
 
-  
-  
+## Item cards listed by Set and Subtype
 
-### Item cards listed by Set and Subtype
+### [[DROP01 - Fake Tech]]
 
-#### [[DROP01 - Fake Tech]]
-
-Items were prominently featured in this set, given its relation to technical commodities.
+Set contains 50 Items.
+Items were prominently featured in this set, given its relation to technological commodities.
 
 ##### [[Ammo]]
 > [!example]- Ammo cards (3)
@@ -118,4 +120,52 @@ Items were prominently featured in this set, given its relation to technical com
 >  - [[0026 - Verbal Word Bullets|Verbal Word Bullets]]
 >  - [[0001 - Wireless Vaccine+-|Wireless Vaccine+-]]
 
+
+### [[DROP02 - Bum Legion 2099 & F.E.M.A.C.U.B.E.3]]
+
+Set contains 19 Items.
+Items appear to some degree in this set.
+
+##### [[Armor]]
+> [!example]- Armor cards (2)
+>  - [[0107 - Armor of Don Quixote|Armor of Don Quixote]]
+>  - [[0127 - Wet Garbage Ghillie Suit|Wet Garbage Ghillie Suit]]
+
+##### [[Chromeware]]
+> [!example]- Chromeware cards (3)
+>  - [[0183 - Credible Threat Generator|Credible Threat Generator]]
+>  - [[0180 - Demonic Centrifuge|Demonic Centrifuge]]
+>  - [[0152 - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER|FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER]]
+
+##### [[Drug]]
+> [!example]- Drug cards (4)
+>  - [[0185 - Daylight Savings|Daylight Savings]]
+>  - [[0118 - Jenkem Whippet|Jenkem Whippet]]
+>  - [[0163 - Mindwipe Pill|Mindwipe Pill]]
+>  - [[0216 - Targeted Mutations|Targeted Mutations]]
+
+##### [[Food&Trash|Food / Trash]]
+> [!example]- Food / Trash cards (1)
+>  - [[0157 - Food|Food]]
+
+##### [[Gimmick]]
+> [!example]- Gimmick cards (1)
+>  - [[0178 - Poison Pen|Poison Pen]]
+
+##### [[Product And Or Service We Do Enjoy]]
+> [!example]- Product And Or Service We Do Enjoy cards (1)
+>  - [[0170 - Gas Station Adrenochrome|Gas Station Adrenochrome]]
+
+##### [[Tool]]
+> [!example]- Tool cards (3)
+>  - [[0154 - Sheeple Scanner|Sheeple Scanner]]
+>  - [[0214 - Sheeple Chipper|Sheeple Chipper]]
+>  - [[0221 - Lab Red Keycard|Lab Red Keycard]]
+
+##### [[Weapon]]
+> [!example]- Weapon cards (4)
+>  - [[0165 - Calamity Blast|Calamity Blast]]
+>  - [[0172 - ChillX Hypo-Pistol|ChillX Hypo-Pistol]]
+>  - [[0104 - Phonebook Armor|Phonebook Armor]]
+>  - [[0106 - Russian Bum Fire|Russian Bum Fire]]
 
