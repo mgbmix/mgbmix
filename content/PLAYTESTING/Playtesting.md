@@ -6,7 +6,7 @@ I definitely think Cockatrice is the best for the current state of the project, 
 
 - [[Cockatrice]]
 - [[Tabletop Simulator]]
-- [[Official itch.io Release]]
+- [[Official Release]]
 
 ## Cockatrice Installation
 

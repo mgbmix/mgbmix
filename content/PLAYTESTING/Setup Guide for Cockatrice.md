@@ -1,12 +1,12 @@
 
-# HOW TO SET UP [[COCKATRICE]]
+# HOW TO SET UP [[Cockatrice|COCKATRICE]]
 
 1. Go to the Cockatrice website [https://cockatrice.github.io/](https://cockatrice.github.io/ "https://cockatrice.github.io/") and download the program and install it.
 
 > [!note] Note for Linux users 
 > The website's installer might give you an outdated dependency error (it did for me). Instead, use the flatpak installer. I accessed the flatpak via my distro's Software Manager link with flathub.
 
-2. Download the [[Latest Files]] linked in the site's ⁠repository. There are currently three choices for download.
+2. Download the [[Latest Files]] linked in this site's ⁠repository. There are currently three choices for download.
 
 - The xml file will be posted uncompressed
 - The Images needed to be placed in Cockatrice will be linked to a Google Drive. You can view them and download a compressed folder containing them. 
