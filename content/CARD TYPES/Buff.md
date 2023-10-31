@@ -6,7 +6,7 @@ Buffs are a [[CARD TYPES/Card Type|card type]] that attaches to a valid Creature
  > [!note] [[Funding Cost]]  
  > Buffs cost [[1F]] to put into play.
  
- > [!tldr] A Buff card enters the battlefield attached to a valid target.
+ > [!tldr] A Buff card enters play attached to a valid target.
  
  > [!fail] A Buff card cannot be moved from one Creature to another after being attached. 
  

@@ -77,9 +77,9 @@ Increasing your own Narrative Score is called Proselytizing. It costs [[4F]] ins
 ### Funding
 For now, much of the funding costs are the same, though there are some differences.  
 
-> [!success] [[Funding]] rates are the same, 4 per turn and 20 max.
+> [!success] The [[Funding]] rates are the same, 4 per turn and 20 max.
 
-> [!abstract] BUT, you can also do an ability called "[[Fundraise]]" to gain more Funding at end of their turn. This requires a Seated Figurehead.
+> [!abstract] BUT, players can also do an ability called "[[Fundraise]]" to gain more Funding at end of their turn. This requires a Seated Figurehead.
 
 
 ### The Deck, The Hand, the Discard
