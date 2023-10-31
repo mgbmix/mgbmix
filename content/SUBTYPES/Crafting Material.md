@@ -1,8 +1,7 @@
 ---
 aliases:
   - Crafting Materials
-tags:
-  - subtype
+tags: []
 ---
 Crafting Materials are a subtype of [[Item]] cards.
 

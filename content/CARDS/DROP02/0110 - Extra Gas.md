@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, you may Proselytize at no cost.
+If you control this card at the end of your turn, you may [[Proselytize]] at no cost.
 
 [Running on Shit Fumes]
 - The next enemy attack or spell takes 3 turns to land.

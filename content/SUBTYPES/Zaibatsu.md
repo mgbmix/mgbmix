@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Zaibatsu are a subtype of [[Group]] cards.
 

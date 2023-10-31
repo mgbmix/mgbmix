@@ -1,8 +1,7 @@
 ---
 aliases:
   - scams
-tags:
-  - subtype
+tags: []
 ---
 Scams are a subtype of [[Tactic]] cards.
 

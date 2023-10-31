@@ -1,8 +1,7 @@
 ---
 aliases:
   - Enhancements
-tags:
-  - subtype
+tags: []
 ---
 Enhancements are a subtype of [[Buff]] cards.
 

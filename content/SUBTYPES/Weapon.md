@@ -1,8 +1,7 @@
 ---
 aliases:
   - weapons
-tags:
-  - subtype
+tags: []
 ---
 Weapons are a subtype of [[Item]] cards.
 

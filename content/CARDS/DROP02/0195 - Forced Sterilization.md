@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, this card performs your turn's Proselytize at no cost.
+If you control this card at the end of your turn, this card performs your turn's [[Proselytize]] at no cost.
 
 /Eugenius/ 
 Players can't deploy a Creature unless they sacrifice one already in play. 

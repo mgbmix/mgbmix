@@ -1,8 +1,7 @@
 ---
 aliases:
   - lackeys
-tags:
-  - subtype
+tags: []
 ---
 Lackeys are a subtype of [[Creature]] cards.
 

@@ -1,8 +1,7 @@
 ---
 aliases:
   - gimmicks
-tags:
-  - subtype
+tags: []
 ---
 Gimmicks are a subtype of [[Item]] cards.
 

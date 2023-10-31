@@ -1,7 +1,6 @@
 ---
 title: Food / Trash
-tags:
-  - subtype
+tags: []
 aliases:
   - Food / Trash
 ---

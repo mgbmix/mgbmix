@@ -1,8 +1,7 @@
 ---
 aliases:
   - bailouts
-tags:
-  - subtype
+tags: []
 ---
 Bailouts are a subtype of [[Tactic]] cards.
 

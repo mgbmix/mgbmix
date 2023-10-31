@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Magic Arts are a subtype of [[Skill]] cards.
 

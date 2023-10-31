@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Ammo are a subtype of [[Item]] cards.
 

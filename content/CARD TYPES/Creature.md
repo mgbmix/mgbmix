@@ -37,6 +37,12 @@ In short, the uses of each stat:
 - SWG = swag, ability to do and wear cool things 
 - PSI = psychological defences 
 
+### [[Creature Actions]]
+
+Creatures has a variety of effects they can perform during a single turn. These are called [[Creature Actions]], and they consist of effects such as attacking and using abilities.
+
+The use of Creature Actions is subject to [[Summoning Sickness|summoning sickness]].
+
 ### Creature cards listed by Set and Subtype
 
 #### [[DROP01 - Fake Tech]]

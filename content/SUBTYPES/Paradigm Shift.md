@@ -1,8 +1,7 @@
 ---
 aliases:
   - Paradigm Shifts
-tags:
-  - subtype
+tags: []
 ---
 Paradigm Shifts are a subtype of [[Plot Twist]] cards.
 

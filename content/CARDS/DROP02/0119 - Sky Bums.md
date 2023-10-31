@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, this card performs your turn's Proselytize at no cost.
+If you control this card at the end of your turn, this card performs your turn's [[Proselytize]] at no cost.
   
 /Psionic Bum Protection/ 
 While this card is on the field all Bum Legion creatures gain Max PSI points

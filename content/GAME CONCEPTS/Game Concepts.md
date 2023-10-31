@@ -6,7 +6,7 @@
 The most important system is the [[Narrative Score]], which is the deciding factor to winning or losing the game. 
 
 > [!todo] Increasing your Narrative Score and decreasing your opponent's Narrative Score are your main objectives over the course of a game. 
-#### Proselytize and Discredit
+#### [[Proselytize]] and Discredit
 
 Specific methods to do so are to [[Proselytize]] and [[Discredit]].
 

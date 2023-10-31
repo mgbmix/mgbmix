@@ -1,8 +1,7 @@
 ---
 aliases:
   - nemeses
-tags:
-  - subtype
+tags: []
 ---
 Nemeses are a subtype of [[Creature]] cards.
 

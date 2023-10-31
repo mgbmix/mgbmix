@@ -1,8 +1,7 @@
 ---
 aliases:
   - Tutorial Missions
-tags:
-  - subtype
+tags: []
 ---
 Tutorial Missions are a subtype of [[Challenge]] cards.
 

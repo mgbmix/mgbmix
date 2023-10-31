@@ -25,7 +25,7 @@ aliases:
 # Rules Text  
 
 /No-Call List/  
-At the end of each turn, add a phone number counter to this card.
+At the end of each player's turn, you may add a phone number counter to this card.
 When this card has seven or more phone number counters, you may reveal a Weapon card from your hand. If you do, you win the game.  
 
 # Card Nav

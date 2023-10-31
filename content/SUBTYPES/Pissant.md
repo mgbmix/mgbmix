@@ -1,8 +1,7 @@
 ---
 aliases:
   - Pissants
-tags:
-  - subtype
+tags: []
 ---
 Pissants are a subtype of [[Creature]] cards.
 

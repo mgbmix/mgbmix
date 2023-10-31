@@ -1,8 +1,7 @@
 ---
 aliases:
   - drugs
-tags:
-  - subtype
+tags: []
 ---
 Drugs are a subtype of [[Item]] cards.
 

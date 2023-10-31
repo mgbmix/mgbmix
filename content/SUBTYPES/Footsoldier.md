@@ -1,8 +1,7 @@
 ---
 aliases:
   - Footsoldiers
-tags:
-  - subtype
+tags: []
 ---
 Footsoldiers are a subtype of [[Creature]] cards.
 

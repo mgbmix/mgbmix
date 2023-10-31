@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, this card performs your turn's Proselytize at no cost.
+If you control this card at the end of your turn, this card performs your turn's [[Proselytize]] at no cost.
 
 /Condemnation/
 If this card is in your Hand and an opponent plays a gay card or one belonging to Rainbow R!ot, you may reveal this card.

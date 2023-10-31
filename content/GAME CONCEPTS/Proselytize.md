@@ -1,4 +1,4 @@
-To Proselytize is a [[Think Tank Actions|Think Tank action]] performed by a player's [[Seat|Seated]] [[Figurehead]] at the end of that player’s turn.
+To Proselytize is a [[Think Tank Actions|Think Tank action]] performed by a player's [[Seat|Seated]] [[Figurehead]] or an [[Agenda]] card at the end of that player’s turn.
 
 # Funding Cost
 

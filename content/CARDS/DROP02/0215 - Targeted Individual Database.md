@@ -24,7 +24,7 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, this card performs your turn's Proselytize at no cost.
+If you control this card at the end of your turn, this card performs your turn's [[Proselytize]] at no cost.
 
 /Good Mind Games/ 
 five (5) turns after Targeted Individual Database is put into play, 

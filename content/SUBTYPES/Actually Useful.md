@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Actually Useful are a subtype of [[Infomashun]] cards.
 

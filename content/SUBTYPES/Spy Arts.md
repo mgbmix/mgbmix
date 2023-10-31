@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Spy Arts are a subtype of [[Skill]] cards.
 

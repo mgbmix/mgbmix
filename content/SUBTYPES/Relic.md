@@ -1,8 +1,7 @@
 ---
 aliases:
   - relics
-tags:
-  - subtype
+tags: []
 ---
 Relics are a subtype of [[Item]] cards.
 

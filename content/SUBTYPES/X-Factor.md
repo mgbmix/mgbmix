@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 X-Factor are a subtype of [[Buff]] cards.
 

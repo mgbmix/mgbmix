@@ -3,7 +3,7 @@
 
 ### What makes Figurehead Creatures special?
 
-#### Think Tank Actions: Fundraise and Proselytize
+#### Think Tank Actions: Fundraise and [[Proselytize]]
 
 Figureheads can be brought into the player's [[Think Tank]] (only one at a time) to perform special actions such as [[Proselytize]] and [[Fundraise]].
 

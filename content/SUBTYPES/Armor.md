@@ -1,8 +1,7 @@
 ---
 aliases:
   - armors
-tags:
-  - subtype
+tags: []
 ---
 Armor are a subtype of [[Item]] cards.
 

@@ -1,8 +1,7 @@
 ---
 aliases:
   - realms
-tags:
-  - subtype
+tags: []
 ---
 Realms are a subtype of [[Location]] cards.
 

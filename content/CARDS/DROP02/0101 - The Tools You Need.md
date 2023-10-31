@@ -24,10 +24,10 @@ aliases:
 
 # Rules Text
 
-If you control this card at the end of your turn, you may Proselytize at no cost.
+If you control this card at the end of your turn, you may [[Proselytize]] at no cost.
 
-[JACKED UP] You feel that?
-- Up to two (2) Bum Legion: 2099 cards currently in play gain 2X DMG for three (3) turns.
+/JACKED UP/ 
+When you deploy this card, up to two (2) Bum Legion 2099 cards currently in play gain 2X DMG for three (3) turns.
 - At the end of three (3) turns, buff wears off and affected creature take 200 DMG. Use aggressively.  
 
 # Card Nav

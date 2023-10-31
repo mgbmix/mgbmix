@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Feather-In-Cap are a subtype of [[Buff]] cards.
 

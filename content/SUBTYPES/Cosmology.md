@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Cosmology are a subtype of [[Infomashun]] cards.
 

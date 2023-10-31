@@ -2,8 +2,7 @@
 aliases:
   - Factions
   - Faction
-tags:
-  - subtype
+tags: []
 ---
 Factions are a subtype of [[Group]] cards.
 

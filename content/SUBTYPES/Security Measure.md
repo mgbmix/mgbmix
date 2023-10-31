@@ -1,8 +1,7 @@
 ---
 aliases:
   - Security Measures
-tags:
-  - subtype
+tags: []
 ---
 Security Measures are a subtype of [[Tactic]] cards.
 

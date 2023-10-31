@@ -1,6 +1,5 @@
 ---
-tags:
-  - subtype
+tags: []
 ---
 Real Estate are a subtype of [[Location]] cards.
 

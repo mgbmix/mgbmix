@@ -1,8 +1,7 @@
 ---
 aliases:
   - tools
-tags:
-  - subtype
+tags: []
 ---
 Tools are a subtype of [[Item]] cards.
 

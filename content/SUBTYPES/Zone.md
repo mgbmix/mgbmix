@@ -1,7 +1,6 @@
 ---
 aliases: 
-tags:
-  - subtype
+tags: []
 ---
 Zones are a subtype of [[Location]] cards.
 

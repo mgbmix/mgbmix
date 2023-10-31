@@ -1,8 +1,7 @@
 ---
 aliases:
   - Power-Ups
-tags:
-  - subtype
+tags: []
 ---
 Power-Ups are a subtype of [[Buff]] cards.
 

@@ -49,6 +49,8 @@ The opponent's [[Active Zone]] must be empty to target their Agenda.
 
 ### Repercussions of Losing an Agenda
 
-Having an Agenda in play be sent to your history results in -1 Narrative Score.
+Having an Agenda in play be sent to your history by a Discredit attack results in -1 Narrative Score.
+
+Agendas lost due to Plot Twists do not suffer this penalty.
 
 
