@@ -24,12 +24,12 @@ aliases:
 
 # Rules Text  
 
-This Skill [[Equip|equips]] for a [[1F]] cost to a target.  
+This Skill [[Equip|equips]] for a [[1F]] cost to your [[Active Zone]].  
 Once equipped, this Skill cannot be moved to another target.  
-When the attached target leaves play, send this card to discard.  
+At the end of your turn, if you control no active Creatures, send this card to [[History|history]].  
 
-/Now You're Really Bummin'/ 
-All Bum Legion creatures you control gain +1 on all stats as long as this card is equipped to your Active Zone.
+/Now You're Really Bummin'/  
+All Bum Legion creatures you control gain +1 on all stats as long as this card is equipped to your Active Zone.  
 
 # Card Nav
 
