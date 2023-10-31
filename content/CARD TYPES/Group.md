@@ -11,8 +11,7 @@ Groups are a [[CARD TYPES/Card Type|card type]] whose effects and benefits work 
  
  - Group cards benefit friendly creatures only. They have no effect on opposing creatures.
  - A player’s Group card cannot be removed from play by their opponents as long as their [[Active Zone]] has at least one [[Creature]] of the group’s [[Faction|faction]] residing.
- - When a player has no Creatures of the same Faction to defend, the Group card can be removed with a single [[Discredit]] attack from a Creature with 8 [[INT]] or higher.
-
+ - When a player has no Creatures of the same Faction to defend, the Group card can be removed with a single [[Discredit]] attack from a valid Creature.
 
 ### Group cards listed by Set and Subtype
 

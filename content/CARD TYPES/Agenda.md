@@ -16,32 +16,31 @@ Agendas are a complex card type that directly help advance the player's Narrativ
 
 ### Agenda Cards' Passive Ability: Advance Narrative
 
-Agenda cards directly help the player win the game, and as such can be considered a win condition (along with Figureheads and any Creatures with INT 8 or higher).
+Agenda cards directly help the player win the game, and as such can be considered a win condition (along with [[Figurehead|Figureheads]] and any Creatures with [[INT]] 8 or higher).
 
 > [!todo] Advance Narrative
-If you control an Agenda card at the end of your turn, you may have that card Proselytize at no cost.
+> If you control an Agenda card at the end of your turn, you may have that card [[Proselytize]] at no cost.
 
 Given that all Agenda cards cost 4F, the no-cost Proselytize is basically wrapped in the Funding cost for the card. Most Agenda cards have additional effects when in play.
 
 > [!warning] Note
-> I'm not sure whether players can ALSO Proselytize with their Seated FIgurehead that turn (for +2 Narrative Score in same turn). That could mean that players conceivably could win from starting their turn at 3 Narrative out of 5. Remains to be seen with playtesting what's the better option.
-
+> I'm not sure whether players can ALSO Proselytize with their Seated FIgurehead that turn (for +2 Narrative Score in same turn). That could mean that players conceivably could win from starting their turn at 3 Narrative out of 5. Remains to be seen with playtesting what's the better option. For now they can. Why not.
 
 ### Ways to Destroy an Opposing Agenda
 
 #### Using Creatures
 
-The opponent's Active Zone must be empty to target their Agenda.
+The opponent's [[Active Zone]] must be empty to target their Agenda.
 
-An Agenda may be sent to history with a single Discredit attack from the following Creatures:
-
-- Any Creatures with INT 8 or higher
-- Any Creatures of the subtypes 
-  - Figurehead
-  - Revolutionary
-  - Bad Actor
-  - Double Agent
-- Any other Creatures whose rules text or abilities state they may target Agendas.
+> [!example]+ An Agenda may be sent to [[History|history]] with a single [[Discredit]] attack from the following Creatures:
+>
+>- Any Creatures with INT 8 or higher
+>- Any Creatures of the subtypes 
+> >- Figurehead
+> >- Revolutionary
+> >- Bad Actor
+> >- Double Agent
+> - Any other Creatures whose rules text or unique abilities state they may target Agendas.
 
 #### Using Plot Twists
 

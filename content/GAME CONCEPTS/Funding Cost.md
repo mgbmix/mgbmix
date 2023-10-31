@@ -14,6 +14,7 @@ These are all when considering the cost to deploy a single card.
 > Buffs, Debuffs, Plot Twists, & Skills cost [[1F]]  
 > Items & Tactics cost [[2F]]  
 > Groups cost [[3F]]  
+> Agendas cost [[4F]]
 
 ### Rarity-based Funding Cost
 

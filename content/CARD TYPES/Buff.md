@@ -3,8 +3,8 @@ title: Buff & Debuff
 ---
 Buffs are a [[CARD TYPES/Card Type|card type]] that attaches to a valid Creature in play as it is [[Deploy|deployed]].
 
- > [!note] [[Funding Cost]]  
- > Buffs cost [[1F]] to put into play.
+ > [!note] Buff [[Funding Cost]]  
+ > Buffs cost [[1F]] to [[Deploy|deploy]] from [[Hand]].
  
  > [!tldr] A Buff card enters play attached to a valid target.
  
