@@ -8,7 +8,7 @@
 
 2. Download the [[Latest Files]] linked in this site's ⁠repository. There are currently three choices for download.
 
-- The xml file will be posted uncompressed
+- The xml file will be posted uncompressed. You'll need to copy the contents and save them into a text file as 'cards.xml'
 - The Images needed to be placed in Cockatrice will be linked to a Google Drive. You can view them and download a compressed folder containing them. 
 - The custom theme that improves Cockatrice's coloring and includes the Mondo cardback and mini-hand assets.
 
@@ -62,7 +62,7 @@ to add the folders from google drive, continue on with Step 10.
 
 10. Additionally, you can add the Mondo Megabits card images if you downloaded the archive containing them. From that "base data directory" where you put the 'cards.xml' file, open the pics folder, then the CUSTOM folder, and copy into that directory the entire folder named "D01" from the Google Drive. This screenshot shows an example of where the "D01" folder containing all the images should be located.
 
-> [!warning] NB: Don't change the name of the "D01" folder.
+> [!warning] NB: Don't change the name of the "D01" or "D02" folder.
 
 ![[cockatrice-mondo-pics-location.png]]
 
@@ -74,7 +74,9 @@ to add the folders from google drive, continue on with Step 10.
 ![[Screenshot at 2023-10-19 01-26-47.png]]
 
 
-12. That's it! The next time you open Cockatrice, it might notify you about detecting a new database and show you the sets included, but all the cards will be browsable in the deck editor. Some of the sorting columns work and some don't, just a limitation of using a program aimed at M:tG. From here you can look over the cards, build decks, playtest offline, or log into the public server and play against other people who have the mondo cardsets installed. 
+12. That's it! The next time you open Cockatrice, it might notify you about detecting a new database and show you the sets included, but all the cards will be browsable in the deck editor. 
+
+Some of the sorting columns work and some don't, just a limitation of using a program aimed at M:tG. From here you can look over the cards, build decks, playtest offline, or log into the public server and play against other people who have the mondo cardsets installed. 
 
 ![[Screenshot at 2023-10-19 01-30-10.png]]
 An example of what Cockatrice's deck editor looks like with -mgbmix- cards and custom theme loaded.

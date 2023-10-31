@@ -7,7 +7,7 @@ Agendas are a complex card type that directly help advance the player's Narrativ
  > [!note] [[Funding Cost]]  
  > Agendas cost [[4F]] to deploy.
 
- > [!tldr] An Agenda card enters play in its controller's Think Thank area.
+ > [!tldr] An Agenda card enters play in its controller's [[Think Tank]] area.
  
  > [!warning] A player can have only one Agenda in play at once.
  
@@ -34,12 +34,12 @@ The opponent's [[Active Zone]] must be empty to target their Agenda.
 
 > [!example]+ An Agenda may be sent to [[History|history]] with a single [[Discredit]] attack from the following Creatures:
 >
->- Any Creatures with INT 8 or higher
+>- Any Creatures with [[INT]] 8 or higher
 >- Any Creatures of the subtypes 
-> >- Figurehead
-> >- Revolutionary
-> >- Bad Actor
-> >- Double Agent
+> >- [[Figurehead]]
+> >- [[Revolutionary]]
+> >- [[Bad Actor]]
+> >- [[Double Agent]]
 > - Any other Creatures whose rules text or unique abilities state they may target Agendas.
 
 #### Using Plot Twists

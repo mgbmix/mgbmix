@@ -1,5 +1,11 @@
 # Discredit - The Memetic Attack
 
+### General Rules About Discrediting
+
+#### It's a form of attack, which means...
+- Creatures cannot do a [[STR]]-based regular attack and an [[INT]]-based Discredit attack unless their [[FYT]] stat is high enough to allow for additional fighting.
+- Creatures cannot Discredit and use abilities in the same turn unless their [[SWG]] stat is five or higher. 
+
 ## The Discredit Attack Answers Multiple Threats
 
 ### Attacking Opponent's Narrative Score
@@ -16,8 +22,7 @@ Discrediting an opposing [[Narrative Score|Narrative]] is an effective way of wi
 #### Additional Notes on Discredit Attacks Targeting Narrative
 
 - Discredit attacks do not alter the [[HP]] of the opponent’s seated [[Figurehead]].
-- Creatures cannot do a [[STR]]-based regular attack and an [[INT]]-based Discredit attack unless their [[FYT]] stat is high enough to allow for additional fighting.
-- Creatures cannot Discredit and use abilities in the same turn unless their [[SWG]] stat is five or higher. 
+
 
 
 ### Dismantling Agenda & Group Cards in Play 
