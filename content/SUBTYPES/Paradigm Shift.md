@@ -5,6 +5,10 @@ tags: []
 ---
 Paradigm Shifts are a subtype of [[Plot Twist]] cards.
 
+### Unique Plot Twist Effect
+
+When any Plot Twist card of the Paradigm Shift subtype is activated, all [[Agenda|Agendas]] and [[Tactic|Tactics]] in play are sent to discard. This effect applies to all players.
+
 
 
 ### Paradigm Shift cards listed by Set

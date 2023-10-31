@@ -24,7 +24,8 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
+/Bad News/  
+When you activate this card, each player must discard one card from Hand (if possible).
 
 /Stage 4 Mutation/ 
  The heat, radiation, and bioslime-line craters that pockmark the battlefield gives creature cards gross mutations and cancer.

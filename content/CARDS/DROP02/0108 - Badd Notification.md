@@ -24,7 +24,8 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
+/Bad News/  
+When you activate this card, each player must discard one card from Hand (if possible).
 
 [Game Over] Lose it all.
 Choose a creature controlled by target player.
