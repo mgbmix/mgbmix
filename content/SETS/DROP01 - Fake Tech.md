@@ -14,7 +14,7 @@ Drop01 is represented in [[Cockatrice]] by the shorthand [[Sets|Set]] code __D01
 
 > [!example]+ DROP01 contains the following type breakdown:  
 >
-> [[Agenda]]: 0 cards
+> [[Agenda]]: 0 cards  
 > [[Buff]]: 4 cards  
 > [[Challenge]]: 1 card  
 > [[Creature]]: 11 cards  

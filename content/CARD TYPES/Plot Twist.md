@@ -13,19 +13,30 @@ Plot Twists are a dynamic [[CARD TYPES/Card Type|card type]] that can drasticall
 > Given that they are face-down and also in the [[Think Tank]] area, Plot Twists may be combined with the player’s [[Stowed Hand]], as long as proper costs and rules are observed when each card is played.
 
  - When a player reveals their Plot Twist card, initiate its effects and then send it to discard. 
+## Plot Twist Main Effect = Sideline Agendas and Tactics
 
-### Unique Plot Twist Effects
+Every Plot Twist card, upon activation will sideline all Agendas and Tactics in play for one (1) turn. 
 
-A few of the Plot Twist subtypes have special effects when you activate them:
+Beyond this, Plot Twists have many other effects.
+### Special Plot Twist Effects
+
+Each Plot Twist subtype has a special effect when you activate it:
 
 #### Paradigm Shifts = Boardwipe for [[Agenda|Agendas]] and Tactics
 
 - When any Plot Twist card of the [[Paradigm Shift]] subtype is activated, all [[Agenda|Agendas]] and [[Tactic|Tactics]] in play are sent to discard. This effect applies to all players.
 
-#### Bad News = All Players Discard
+#### Bad News = All Players Send Cards From Newsfeed to History
 
-- When any Plot Twist of the [[Bad News]] subtype is activated, each player must discard one card for their Hand if possible. 
+- When any Plot Twist of the [[Bad News]] subtype is activated, each player puts the top three (3) cards of their newsfeed into their history.
 
+#### Boobie Trap = Target Player Discards One Card
+
+- When any Plot Twist of the [[Boobie Trap]] subtype is activated, target player discards one card from Hand (if possible).
+
+#### Sudden Death = Chance to Lose a Creature
+
+- When any Plot Twist of the [[Sudden Death]] subtype is activated, all players select an active Creature they control (if possible) and then roll a d6. Whichever player(s) rolled the lowest value must sacrifice their selected Creature. If all players rolled the same value, no creature is sacrificed.
 
 
 ### Plot Twist cards listed by Set and Subtype
@@ -65,4 +76,3 @@ A few of the Plot Twist subtypes have special effects when you activate them:
 ##### [[Sudden Death]]
 > [!example]- Sudden Death cards (1)
 >  - [[0189 - Wave Check Point|Wave Check Point]]
->- 
