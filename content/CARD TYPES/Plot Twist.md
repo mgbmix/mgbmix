@@ -18,7 +18,7 @@ Plot Twists are a dynamic [[CARD TYPES/Card Type|card type]] that can drasticall
 
 A few of the Plot Twist subtypes have special effects when you activate them:
 
-#### Paradigm Shifts = Boardwipe for Agendas and Tactics
+#### Paradigm Shifts = Boardwipe for [[Agenda|Agendas]] and Tactics
 
 - When any Plot Twist card of the [[Paradigm Shift]] subtype is activated, all [[Agenda|Agendas]] and [[Tactic|Tactics]] in play are sent to discard. This effect applies to all players.
 

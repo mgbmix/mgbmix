@@ -25,7 +25,7 @@ aliases:
 # Rules Text  
 
 /History's Tourist/ 
-- Hoaxes, tactics and agenda cards do not affect any creatures with less than 6 INT.
+- Hoaxes, tactics and [[agenda]] cards do not affect any creatures with less than 6 INT.
 - Food/Trash items have no negative effects
 - For each Bum Legion 2099 creature in play, one (1) FEMACUBE³ creature you control gains 25 HP.
 

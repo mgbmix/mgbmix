@@ -24,11 +24,18 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
 
-Trip Hazard: 2 last used enemy creatures are stunned for two (2) turns.
+/Plot Twist/  
+When you activate this card, [[sideline]] all [[Agenda|Agendas]] and Tactics for one (1) turn.  
 
-dream shatterer: all agenda cards in play are foiled. does not include narrative cards
+/Boobie Trap/  
+When you activate this card, target player discards one card from Hand (if possible).  
+ 
+Trip Hazard: 
+2 last used enemy creatures are stunned for two (2) turns.
+
+dream shatterer: 
+all [[agenda]] cards in play are foiled. does not include narrative cards (Does not affect Narrative Score?)
 
 # Card Nav
 

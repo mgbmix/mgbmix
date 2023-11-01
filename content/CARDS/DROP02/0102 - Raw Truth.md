@@ -24,8 +24,12 @@ aliases:
 
 # Rules Text  
 
-When you activate this card, send all Agendas and [[Tactic|Tactics]] in play to the discard. This effect applies to all players.  
+/Plot Twist/  
+When you activate this card, [[sideline]] all [[Agenda|Agendas]] and Tactics for one (1) turn.  
 
+/Boobie Trap/  
+When you activate this card, target player discards one card from Hand (if possible).  
+ 
 /Unappetizing/ 
 Your opponents reveal their Stowed Hands. All opposing Food cards in play and in Hand are sent to discard.
 

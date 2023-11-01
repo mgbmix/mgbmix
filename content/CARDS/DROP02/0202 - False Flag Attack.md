@@ -24,8 +24,11 @@ aliases:
 
 # Rules Text  
 
+/Plot Twist/  
+When you activate this card, [[sideline]] all [[Agenda|Agendas]] and Tactics for one (1) turn.
+
 /Bad News/  
-When you activate this card, each player must discard one card from Hand (if possible).
+When you activate this card, each player puts the top three (3) cards of their newsfeed into their history.  
 
 Just As Planned: 
 Choose any opponent-controlled creature. 
