@@ -2,7 +2,7 @@
 aliases:
   - Agendas
 ---
-Agendas are a complex card type that directly help advance the player's Narrative Score.
+Agendas are a complex [[CARD TYPES/Card Type|card type]] that directly help advance the player's [[Narrative Score]].
 
  > [!note] [[Funding Cost]]  
  > Agendas cost [[4F]] to deploy.
@@ -12,7 +12,7 @@ Agendas are a complex card type that directly help advance the player's Narrativ
  > [!warning] A player can have only one Agenda in play at once.
  > If their active Agenda is dismantled, that player may deploy another one.
  
->[!todo] Once per game, a player may use a Think Tank action called Pivot to exchange an Agenda in play with an Agenda in their Hand at no Funding cost. 
+>[!todo] Once per game, a player may use a Think Tank action called [[Pivot]] to exchange an Agenda in play with an Agenda in their Hand at no Funding cost. 
 >This expends the Seated Figurehead's end-of-turn action (cannot Proselytize or Fundraise that turn).
 
 ### Agenda Cards' Passive Ability: Advance Narrative

@@ -25,3 +25,16 @@ Groups are a [[CARD TYPES/Card Type|card type]] whose effects and benefits work 
 > [!example]- Zaibatsu cards (1)
 >  - [[0088 - APPLY|APPLY]]
 
+ ---
+
+#### [[DROP02 - Bum Legion 2099 & F.E.M.A.C.U.B.E.3]]
+
+##### [[Cabal]]
+> [!example]- Cabal cards (2)
+>  - [[0103 - Bum Army|Bum Army]]
+>  - [[0145 - The Agency of Small Evenly-Distributed Pools of Water|The Agency of Small Evenly-Distributed Pools of Water]]
+
+##### [[Clique]]
+> [!example]- Clique cards (1)
+>  - [[0156 - The Dial-Up Men|The Dial-Up Men]]
+

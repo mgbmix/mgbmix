@@ -2,11 +2,16 @@
 aliases:
   - Factions
 ---
+# Faction = Memetic Allegiance
+
+In a loose, lore way, Factions represent different ideological collectives inside the game world. A Faction's "principles" and "ideology" don't really matter, you should just focus on the rules text in the cards and how they interact with each other.
+
+
 # List of Factions
 
 [[Fake Tech]]  
-F.E.M.A.C.U.B.E.^3  
-Bum Legion 2099  
+[[FEMACUBE³]]
+[[Bum Legion 2099]]  
 
 # Groups Subtype
 

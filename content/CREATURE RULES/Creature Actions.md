@@ -2,16 +2,24 @@
 
 'Creature Actions' refers to a loose collection of things that any Creature card is capable of doing.
 
+#### Summoning Sickness affects Creature Actions
+
+> [!warning] The following things listed as Creature Actions cannot be done on a turn in which a Creature card is [[Summoning Sickness|summoning sick]].
+
 ## Two Major Actions
 
 ### Attacking (Two Forms)
-#### STR-based Physical Attacks
 
-A Creature may attack enemy Creatures with a Physical Attack to deal DMG to that Creature's HP stat. A Physical Attack is calculated by the attacker's STR stat multiplied by 100 to get the resulting DMG.
+There are two ways for Creatures to perform attacks.
+#### [[STR]]-based Physical Attacks
+
+A Creature may attack enemy Creatures with a Physical Attack to deal [[DMG]] to that Creature's [[HP]] stat. A Physical Attack is calculated by the attacker's [[STR]] stat multiplied by 100 to get the resulting [[DMG]].
 
 #### INT-based Discredit Attacks
 
-A Creature may attack enemy concepts such as Groups, Agendas, and Narratives with a Discredit Attack, as long as that Creature meets certain criteria. Not all Creatures can perform Discredit attacks.
+A Creature may attack enemy concepts such as Groups, Agendas, and Narratives with a [[Discredit]] Attack, as long as that Creature meets certain criteria. 
+
+> [!warning] Not all Creatures can perform Discredit attacks.
 
 #### Number of Attacks Dictated by FYT stat
 

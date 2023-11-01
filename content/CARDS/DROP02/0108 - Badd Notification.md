@@ -24,12 +24,18 @@ aliases:
 
 # Rules Text  
 
-/Bad News/  
-When you activate this card, each player must discard one card from Hand (if possible).
+/Plot Twist/  
+When you activate this card, sideline all Agendas and Tactics for one (1) turn.
 
-[Game Over] Lose it all.
-Choose a creature controlled by target player.
-- The targeted player sacrifices that creature and all Items they control in their Active Zone
+/Bad News/  
+When you activate this card, each player puts the top three (3) cards of their newsfeed into their history.  
+
+/Castration/  
+This card only affects targets that are Male or have Nuts DMG.  
+  
+[Game Over] Lose it all.  
+Target an enemy active Creature.  
+- That Creature's controller sacrifices it and all Items they control equipped to that Creature.
 
 # Card Nav
 

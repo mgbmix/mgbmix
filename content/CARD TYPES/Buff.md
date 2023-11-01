@@ -1,5 +1,9 @@
 ---
 title: Buff & Debuff
+aliases:
+  - Buffs
+  - Debuff
+  - Debuffs
 ---
 Buffs are a [[CARD TYPES/Card Type|card type]] that attaches to a valid Creature in play as it is [[Deploy|deployed]].
 

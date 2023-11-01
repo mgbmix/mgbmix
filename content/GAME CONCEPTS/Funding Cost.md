@@ -10,11 +10,11 @@ These are all when considering the cost to deploy a single card.
 
 >[!example] Some card types have a fixed Funding cost to bring into play:
 >
-> Locations & free contest Challenges cost [[0F]]  
-> Buffs, Debuffs, Plot Twists, & Skills cost [[1F]]  
-> Items & Tactics cost [[2F]]  
-> Groups cost [[3F]]  
-> Agendas cost [[4F]]
+> [[CARD TYPES/Location|Locations]] & [[Challenge#Free Contest Challenges|free contest Challenges]] cost [[0F]]  
+> [[Buff|Buffs]], [[Buff|Debuffs]], [[Plot Twist|Plot Twists]], & [[Skill|Skills]] cost [[1F]]  
+> [[Item|Items]] & [[Tactic|Tactics]] cost [[2F]]  
+> [[Group|Groups]] cost [[3F]]  
+> [[Agenda|Agendas]] cost [[4F]]
 
 ### Rarity-based Funding Cost
 

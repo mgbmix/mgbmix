@@ -24,11 +24,11 @@ It ranges from -5 to +5, with each extreme being instant defeat or victory.
 ### Affecting Narrative Score
 
 > [!note] Gaining Narrative Score
-> To increase Narrative Score by +1, use the [[Think Tank]] [[Figurehead]] to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 
+> - One way to increase Narrative Score by +1 is to use the [[Seat|Seated]] [[Figurehead]] to [[Proselytize]] ([[4F]] [[Funding Cost|cost]]). 
+> - Another way to increase Narrative Score by +1 is to control an [[Agenda]] card at the end of your turn and use it to Proselytize at no further cost.
 
 > [!note] Attacking Narrative Score
-> To decrease opponent’s Narrative Score by -1, use a [[Creature]] with [[INT]] stat 8 or higher to perform a [[Discredit]] attack (if possible).
-
+> To decrease opponent’s Narrative Score by -1, use a [[Creature]] capable of performing a [[Discredit]] attack. (Limitations exist to when Discredit attacks may be done.)
 
 
 #### Other Points on Narrative Score
