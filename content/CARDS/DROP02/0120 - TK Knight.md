@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 350 [[STR]]: 5 [[INT]]: 4 [[FYT]]: 5 [[NRG]]: 6 [[SWG]]: 4 [[PSI]]: 8  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  350   |    5    |    4    |    5    |    6    |    4    |    8    | 
+
+## Text
 
 [Pick Up a Guy With You Mind Throw Him at a Wall Hahaha] 
 - 150 DMG.

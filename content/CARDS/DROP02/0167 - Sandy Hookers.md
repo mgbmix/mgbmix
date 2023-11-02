@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 35 [[STR]]: 2 [[INT]]: 2 [[FYT]]: 1 [[NRG]]: 1 [[SWG]]: 1 [[PSI]]: 1  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|   35   |    2    |    2    |    1    |    1    |    1    |    1    | 
+
+## Text
 
 /They’re Everywhere/ 
 Once the initial cost to play has been paid, 

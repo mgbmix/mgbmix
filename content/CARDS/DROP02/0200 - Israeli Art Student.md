@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 150 [[STR]]: 5 [[INT]]: 8 [[FYT]]: 7 [[NRG]]: 4 [[SWG]]: 3 [[PSI]]: 8  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  150   |    5    |    8    |    7    |    4    |    3    |    8    | 
+
+## Text
 
 [Krav Maga Temper Tantrum]
 - Israeli Art Student deals 75 DMG to any attacking creature for the next three (3) turns;

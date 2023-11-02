@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 350 [[STR]]: 4 [[INT]]: 5 [[FYT]]: 2 [[NRG]]: 4 [[SWG]]: 3 [[PSI]]: 7  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  350   |    4    |    5    |    2    |    4    |    3    |    7    | 
+
+## Text
 
 /Non-Violent/ Understandroid cannot attack.  
 

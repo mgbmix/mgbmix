@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 225 [[STR]]: 4 [[INT]]: 7 [[FYT]]: 6 [[NRG]]: 1 [[SWG]]: 5 [[PSI]]: 1  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  225   |    4    |    7    |    6    |    1    |    5    |    1    | 
+
+## Text
 
 [The Clean-Up] 
 Deals 625 DMG to all Gross Shift and BRICS creatures on the field.

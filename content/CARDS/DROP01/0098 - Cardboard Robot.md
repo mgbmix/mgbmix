@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 100 [[STR]]: 2 [[INT]]: 1 [[FYT]]: 2 [[NRG]]: 0 [[SWG]]: 3 [[PSI]]: 1  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  100   |    2    |    1    |    2    |    0    |    3    |    1    | 
+
+## Text
 
 If you have a Tantillo Systems creature in play, Cardboard Robot can be retrofitted to use [[weapon]] items - making him less of a bitch.  
 

@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 150 [[STR]]: 2 [[INT]]: 6 [[FYT]]: 2 [[NRG]]: 7 [[SWG]]: 2 [[PSI]]: 6  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  150   |    2    |    6    |    2    |    7    |    2    | 6        |
+
+## Text
 
 /Achilles Heel/ 
 - Immune to Guns DMG.

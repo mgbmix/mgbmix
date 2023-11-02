@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 600 [[STR]]: 4 [[INT]]: 8 [[FYT]]: 2 [[NRG]]: 7 [[SWG]]: 6 [[PSI]]: 9  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  600   |    4    |    8    |    2    |    7    |    6    |    9    | 
+
+## Text
 
 [Reboot - - - Net-Wide Data Outage] 
 All unequipped Skill cards and unused Tactic cards in play are sent to their owner's history. 

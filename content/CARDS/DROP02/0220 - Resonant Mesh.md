@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 850 [[STR]]: 9 [[INT]]: 5 [[FYT]]: 8 [[NRG]]: 10 [[SWG]]: 9 [[PSI]]: 7  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  850   |    9    |    5    |    8    |   10    |    9    |    7    | 
+
+## Text
 
 /Resonate Assemble/ 
 This creature must assemble itself taking one (1) turn.

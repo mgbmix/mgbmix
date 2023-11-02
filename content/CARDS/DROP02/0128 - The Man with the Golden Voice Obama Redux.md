@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 175 [[STR]]: 4 [[INT]]: 6 [[FYT]]: 5 [[NRG]]: 3 [[SWG]]: 5 [[PSI]]: 8  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  175   |    4    |    6    |    5    |    3    |    5    |    8    | 
+
+## Text
 
 [Gratitude and Grace] 
 Target creature takes 25 DMG

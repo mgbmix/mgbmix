@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 230 [[STR]]: 9 [[INT]]: 3 [[FYT]]: 9 [[NRG]]: 0 [[SWG]]: 8 [[PSI]]: 0  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  230   |    9    |    3    |    9    |    0    |    8    |    0    | 
+
+## Text
 
 If one of your opponents controls a Monkey creature when you deploy this card, 
 you may sacrifice a non-Monkey creature you control.

@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 450 [[STR]]: 4 [[INT]]: 6 [[FYT]]: 6 [[NRG]]: 5 [[SWG]]: 2 [[PSI]]: 9  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  450   |    4    |    6    |    6    |    5    |    2    |    9    | 
+
+## Text
 
 [Ragist Prison Break] 
 Before Caged Ragist can be put into play, you must destroy his cage.

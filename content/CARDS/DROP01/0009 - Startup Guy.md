@@ -31,7 +31,14 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 250 [[STR]]: 2 [[INT]]: 5 [[FYT]]: 3 [[NRG]]: 3 [[SWG]]: 3 [[PSI]]: 5  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+| :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| 250    | 2       | 5       | 3       | 3       | 3       | 5       | 
+
+
+## Text
 
 [Report User] Pick an enemy creature card to report.
 If creature is Whypeepo or D.U.D.E.: Fellas Rising faction, ban instantly (kill). All other creatures take 100 [[DMG|Snitching DMG]].  

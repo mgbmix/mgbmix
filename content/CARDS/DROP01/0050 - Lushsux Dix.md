@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 1100 [[STR]]: 6 [[INT]]: 9 [[FYT]]: 4 [[NRG]]: 3 [[SWG]]: 5 [[PSI]]: 2  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  110   |    6    |    9    |    4    |    3    |    5    |    2    | 
+
+## Text
 
 [Tokenize Haters] Usable once. Lushsux Dix can tokenize a 5 INT or lower creature, selling him on OpenSea for 250 HP. Tokenized creature is unable to act without paying hefty gas fees (1 extra funding cost per action).  
 

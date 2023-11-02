@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 150 [[STR]]: 2 [[INT]]: 10 [[FYT]]: 2 [[NRG]]: 6 [[SWG]]: 3 [[PSI]]: 7  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  150   |    2    |   10    |    2    |    6    |    3    |    7    | 
+
+## Text
 
 [The Only 'God' that Exists, is ME] 
 Search your deck until you find three (3) cards from any of the following factions: 

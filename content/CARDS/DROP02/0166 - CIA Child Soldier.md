@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 425 [[STR]]: 4 [[INT]]: 6 [[FYT]]: 2 [[NRG]]: 6 [[SWG]]: 4 [[PSI]]: 6  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  425   |    4    |    6    |    2    |    6    |    4    |    6    | 
+
+## Text
 
 [Temper Tantrum] 
 - 75 DMG to target active Creature. Flip a coin, if heads, the attack is followed by an additional 200 firearm DMG.

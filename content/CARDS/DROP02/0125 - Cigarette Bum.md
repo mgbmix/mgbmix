@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 400 [[STR]]: 4 [[INT]]: 3 [[FYT]]: 4 [[NRG]]: 3 [[SWG]]: 2 [[PSI]]: 7  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  400   |    4    |    3    |    4    |    3    |    2    |    7    | 
+
+## Text
 
 [Story Time, How I Became Homeless, It Can Happen To Anyone, Let Me Tell You About My Life] 
 - Every Hive/PinkBean/Rainbow R!ot enemy card becomes inactive for the next two (2) turns.

@@ -31,7 +31,14 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 250 [[STR]]: 10 [[INT]]: 1 [[FYT]]: 10 [[NRG]]: 5 [[SWG]]: 20 [[PSI]]: 1  
+
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  250   |   10    |    1    |   10    |    5    |   20    |    1    | 
+
+## Text
 
 [Hunting Party] 
 This card deals 275 DMG divided as you choose to up to three target opposing creatures.  

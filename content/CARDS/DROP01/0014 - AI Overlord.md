@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 675 [[STR]]: 1 [[INT]]: 9 [[FYT]]: 1 [[NRG]]: 9 [[SWG]]: 4 [[PSI]]: 3  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  675   |    1    |    9    |    1    |    9    |    4    |    3    | 
+
+## Text
 
 [Mild Resentment] Discard one (1) card from your hand, then resurrect any discarded robot cards OR take control of opponent's robot cards.  
 

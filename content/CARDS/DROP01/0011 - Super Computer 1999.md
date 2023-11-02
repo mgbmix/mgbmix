@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 400 [[STR]]: 0 [[INT]]: 8 [[FYT]]: 3 [[NRG]]: 8 [[SWG]]: 4 [[PSI]]: 0  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  400   |    0    |    8    |    3    |    8    |    4    |    0    | 
+
+## Text
 
 [Dual Processors] When paired with another [[Fake Tech]] creature, gain a 2x DMG boost for tethered creature.  
 

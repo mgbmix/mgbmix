@@ -31,7 +31,14 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 300 [[STR]]: 4 [[INT]]: 3 [[FYT]]: 2 [[NRG]]: 3 [[SWG]]: 1 [[PSI]]: 4  
+
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  300   |    4    |    3    |    2    |    3    |    1    |    4    | 
+
+## Text
 
 /Strange Glitch/ Roborg can only use each ability once until all three have been used, then they refresh at the end of that turn.  
 

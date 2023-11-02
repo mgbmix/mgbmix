@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 500 [[STR]]: 8 [[INT]]: 3 [[FYT]]: 4 [[NRG]]: 4 [[SWG]]: 2 [[PSI]]: 2  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  500   |    8    |    3    |    4    |    4    |    2    |    2    | 
+
+## Text
 
 /Infiltration Gayborg/ 
 For the purpose of receiving buffs/bonuses, this card may identify as one or more of the following factions: 

@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 350 [[STR]]: 0 [[INT]]: 8 [[FYT]]: 2 [[NRG]]: 10 [[SWG]]: 2 [[PSI]]: 0  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  350   |    0    |    8    |    2    |   10    |    2    | 0        |
+
+## Text
 
 [Alarming Suggestion] Opponent cannot cast [[Fake Tech]] Creature cards for two turns.  
 

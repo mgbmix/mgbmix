@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 700 [[STR]]: 2 [[INT]]: 8 [[FYT]]: 3 [[NRG]]: 6 [[SWG]]: 6 [[PSI]]: 7  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  700   |    2    |    8    |    3    |    6    |    6    |    7    | 
+
+## Text
 
 /Disabled/ Receive Double (2X) [[DMG]] from electric attacks. Weak to EMPs. Electric Chairman is classified as a robot (receives robot-specific DMG).  
 

@@ -31,7 +31,14 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 325 [[STR]]: 2 [[INT]]: 5 [[FYT]]: 3 [[NRG]]: 2 [[SWG]]: 2 [[PSI]]: 4  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  325   |    2    |    5    |    3    |    2    |    2    |    4    | 
+
+
+## Text
 
 [It's the Future of Money] While Blockchain Evangelist is in play, at any point during your turn, any number of times, you may pay two (2) Bitcoin tokens to increase a creature's [[SWG]] by one (1).  
 

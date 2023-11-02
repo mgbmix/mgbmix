@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 650 [[STR]]: 8 [[INT]]: 5 [[FYT]]: 8 [[NRG]]: 4 [[SWG]]: 8 [[PSI]]: 6  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  650   |    8    |    5    |    8    |    4    |    8    |    6    | 
+
+## Text
 
 [Dog The Dog Hunter] 
 Instant kill on dogs, 2X DMG on dog-owning creatures. 

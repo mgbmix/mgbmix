@@ -31,7 +31,13 @@ aliases:
 
 # Rules Text  
 
-[[HP]]: 1500 [[STR]]: 0 [[INT]]: 20 [[FYT]]: 0 [[NRG]]: 10 [[SWG]]: 12 [[PSI]]: 0  
+## Creature Stats
+
+| [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
+|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  1500  |    0    |   20    |    0    |   10    |   12    |    0    | 
+
+## Text
 
 /Bicameral_Mind/ When you play this card, it becomes two (2) creatures. You may use toilet paper and coins if you do not have multiple copies of this card and/or official Mondo Megabits stat tokens (they look like red and blue jellybeans-you should have some in your starter pack SWAG SABRESTACHE). Stack coins on top of toilet paper to represent stats. Each piece of toilet paper gets exactly half the stats shown on this card.  
 
