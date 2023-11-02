@@ -33,6 +33,9 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-CigaretteBum.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  400   |    4    |    3    |    4    |    3    |    2    |    7    | 

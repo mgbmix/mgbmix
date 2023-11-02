@@ -33,10 +33,12 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-StartupGuy.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | 250    | 2       | 5       | 3       | 3       | 3       | 5       | 
-
 
 ## Text
 

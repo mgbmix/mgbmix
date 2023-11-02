@@ -33,6 +33,9 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-IRSStormtrooper.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  650   |    8    |    5    |    8    |    4    |    8    |    6    | 

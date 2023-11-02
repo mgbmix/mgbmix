@@ -33,6 +33,9 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-Meganet.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  600   |    4    |    8    |    2    |    7    |    6    |    9    | 

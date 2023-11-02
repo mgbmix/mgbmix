@@ -33,6 +33,9 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-CardboardRobot 1.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  100   |    2    |    1    |    2    |    0    |    3    |    1    | 

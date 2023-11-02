@@ -33,6 +33,9 @@ aliases:
 
 ## Creature Stats
 
+> [!info]- Stat Chart
+> ![[CStats-MonkeyTerrorists.png]]
+
 | [[HP]] | [[STR]] | [[INT]] | [[FYT]] | [[NRG]] | [[SWG]] | [[PSI]] |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  230   |    9    |    3    |    9    |    0    |    8    |    0    | 

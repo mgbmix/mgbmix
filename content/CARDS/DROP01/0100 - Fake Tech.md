@@ -31,7 +31,7 @@ All attacks deal 75 additional [[DMG]].
 
 | [[Sets\|SET]]           | ![[faketechlogo.png]]          |
 | ------------- | ------------------------------ |
-| Next Card     | none |
+| Next Card     | [[0101 - The Tools You Need]] |
 | Previous Card | [[0099 - Final Narrative]]         |
 
 
