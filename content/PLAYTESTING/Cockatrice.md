@@ -16,17 +16,21 @@ While not a perfect fit given our use case, it is currently the ideal solution f
  
 > [!success] Free to download, free to play online
  
-> [!success] The cardlist I maintain of Mondo Megabits cards is free too. Players have all the cards they need to make any possible deck
+> [!success] The cardlist I maintain of Mondo Megabits cards is free too   
+> Players have all the cards they need to make any possible deck  
 
 > [!success]  I can implement changes quickly and improve card text and rules with ease
 
 ### Downsides to using Cockatrice:
 
-> [!warning] It was designed very clearly for Magic cards, and most of the User Interface has references to that game. Playtesters will need to look past these Magic terms or translate them over to Mondo Megabits terms in their head to get the most out of functionality.
+> [!warning] It was designed very clearly for Magic cards, and most of the User Interface has references to that game  
+> Playtesters will need to look past these Magic terms or translate them over to Mondo Megabits terms in their head to get the most out of functionality.  
 
-> [!warning] The Cockatrice client has a text chat feature, but proper communication during games will need to be done over Discord voice chat.
+> [!warning] The Cockatrice client only has a text chat feature  
+> Proper communication during games will need to be done over Discord voice chat.  
 
-> [!danger] It is very, very, VERY barebones in visuals. If you played [[Tabletop Simulator]] and thought those graphics were too dull, you will struggle to finish a game here. It is literally flat images of cards on a background that we can move around and point at. It's basically the computer version of sitting down at a table to play cards with someone. No more bells and whistles. Good for playtesting, but not if you need something flashy in front of you.
+> [!danger] It is very, very, VERY barebones in visuals  
+> If you played [[Tabletop Simulator]] and thought those graphics were too dull, you will struggle to finish a game here. It is literally flat images of cards on a background that we can move around and point at. It's basically the computer version of sitting down at a table to play cards with someone. No more bells and whistles. Good for playtesting, but not if you need something flashy in front of you.
 
 ## Cockatrice Screenshot
 

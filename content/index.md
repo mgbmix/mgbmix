@@ -9,11 +9,10 @@ Welcome to the knowledge base for -mgbmix-, my custom ruleset for use with Mondo
 
 ![[mgbmix.png]]
 # **-mgbmix-**
-> [!tip] latest version: 0.7  
-> Get the XML file [[0.7|here]]!
+> [!tip] latest version: 0.8  
+> Get the XML file [[0.8|here]]!
 
 > [!success] Join the Discord server! https://discord.gg/ggRZtBuRZU
-
 ^ac845d
 
 Current playtesting is being implemented in the [[Cockatrice]] tabletop game program (https://cockatrice.github.io/)
