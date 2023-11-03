@@ -6,7 +6,7 @@ aliases:
 
 Items are an [[Equip|equippable]] [[CARD TYPES/Card Type|card type]] that can attach to various targets.
 
-> [!note] [[Funding Cost]]
+> [!note] Item cards have a Fixed [[Funding Cost]]
 > Items cost [[2F]] to [[deploy]].
 
  > [!warning] An Item card enters play unattached to any other card.

@@ -17,3 +17,9 @@ Chromeware are a subtype of [[Item]] cards.
 >  - [[0055 - Rogue Implant|Rogue Implant]]
 >  - [[0007 - Xbox Live Vision Camera (HACKED)|Xbox Live Vision Camera (HACKED)]]
 
+#### [[DROP02 - Bum Legion 2099 & F.E.M.A.C.U.B.E.3]]
+
+> [!example]- D02 Chromeware cards (3)
+>  - [[0183 - Credible Threat Generator|Credible Threat Generator]]
+>  - [[0180 - Demonic Centrifuge|Demonic Centrifuge]]
+>  - [[0152 - FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER|FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER]]

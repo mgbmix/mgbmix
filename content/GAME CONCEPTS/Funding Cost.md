@@ -1,6 +1,6 @@
 # Standardized Notation
 
-> [!todo] Any time that a cost needs to be payed with Funding, the amount will be denoted by a number followed by the letter F with no space between.
+> [!todo] Any time that a cost needs to be payed with [[Funding]], the amount will be denoted by a number followed by the letter F with no space between.
 
 Most funding costs will be relatively low, such as [[0F]], [[1F]], [[2F]], [[3F]].  
 Standard funding costs can also reach higher than that, such as [[4F]], [[5F]], [[6F]].  
